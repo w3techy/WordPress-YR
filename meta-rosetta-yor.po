@@ -188,7 +188,7 @@ msgstr "Pin èyí:"
 
 #: mu-plugins/jetpack-settings.php:19 mu-plugins/jetpack-settings.php:20
 msgid "Site Stats"
-msgstr "Àwọn iṣiro Site"
+msgstr "Àwọn iṣiro ìkànnì"
 
 #: plugins/rosetta/inc/user/role/class-general-translation-editor.php:22
 msgid "General Translation Editor"
@@ -358,19 +358,19 @@ msgstr "Wa Àfihàn"
 
 #: mu-plugins/showcase/rosetta-showcase.php:52
 msgid "View Site"
-msgstr "Wo Site"
+msgstr "Wo ìkànnì"
 
 #: mu-plugins/showcase/rosetta-showcase.php:51
 msgid "New Site"
-msgstr "Site Tuntun"
+msgstr "Ìkànnì Tuntun"
 
 #: mu-plugins/showcase/rosetta-showcase.php:50
 msgid "Edit Site"
-msgstr "Ṣàtúnkọ Site"
+msgstr "Ṣàtúnkọ ìkànnì"
 
 #: mu-plugins/showcase/rosetta-showcase.php:49
 msgid "Add New Site"
-msgstr "Ṣe àfikún Site tuntun"
+msgstr "Ṣe àfikún ìkànnì tuntun"
 
 #: mu-plugins/showcase/rosetta-showcase.php:48
 msgctxt "showcase item"
@@ -380,7 +380,7 @@ msgstr "Ṣe àfikún"
 #: mu-plugins/showcase/rosetta-showcase.php:47
 msgctxt "post type singular name"
 msgid "Showcase Site"
-msgstr "Fi Site hàn"
+msgstr "Fi ìkànnì hàn"
 
 #: mu-plugins/showcase/rosetta-showcase.php:46
 msgctxt "post type general name"
@@ -491,7 +491,7 @@ msgstr "<strong>Jọ̀wọ́, má ṣe fi àwọn ìbéèrè àtìlẹ́yìn rá
 
 #: themes/rosetta/contact.php:215
 msgid "You can contact translators and this site administrators via this form:"
-msgstr "O lè kan sí àwọn onítumọ̀ àti àwọn alábòójútó site yìí nípasẹ̀ fọ́ọ̀mù yìí:"
+msgstr "O lè kan sí àwọn onítumọ̀ àti àwọn alábòójútó ìkànnì yìí nípasẹ̀ fọ́ọ̀mù yìí:"
 
 #: themes/rosetta/contact.php:207
 msgid "Thank you!"
@@ -782,7 +782,7 @@ msgstr "Ṣé o dá ọ lójú pé o fẹ́ yọ ipò CLPTE kúrò pátápátá 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:210
 #, gp-priority: low
 msgid "Sites Without Locale Association"
-msgstr "Àwọn Site tí kò ní Ìsopọ̀ Locale"
+msgstr "Àwọn ìkànnì tí kò ní Ìsopọ̀ Locale"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:40
 #, gp-priority: low
@@ -901,7 +901,7 @@ msgstr "Àwọn ohun èlò fún àwọn olóòtú ìtumọ̀"
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:156
 #, gp-priority: low
 msgid "Sites"
-msgstr "Àwọn Site"
+msgstr "Àwọn ìkànnì"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:155
 #, gp-priority: low
@@ -1032,7 +1032,7 @@ msgstr[1] "Gbogbo <span class=\"count\">(%s)</span>"
 #: mu-plugins/roles/rosetta-roles.php:822
 #, gp-priority: low
 msgid "The user couldn&#8217;t be added to this site."
-msgstr "Olùmúlò kò ṣe fi kún sí Site yíì &#8211;"
+msgstr "Olùmúlò kò ṣe fi kún sí ìkànnì yíì &#8211;"
 
 #: mu-plugins/roles/views/edit-translation-editor.php:35
 #, gp-priority: low
@@ -1122,7 +1122,7 @@ msgstr "Olùlò náà kì í ṣe olóòtú ìtumọ̀."
 #: mu-plugins/roles/rosetta-roles.php:821
 #, gp-priority: low
 msgid "The user is not a member of this site."
-msgstr "Olùlò náà kì í ṣe ọmọ ẹgbẹ́ site yíì."
+msgstr "Olùlò náà kì í ṣe ọmọ ẹgbẹ́ ìkànnì yíì."
 
 #: mu-plugins/roles/rosetta-roles.php:820
 #, gp-priority: low
