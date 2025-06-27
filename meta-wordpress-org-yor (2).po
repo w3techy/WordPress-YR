@@ -13,15 +13,15 @@ msgstr ""
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:106
 msgid "Classic Editor to Blocks"
-msgstr "Alatunṣe Agbalagba si Awọn Bulọọki"
+msgstr "Alatunṣe Agbalagba si Awọn Block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:100
 msgid "Divi to Blocks"
-msgstr "Divi si Awọn Bulọọki"
+msgstr "Divi si Awọn Block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:94
 msgid "Figma to Blocks"
-msgstr "Figma si Awọn Bulọọki"
+msgstr "Figma si Awọn Block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:58
 msgid "Drupal to WordPress"
@@ -45,7 +45,7 @@ msgstr "Ṣe iwari ẹya WordPress tuntun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:269
 msgid "The latest major WordPress version includes updates that can improve the blocks you use and enhance your overall site-building experience. Get more details about what features are available in the current release."
-msgstr "Ẹya WordPress tuntun pataki pẹlu awọn imudojuiwọn ti o le mu awọn bulọọki ti o lo dara si ati mu iriri kikọ aaye rẹ lapapọ dara si. Gba awọn alaye diẹ sii nipa kini awọn ẹya wa ninu itusilẹ lọwọlọwọ."
+msgstr "Ẹya WordPress tuntun pataki pẹlu awọn imudojuiwọn ti o le mu awọn block ti o lo dara si ati mu iriri kikọ aaye rẹ lapapọ dara si. Gba awọn alaye diẹ sii nipa kini awọn ẹya wa ninu itusilẹ lọwọlọwọ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:35
 msgid "Upcoming WordPress events"
@@ -108,7 +108,7 @@ msgstr "Awọn API isọdi iṣọkan"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:379
 msgid "Save time with <kbd>⌘G</kbd> for Mac or <kbd>ctrl</kbd> + <kbd>G</kbd> for Windows to group selected blocks and tab to indent list items."
-msgstr "Fi akoko pamọ pẹlu <kbd>⌘G</kbd> fun Mac tabi <kbd>ctrl</kbd> + <kbd>G</kbd> fun Windows lati ṣe akojọpọ awọn bulọọki ti a yan ati taabu lati ṣe ifaagun awọn nkan akojọ."
+msgstr "Fi akoko pamọ pẹlu <kbd>⌘G</kbd> fun Mac tabi <kbd>ctrl</kbd> + <kbd>G</kbd> fun Windows lati ṣe akojọpọ awọn block ti a yan ati taabu lati ṣe ifaagun awọn nkan akojọ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:375
 msgid "Shortcuts for editing"
@@ -116,15 +116,15 @@ msgstr "Awọn ọna abuja fun ṣiṣatunkọ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:357
 msgid "Create a connected block with custom fields using the block bindings API and edit the custom field later directly in the editor."
-msgstr "Ṣẹda bulọọki ti a ti sopọ pẹlu awọn aaye aṣa nipa lilo API awọn abuda bulọọki ki o ṣatunkọ aaye aṣa nigbamii taara ninu olootu."
+msgstr "Ṣẹda block ti a ti sopọ pẹlu awọn aaye aṣa nipa lilo API awọn abuda block ki o ṣatunkọ aaye aṣa nigbamii taara ninu olootu."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:353
 msgid "Edit custom fields from connected blocks"
-msgstr "Ṣatunkọ awọn aaye aṣa lati awọn bulọọki ti a ti sopọ"
+msgstr "Ṣatunkọ awọn aaye aṣa lati awọn block ti a ti sopọ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:343
 msgid "Customize the available presets for aspect ratios for Image, Featured Image, and Cover blocks."
-msgstr "Ṣe akanṣe awọn tito tẹlẹ ti o wa fun awọn ipin abala fun Aworan, Aworan Ifihan, ati awọn bulọọki Ideri."
+msgstr "Ṣe akanṣe awọn tito tẹlẹ ti o wa fun awọn ipin abala fun Aworan, Aworan Ifihan, ati awọn block Ideri."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:339
 msgid "Aspect ratio presets"
@@ -132,11 +132,11 @@ msgstr "Awọn tito tẹlẹ ipin abala"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:315
 msgid "Display blocks in a grid with visual sizing controls to change the row and column span of items to your liking. Auto and manual controls provide even more flexibility."
-msgstr "Ṣafihan awọn bulọọki ninu akojopo pẹlu awọn iṣakoso iwọn wiwo lati yi ila ati iye ọwọn awọn nkan pada si ifẹran rẹ. Awọn iṣakoso aifọwọyi ati afọwọṣe pese irọrun diẹ sii."
+msgstr "Ṣafihan awọn block ninu akojopo pẹlu awọn iṣakoso iwọn wiwo lati yi ila ati iye ọwọn awọn nkan pada si ifẹran rẹ. Awọn iṣakoso aifọwọyi ati afọwọṣe pese irọrun diẹ sii."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:310
 msgid "New grid block"
-msgstr "Bulọọki akoj tuntun"
+msgstr "Block akoj tuntun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:299
 msgid "Create and edit shadows to your liking directly in the Styles section of the Site Editor. This gives you the power to create the exact shadow you’d like."
@@ -148,11 +148,11 @@ msgstr "Awọn ojiji aṣa"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:281
 msgid "Theme authors can pre-package styling options for sections of blocks, adding options for users to apply them as they’d like for a beautiful, consistent design and added flexibility."
-msgstr "Awọn onkọwe akori le ṣe akopọ awọn aṣayan aṣa fun awọn apakan ti awọn bulọọki, fifi awọn aṣayan kun fun awọn olumulo lati lo wọn bi wọn ṣe fẹ fun apẹrẹ ẹlẹwa, deede ati irọrun ti a ṣafikun."
+msgstr "Awọn onkọwe akori le ṣe akopọ awọn aṣayan aṣa fun awọn apakan ti awọn block, fifi awọn aṣayan kun fun awọn olumulo lati lo wọn bi wọn ṣe fẹ fun apẹrẹ ẹlẹwa, deede ati irọrun ti a ṣafikun."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:276
 msgid "Set styles for groups of blocks"
-msgstr "Ṣeto awọn aṣa fun awọn ẹgbẹ ti awọn bulọọki"
+msgstr "Ṣeto awọn aṣa fun awọn ẹgbẹ ti awọn block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:265
 msgid "Classic themes now have access to the patterns experience provided in the Site Editor, which offers a more feature-rich and modern way to manage and create patterns."
@@ -172,7 +172,7 @@ msgstr "Ṣiṣan itẹjade ti a ti tunṣe"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:231
 msgid "Create overlapping designs thanks to the ability to manually input negative values into margin controls. This is automatically available for all blocks that include margin support."
-msgstr "Ṣẹda awọn apẹrẹ ti o ni agbekọja ọpẹ si agbara lati fi ọwọ tẹ awọn iye odi sinu awọn iṣakoso alafo. Eyi wa laifọwọyi fun gbogbo awọn bulọọki ti o pẹlu atilẹyin alafo."
+msgstr "Ṣẹda awọn apẹrẹ ti o ni agbekọja ọpẹ si agbara lati fi ọwọ tẹ awọn iye odi sinu awọn iṣakoso alafo. Eyi wa laifọwọyi fun gbogbo awọn block ti o pẹlu atilẹyin alafo."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:227
 msgid "Negative margins"
@@ -180,7 +180,7 @@ msgstr "Awọn alafo odi"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:202
 msgid "55+ accessibility fixes and enhancements focus on foundational aspects of the WordPress experience, particularly the data views component powering the new site editing experience and areas like the Inserter that provide a key way of interacting with blocks and patterns."
-msgstr "Awọn atunṣe irọrun wiwọle 55+ ati awọn ilọsiwaju dojukọ awọn abala ipilẹ ti iriri WordPress, ni pataki paati awọn iwo data ti n ṣe agbara iriri ṣiṣatunkọ aaye tuntun ati awọn agbegbe bii Olufisisi ti o pese ọna bọtini ti ibaraenisepo pẹlu awọn bulọọki ati awọn apẹrẹ."
+msgstr "Awọn atunṣe irọrun wiwọle 55+ ati awọn ilọsiwaju dojukọ awọn abala ipilẹ ti iriri WordPress, ni pataki paati awọn iwo data ti n ṣe agbara iriri ṣiṣatunkọ aaye tuntun ati awọn agbegbe bii Olufisisi ti o pese ọna bọtini ti ibaraenisepo pẹlu awọn block ati awọn apẹrẹ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:184
 msgid "6.6 includes important updates like removing redundant <code>WP_Theme_JSON</code> calls, disabling autoload for large options, eliminating unnecessary polyfill dependencies, lazy loading post embeds, introducing the <code>data-wp-on-async</code> directive, and a 40% reduction in template loading time in the editor."
@@ -188,7 +188,7 @@ msgstr "6.6 pẹlu awọn imudojuiwọn pataki bii yiyọ awọn ipe <code>WP_Th
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:162
 msgid "<strong>Add the ability to customize content in synced patterns.</strong><br>Allow specific pieces of content to be customized in each instance of a synced pattern while keeping a consistent style for all instances, simplifying future updates. Currently, you can set overrides for Heading, Paragraph, Button, and Image blocks."
-msgstr "<strong>Ṣafikun agbara lati ṣe akanṣe akoonu ninu awọn apẹrẹ amuṣiṣẹpọ.</strong><br>Gba laaye awọn ege akoonu kan pato lati ṣe akanṣe ni apẹẹrẹ kọọkan ti apẹrẹ amuṣiṣẹpọ lakoko ti o n ṣetọju aṣa deede fun gbogbo awọn apẹẹrẹ, ti n sọ awọn imudojuiwọn ọjọ iwaju di irọrun. Lọwọlọwọ, o le ṣeto awọn atunṣe fun Akọle, Paragira, Bọtini, ati awọn bulọọki Aworan."
+msgstr "<strong>Ṣafikun agbara lati ṣe akanṣe akoonu ninu awọn apẹrẹ amuṣiṣẹpọ.</strong><br>Gba laaye awọn ege akoonu kan pato lati ṣe akanṣe ni apẹẹrẹ kọọkan ti apẹrẹ amuṣiṣẹpọ lakoko ti o n ṣetọju aṣa deede fun gbogbo awọn apẹẹrẹ, ti n sọ awọn imudojuiwọn ọjọ iwaju di irọrun. Lọwọlọwọ, o le ṣeto awọn atunṣe fun Akọle, Paragira, Bọtini, ati awọn block Aworan."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:158
 msgid "Overrides"
