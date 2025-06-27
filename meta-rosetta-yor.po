@@ -18,7 +18,7 @@ msgstr ""
 #, gp-priority: high
 msgctxt "Menu title"
 msgid "News"
-msgstr "Iroyin"
+msgstr "Ìròyìn"
 
 #. translators: This is the menu title used on the localised WordPress homepage
 #. menu.
@@ -26,7 +26,7 @@ msgstr "Iroyin"
 #, gp-priority: high
 msgctxt "Menu title"
 msgid "Documentation"
-msgstr "Akosile"
+msgstr "Àkọsílẹ̀"
 
 #: plugins/rosetta/inc/class-plugin.php:85
 #, gp-priority: high
@@ -40,7 +40,7 @@ msgstr "Gba WordPress"
 #, gp-priority: high
 msgctxt "Menu title"
 msgid "Support"
-msgstr "Atilẹyin"
+msgstr "Àtìlẹ́yìn"
 
 #. translators: This is the menu title used on the localised WordPress homepage
 #. menu.
@@ -49,7 +49,7 @@ msgstr "Atilẹyin"
 #, gp-priority: high
 msgctxt "Menu title"
 msgid "About"
-msgstr "Nipa"
+msgstr "Nípa"
 
 #. translators: This is the menu title used on the localised WordPress homepage
 #. menu.
@@ -57,7 +57,7 @@ msgstr "Nipa"
 #, gp-priority: high
 msgctxt "Menu title"
 msgid "Team"
-msgstr "Omo Egbe"
+msgstr "Ẹgbẹ́"
 
 #. translators: default start of the week. 0 = Sunday, 1 = Monday
 #: plugins/rosetta/inc/class-plugin.php:167
@@ -133,11 +133,11 @@ msgstr "F j, Y"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:91
 msgid "Show all releases"
-msgstr "Ṣe afihan gbogbo awọn ifiloole"
+msgstr "Ṣe àfihàn gbogbo àwọn release"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:63
 msgid "<strong>Hint:</strong> You can delete all builds which are not intended for release."
-msgstr "<strong>Imọran:</strong> O le pa gbogbo awọn \"builds\" ti o ko pinnu funi dasilẹ rẹ."
+msgstr "<strong>Ìmọ̀ràn:</strong> O lè pa gbogbo àwọn \"builds\" tí o kò pète fún release rẹ."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:122
 msgid "&mdash; Select &mdash;"
@@ -145,11 +145,11 @@ msgstr "&mdash; Yan &mdash;"
 
 #: plugins/rosetta/inc/site/class-locale-main.php:76
 msgid "Resources for translation contributors"
-msgstr "Awọn ohun elo fun awọn oluranlọwọ itumọ"
+msgstr "Àwọn ohun èlò fún àwọn olùrànlọ́wọ́ ìtumọ̀"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:85
 msgid "The locale does not exist yet."
-msgstr "Locale yii ko ti sii bayi"
+msgstr "Locale yìí kò tíì sí báyìí"
 
 #. translators: 1: Parent project name, 2: Child project name
 #: mu-plugins/roles/rosetta-roles.php:634
@@ -158,41 +158,41 @@ msgstr "%1$s &rarr; %2$s"
 
 #: plugins/rosetta/inc/user/role/class-locale-manager.php:22
 msgid "Locale Manager"
-msgstr "Alakoso Locale"
+msgstr "Alákòóso Locale"
 
 #: mu-plugins/showcase/rosetta-showcase.php:59
 msgid "Use as website screenshot"
-msgstr "Lo bi screenshot wẹẹbu"
+msgstr "Lò bí screenshot wẹ́ẹ̀bù"
 
 #: mu-plugins/showcase/rosetta-showcase.php:58
 msgid "Remove website screenshot"
-msgstr "Yọ screenshot wẹẹbu kuro"
+msgstr "Yọ screenshot wẹ́ẹ̀bù kúrò"
 
 #: mu-plugins/showcase/rosetta-showcase.php:57
 msgid "Set website screenshot"
-msgstr "Yan screenshot wẹẹbu"
+msgstr "Yan screenshot wẹ́ẹ̀bù"
 
 #: mu-plugins/showcase/rosetta-showcase.php:56
 msgid "Website Screenshot"
-msgstr "Screenshot wẹẹbu"
+msgstr "Screenshot wẹ́ẹ̀bù"
 
 #. translators: %s: post title
 #: mu-plugins/showcase/rosetta-showcase.php:210
 msgid "&#8220;%s&#8221; (Edit)"
-msgstr "&#8220;%s&#8221; (Ṣatunkọ)"
+msgstr "&#8220;%s&#8221; (Ṣàtúnkọ)"
 
 #: plugins/rosetta/inc/site/class-locale-main.php:102
 #: plugins/rosetta/inc/site/class-locale-team.php:68
 msgid "Share this:"
-msgstr "Pin eyi:"
+msgstr "Pin èyí:"
 
 #: mu-plugins/jetpack-settings.php:19 mu-plugins/jetpack-settings.php:20
 msgid "Site Stats"
-msgstr "Awọn iṣiro Saiti"
+msgstr "Àwọn iṣiro ìkànnì"
 
 #: plugins/rosetta/inc/user/role/class-general-translation-editor.php:22
 msgid "General Translation Editor"
-msgstr "Olootu Itumọ Gbogbogbo"
+msgstr "Olóòtú Ìtumọ̀ Gbogbogbò"
 
 #. translators: 1: Parent project name, 2: Child project name
 #: mu-plugins/roles/class-translation-editors-list-table.php:345
@@ -201,11 +201,11 @@ msgstr "%1$s &rarr;  %2$s"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:175
 msgid "If the WordPress version you want to use isn&#8217;t tagged enter <a href=\"%s\">a revision number</a> here to get the right files."
-msgstr "Ti version WordPress ti o fẹ lati lo ko ba ni taagi, tẹ <a href=\"%s\">nọmba atunyẹwo</a> nibi lati gba awọn faili to tọ."
+msgstr "Tí version WordPress tí o fẹ́ láti lò kò bá ní tag, tẹ <a href=\"%s\">nọ́mbà àtúnyẹ̀wò</a> níbí láti gba àwọn fáìlì tó tọ́."
 
 #: themes/rosetta/single.php:26
 msgid "Previous post:"
-msgstr "Abala to koja"
+msgstr "Àtẹ̀jáde tó kọjá"
 
 #: themes/rosetta/single.php:25
 msgid "Previous"
@@ -221,31 +221,31 @@ msgstr "Padà sẹ́yìn"
 
 #: themes/rosetta/index.php:16
 msgid "Read on for more &raquo;"
-msgstr "Ka siwaju fun diẹ ẹ sii & raquo;"
+msgstr "Ka síwájú fún díẹ̀ ẹ sii &raquo;"
 
 #: themes/rosetta/sidebar-blog.php:1
 msgid "Categories"
-msgstr "Awọn ẹka"
+msgstr "Àwọn Ẹ̀ka"
 
 #: themes/rosetta/archive.php:42 themes/rosetta/index.php:30
 #: themes/rosetta/single.php:40
 msgid "Older Posts &raquo;"
-msgstr ""
+msgstr "Àwọn àtẹ̀jáde àtijọ́ &raquo;"
 
 #: themes/rosetta/archive.php:42 themes/rosetta/index.php:30
 #: themes/rosetta/single.php:40
 msgid "&laquo; Newer Posts"
-msgstr ""
+msgstr "&laquo; Àwọn àtẹ̀jáde tuntun"
 
 #: themes/rosetta/archive.php:35 themes/rosetta/index.php:26
 #: themes/rosetta/single.php:37
 msgid "Sorry, no posts matched your criteria."
-msgstr ""
+msgstr "Má bínú, kò sí àtẹ̀jáde kankan tí ó bá àwárí rẹ mu."
 
 #. translators: %s: list of categories
 #: themes/rosetta/inc/template-tags.php:39
 msgid "Filed under %s."
-msgstr ""
+msgstr "Ti fi pamọ́ sábẹ́ %s."
 
 #: themes/rosetta/inc/template-tags.php:30
 msgctxt "Used between list items, there is a space after the comma."
@@ -255,38 +255,38 @@ msgstr ", "
 #. translators: 1: post date 2: post author
 #: themes/rosetta/inc/template-tags.php:24
 msgid "Posted on %1$s by %2$s."
-msgstr "Fi Jade ni %1$s by %2$s."
+msgstr "Fífi ránṣẹ́ ní %1$s látọwọ́ %2$s."
 
 #: themes/rosetta/inc/template-tags.php:7
 msgid "Featured"
-msgstr "Ere ifihan"
+msgstr "Ẹ̀yà pàtàkì"
 
 #: themes/rosetta/download.php:69
 msgid "There are no releases, yet."
-msgstr "Ko si release kankan bayi"
+msgstr "Kò sí release kankan báyìí"
 
 #: themes/rosetta/comments.php:38
 msgid "Comments are closed."
-msgstr "Àtìpa ìdáásí de"
+msgstr "Àwọn àríwísí ti wa ní títìpa."
 
 #: themes/rosetta/comments.php:17
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Èrò kàn lórí &ldquo;%2$s&rdquo;"
+msgstr[0] "Èrò kan lórí &ldquo;%2$s&rdquo;"
 msgstr[1] "Àwọn èrò %1$s lórí &ldquo;%2$s&rdquo;"
 
 #: themes/rosetta/404.php:12
 msgid "The page you were looking for could not be found. I&#8217;m sorry, it&#8217;s not your fault&hellip; probably."
-msgstr "Oju-iwe ti o n wa ko ṣee ri. Ma binu, kii ṣe ẹbi rẹ &hellip; jasi."
+msgstr "Ojú-ewé tí ò ń wá kò ṣeé rí. Má bínú, kìí ṣe ẹ̀bi rẹ... bóyá."
 
 #: themes/rosetta/404.php:5
 msgid "Page Not Found"
-msgstr "A ko ri Oju-iwe  naa"
+msgstr "A Kò Rí Ojú-ewé Náà"
 
 #: plugins/rosetta/inc/user/role/class-translation-editor.php:22
 msgid "Translation Editor"
-msgstr "Olootu Itumọ"
+msgstr "Olóòtú Ìtumọ̀"
 
 #: mu-plugins/downloads/rosetta-downloads.php:158
 #: mu-plugins/downloads/rosetta-downloads.php:181
@@ -306,13 +306,13 @@ msgstr "Y/m/d g:i:s A"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:184
 msgid "Translation of default themes:"
-msgstr ""
+msgstr "Ìtumọ̀ àwọn themes àkọ́kọ́:"
 
 #: mu-plugins/rosetta/rosetta-sites.php:398
 #: mu-plugins/rosetta/rosetta-sites.php:399
 #: mu-plugins/rosetta/tmpl/release-packages.php:2
 msgid "Release Packages"
-msgstr "Release Packages"
+msgstr "Àwọn Release Package"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:189
 msgid "Build Package"
@@ -320,7 +320,7 @@ msgstr "Build Package"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:186
 msgid "Theme translation will be taken from the theme projects inside the translate.wordpress.org project you chose."
-msgstr ""
+msgstr "Ìtumọ̀ theme ni a óò gba láti inú àwọn iṣẹ́ theme nínú iṣẹ́ translate.wordpress.org tí o yàn."
 
 #: mu-plugins/showcase/rosetta-showcase.php:188
 msgid "Website"
@@ -333,7 +333,7 @@ msgstr "Aworan"
 #: mu-plugins/showcase/rosetta-showcase.php:130
 #: mu-plugins/showcase/rosetta-showcase.php:189
 msgid "Description"
-msgstr "Apejuwe"
+msgstr "Àpèjúwe"
 
 #: mu-plugins/showcase/rosetta-showcase.php:128
 #: mu-plugins/showcase/rosetta-showcase.php:190
@@ -342,89 +342,89 @@ msgstr "URL"
 
 #: mu-plugins/showcase/rosetta-showcase.php:112
 msgid "Description and URL"
-msgstr "Apejuwe ati URL"
+msgstr "Àpèjúwe àti URL"
 
 #: mu-plugins/showcase/rosetta-showcase.php:55
 msgid "Nothing found in Trash"
-msgstr "Ko si ohun ti a ri ni Trash"
+msgstr "Kò sí ohun tí a rí nínú Trash"
 
 #: mu-plugins/showcase/rosetta-showcase.php:54
 msgid "Nothing found"
-msgstr "Ko si nkankan"
+msgstr "Kò sí nǹkan kan"
 
 #: mu-plugins/showcase/rosetta-showcase.php:53
 msgid "Search Showcase"
-msgstr "Wa Afihan"
+msgstr "Wa Àfihàn"
 
 #: mu-plugins/showcase/rosetta-showcase.php:52
 msgid "View Site"
-msgstr "Wo Saiti"
+msgstr "Wo ìkànnì"
 
 #: mu-plugins/showcase/rosetta-showcase.php:51
 msgid "New Site"
-msgstr "Saiti Titun"
+msgstr "Ìkànnì Tuntun"
 
 #: mu-plugins/showcase/rosetta-showcase.php:50
 msgid "Edit Site"
-msgstr "Ṣatunkọ Saiti"
+msgstr "Ṣàtúnkọ ìkànnì"
 
 #: mu-plugins/showcase/rosetta-showcase.php:49
 msgid "Add New Site"
-msgstr "Se afikun Saiti titun"
+msgstr "Ṣe àfikún ìkànnì tuntun"
 
 #: mu-plugins/showcase/rosetta-showcase.php:48
 msgctxt "showcase item"
 msgid "Add New"
-msgstr "Se afikun"
+msgstr "Ṣe àfikún"
 
 #: mu-plugins/showcase/rosetta-showcase.php:47
 msgctxt "post type singular name"
 msgid "Showcase Site"
-msgstr "Fi Saiti han"
+msgstr "Fi ìkànnì hàn"
 
 #: mu-plugins/showcase/rosetta-showcase.php:46
 msgctxt "post type general name"
 msgid "Showcase"
-msgstr "Afihan"
+msgstr "Àfihàn"
 
 #: mu-plugins/downloads/rosetta-downloads.php:165
 msgctxt "locales"
 msgid "All"
-msgstr "Lapapo"
+msgstr "Lápapọ̀"
 
 #: mu-plugins/downloads/rosetta-downloads.php:146
 msgid "This page shows the <a href=\"%s\">Download Counter</a> number &mdash; total downloads of WordPress %s &mdash; broken down by locale."
-msgstr "Oju-iwe yii ṣe afihan nọmba <a href=\"%s\">downloodu</a> & mdash; lapapọ awọn downloadu WordPress %s & mdash; nipa locale."
+msgstr "Ojú-ewé yìí ṣe àfihàn nọ́mbà <a href=\"%s\">Download Counter</a> &mdash; àpapọ̀ àwọn download WordPress %s &mdash; ní ìsọ̀rí locale."
 
 #: mu-plugins/downloads/rosetta-downloads.php:31
 #: mu-plugins/downloads/rosetta-downloads.php:32
 #: mu-plugins/downloads/rosetta-downloads.php:142
 msgid "Download Stats"
-msgstr ""
+msgstr "Àwọn iṣiro Download"
 
 #: mu-plugins/rosetta/builder.php:501
 msgid "Error in exporting iis branch from locale repository."
-msgstr ""
+msgstr "Àṣìṣe ní fífi iis branch ránṣẹ́ láti ibi ìpamọ́ locale."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:185
 msgid "Default theme translation will be taken from <code>messages/theme-name/%s.po</code> in your locale branch."
-msgstr ""
+msgstr "Ìtumọ̀ theme àkọ́kọ́ ni a óò gba láti inú <code>messages/theme-name/%s.po</code> nínú locale branch rẹ."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:181
 msgid "This number will appear in the filename of your release. Doesn&#8217;t determine which version of WordPress you will get."
-msgstr ""
+msgstr "Nọ́mbà yìí yóò hàn nínú orúkọ fáìlì release rẹ. Kò ní ṣe ìpinnu irú version WordPress tí ìwọ yóò gbà."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:161
 msgid "Project name at translate.wordpress.org. Determines which version of WordPress you will get."
-msgstr ""
+msgstr "Orúkọ iṣẹ́ ní translate.wordpress.org. Èyí yóò ṣe ìpinnu irú version WordPress tí ìwọ yóò gbà."
 
 #: themes/rosetta/sidebar-blog.php:6
 msgid "Blog Archives"
-msgstr ""
+msgstr "Àwọn àpamọ́ Blog"
 
 #: themes/rosetta/front-page.php:143
 msgid "Permanent Link to %s"
-msgstr ""
+msgstr "Ìjápọ̀ tíkòyípadà sí %s"
 
 #: themes/rosetta/front-page.php:96
 msgid "Visit the site &rarr;"
@@ -452,15 +452,15 @@ msgstr "Release titun"
 
 #: themes/rosetta/sidebar-page.php:32
 msgid "For help with installing or using WordPress, consult our documentation in your language."
-msgstr "Fun iranlọwọ pẹlu instalation tabi lilo WordPress, kan si awọn akosile wa ni ede rẹ."
+msgstr "Fún ìrànlọ́wọ́ pẹ̀lú ìgbékalẹ̀ tàbí lílo WordPress, kan sí àwọn àkọsílẹ̀ wa ní èdè rẹ."
 
 #: themes/rosetta/functions.php:31 themes/rosetta/sidebar-page.php:30
 msgid "Resources"
-msgstr "Ohun elo"
+msgstr "Àwọn Ohun Èlò"
 
 #: themes/rosetta/sidebar-page.php:22
 msgid "Download .tar.gz &mdash; %s MB"
-msgstr "Gba .tar.gz &mdash; %s MB"
+msgstr "Download .tar.gz &mdash; %s MB"
 
 #: themes/rosetta/sidebar-page.php:17
 msgid ".zip &mdash; %s MB"
@@ -468,15 +468,15 @@ msgstr ".zip &mdash; %s MB"
 
 #: themes/rosetta/sidebar-page.php:11
 msgid "Download WordPress %s"
-msgstr "Gba WordPress %s"
+msgstr "Download WordPress %s"
 
 #: themes/rosetta/contact.php:267
 msgid "Submit Contact Form"
-msgstr "Fi Fọọmù ranse"
+msgstr "Fi Fọ́ọ̀mù Ìbánisọ̀rọ̀ Ránṣẹ́"
 
 #: themes/rosetta/contact.php:258
 msgid "Tell us something:"
-msgstr "Sọ fun wa nkankan:"
+msgstr "Sọ fún wa ní nǹkan kan:"
 
 #: themes/rosetta/contact.php:226 themes/rosetta/contact.php:234
 #: themes/rosetta/contact.php:250 themes/rosetta/contact.php:258
@@ -487,70 +487,70 @@ msgstr "(dandan)"
 #. your language.
 #: themes/rosetta/contact.php:217 themes/rosetta/functions.php:45
 msgid "<strong>Please, do not post support requests here!</strong> They will probably be ignored."
-msgstr "<strong>Jọwọ, maṣe fi awọn ibeere fun atilẹyin ranṣẹ si ibi!</strong> A ki yo da o lohun."
+msgstr "<strong>Jọ̀wọ́, má ṣe fi àwọn ìbéèrè àtìlẹ́yìn ránṣẹ́ síbí!</strong> Ó ṣeé ṣe kí á fojú fò ó dá."
 
 #: themes/rosetta/contact.php:215
 msgid "You can contact translators and this site administrators via this form:"
-msgstr "O le kan si awọn onitumọ ati awọn alakoso saiti yii nipasẹ fọọmu yii:"
+msgstr "O lè kan sí àwọn onítumọ̀ àti àwọn alábòójútó ìkànnì yìí nípasẹ̀ fọ́ọ̀mù yìí:"
 
 #: themes/rosetta/contact.php:207
 msgid "Thank you!"
-msgstr "A dupe!"
+msgstr "A dúpẹ́!"
 
 #: themes/rosetta/contact.php:206
 msgid "Submitted!"
-msgstr "Ti fi sowo!"
+msgstr "A ti fi í ránṣẹ́!"
 
 #: themes/rosetta/contact.php:151
 msgid "Submit Form Again"
-msgstr "Fi Fọọmu na sowo Lẹẹkansi"
+msgstr "Fi Fọ́ọ̀mù Ránṣẹ́ Lẹ́ẹ̀kansíi"
 
 #: themes/rosetta/contact.php:134
 msgid "Say something!"
-msgstr "So nkankan!"
+msgstr "Sọ nǹkan kan!"
 
 #: themes/rosetta/contact.php:130 themes/rosetta/contact.php:140
 msgid "Your Message:"
-msgstr "Ifiranṣẹ rẹ:"
+msgstr "Ìfiranṣẹ́ Rẹ:"
 
 #: themes/rosetta/contact.php:113
 msgid "Write something!"
-msgstr "Kọ nkankan!"
+msgstr "Kọ nǹkan kan!"
 
 #: themes/rosetta/contact.php:109 themes/rosetta/contact.php:119
 #: themes/rosetta/contact.php:250
 msgid "What&rsquo;s this about?"
-msgstr ""
+msgstr "Kíni èyí dá lé lórí?"
 
 #: themes/rosetta/contact.php:99 themes/rosetta/contact.php:242
 msgid "URI of your blog:"
-msgstr ""
+msgstr "URI blog rẹ:"
 
 #: themes/rosetta/contact.php:83
 msgid "Your email address did not appear to be valid. Please check it."
-msgstr "Adirẹsi imeeli rẹ ko han pe o je ojulowo. Jọwọ ṣayẹwo."
+msgstr "Àdírẹ́sì email rẹ kò hàn pé ó jẹ́ òótọ́. Jọ̀wọ́ ṣàyẹ̀wò rẹ̀."
 
 #: themes/rosetta/contact.php:79 themes/rosetta/contact.php:89
 #: themes/rosetta/contact.php:234
 msgid "Your Email:"
-msgstr "Imeeli rẹ:"
+msgstr "Email Rẹ:"
 
 #: themes/rosetta/contact.php:62
 msgid "Let us know your name."
-msgstr "Jẹ ki a mọ orukọ rẹ."
+msgstr "Jẹ́ kí á mọ orúkọ rẹ."
 
 #: themes/rosetta/contact.php:58 themes/rosetta/contact.php:68
 #: themes/rosetta/contact.php:226
 msgid "Your Name:"
-msgstr "Orukọ rẹ:"
+msgstr "Orúkọ Rẹ:"
 
 #: themes/rosetta/contact.php:51
 msgid "There seems to have been a problem with the information you entered. Please fix the field indicated and resubmit."
-msgstr "O dabi ẹni pe iṣoro ti wa pẹlu alaye ti o tẹ sii. Jọwọ ṣe atunṣe aaye ti a tọka si"
+msgstr "Ó dàbíi pé ìṣòro kan wà pẹ̀lú ìwífún tí o fi sílẹ̀. Jọ̀wọ́ ṣàtúnṣe ibi tí a tọ́ka sí kí o sì tún fi ránṣẹ́."
 
 #: themes/rosetta/contact.php:50
 msgid "Error"
-msgstr "Asise"
+msgstr "Àṣìṣe"
 
 #: themes/rosetta/archive.php:14
 msgid "&laquo; Back to blog"
@@ -570,229 +570,229 @@ msgstr "Atunyẹwo WordPress:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:169
 msgid "The directory from the WordPress repository, from which the package will be built."
-msgstr ""
+msgstr "Atọ́ka láti ibi ìpamọ́ WordPress, níbi tí package yóò ti wá."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:164
 msgid "WordPress branch:"
-msgstr ""
+msgstr "WordPress branch:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:156
 msgid "Project:"
-msgstr ""
+msgstr "Iṣẹ́:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:153
 msgid "The directory from your repository, from which the dist files will be taken."
-msgstr ""
+msgstr "Atọ́ka láti ibi ìpamọ́ rẹ, níbi tí àwọn fáìlì dist yóò ti wá."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:152
 msgid "The directory from your repository, from which the package will be built."
-msgstr ""
+msgstr "Atọ́ka láti ibi ìpamọ́ rẹ, níbi tí package yóò ti wá."
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:147
 msgid "Locale branch for dist files:"
-msgstr "Ẹka Locale fun awon faiili dist:"
+msgstr "Locale branch fún àwọn fáìlì dist:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:146
 msgid "Locale branch:"
-msgstr "Ẹka Locale"
+msgstr "Locale branch:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:139
 msgid "(<code>dist/</code> files will still be taken from Subversion)"
-msgstr ""
+msgstr "(<code>dist/</code> àwọn fáìlì ni a óò ṣì máa gbà láti Subversion)"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:143
 msgid "Subversion"
-msgstr ""
+msgstr "Subversion"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:136
 msgid "Where should we get your translations from:"
-msgstr "Nibo ni o yẹ ki a ti gba awọn itumọ rẹ:"
+msgstr "Níbo ni kí á ti gba àwọn ìtumọ̀ rẹ:"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:126
 msgid "Build New Package"
-msgstr "Build Package titun"
+msgstr "Build Package Tuntun"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:119
 msgid "No Releases"
-msgstr "Kosi awon ifilole"
+msgstr "Kò sí Àwọn Release"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:76
 msgid "Released On"
-msgstr "Ifilole re ni"
+msgstr "Release Ní"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:70
 msgid "Releases"
-msgstr "Awon ifilole"
+msgstr "Àwọn Release"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:56
 msgid "Go and build a localized version &raquo;"
-msgstr ""
+msgstr "Lọ kí o sì build version agbègbè &raquo;"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:43
 msgid "Release"
-msgstr "Ifilole"
+msgstr "Release"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:18
 msgid "Locale Branch"
-msgstr "Ẹka Locale"
+msgstr "Locale Branch"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:17
 msgid "Built On"
-msgstr "Built On"
+msgstr "Build Ní"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:16
 #: mu-plugins/rosetta/tmpl/release-packages.php:75
 msgid "Links"
-msgstr ""
+msgstr "Àwọn Ìjápọ̀"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:15
 #: mu-plugins/rosetta/tmpl/release-packages.php:74
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:11
 msgid "Builds"
-msgstr ""
+msgstr "Builds"
 
 #: themes/rosetta/functions.php:30
 msgid "Main Menu"
-msgstr ""
+msgstr "Àkójọ Àṣàyàn Àkọ́kọ́"
 
 #: mu-plugins/rosetta/tmpl/release-packages.php:19
 #: mu-plugins/rosetta/tmpl/release-packages.php:77
 msgid "Action"
-msgstr ""
+msgstr "Ìgbésẹ̀"
 
 #: mu-plugins/rosetta/rosetta.php:425
 msgid "Couldn&#8217;t delete release file %s"
-msgstr ""
+msgstr "Kò lè pa fáìlì release %s rẹ́"
 
 #: mu-plugins/rosetta/rosetta.php:413
 msgid "Couldn&#8217;t delete build file %s"
-msgstr ""
+msgstr "Kò lè pa fáìlì build %s rẹ́"
 
 #: mu-plugins/rosetta/rosetta.php:397
 msgid "Couldn&#8217;t copy %1$s to release dir %2$s"
-msgstr ""
+msgstr "Kò lè ṣàdàkọ %1$s sí release dir %2$s"
 
 #: mu-plugins/rosetta/rosetta.php:118
 msgid "Couldn&#8217;t move %s to %s."
-msgstr ""
+msgstr "Kò lè gbé %s sí %s."
 
 #: mu-plugins/rosetta/rosetta.php:43 mu-plugins/rosetta/rosetta.php:44
 #: mu-plugins/rosetta/rosetta.php:388 mu-plugins/rosetta/rosetta.php:408
 msgid "Invalid source %s."
-msgstr ""
+msgstr "Orísun %s àìtọ́."
 
 #: mu-plugins/rosetta/rosetta.php:42
 msgid "Invalid revision %s."
-msgstr ""
+msgstr "Àtúnyẹ̀wò %s àìtọ́."
 
 #: mu-plugins/rosetta/rosetta.php:41 mu-plugins/rosetta/rosetta.php:387
 #: mu-plugins/rosetta/rosetta.php:407 mu-plugins/rosetta/rosetta.php:420
 msgid "Invalid version %s."
-msgstr ""
+msgstr "Version %s àìtọ́."
 
 #: mu-plugins/rosetta/builder.php:573
 msgid "Couldn&#8217;t create mo file %s from po file %s!"
-msgstr ""
+msgstr "Kò lè ṣẹ̀dá fáìlì mo %s láti inú fáìlì po %s!"
 
 #: mu-plugins/rosetta/builder.php:568
 msgid "Po file %s doesn&#8217;t exist!"
-msgstr ""
+msgstr "Fáìlì po %s kò sí!"
 
 #: mu-plugins/rosetta/builder.php:543 mu-plugins/rosetta/builder.php:580
 msgid "Couldn&#8217;t copy %s to %s!"
-msgstr ""
+msgstr "Kò lè ṣàdàkọ %s sí %s!"
 
 #: mu-plugins/rosetta/builder.php:534 mu-plugins/rosetta/rosetta.php:91
 msgid "Couldn&#8217;t create directory %s!"
-msgstr ""
+msgstr "Kò lè ṣẹ̀dá atọ́ka %s!"
 
 #: mu-plugins/rosetta/builder.php:525
 msgid "Couldn&#8217;t open directory %s for reading!"
-msgstr ""
+msgstr "Kò lè ṣí atọ́ka %s fún kíkà!"
 
 #: mu-plugins/rosetta/builder.php:507
 msgid "Error moving iis files to build directory."
-msgstr ""
+msgstr "Àṣìṣe ní gbígbé àwọn fáìlì iis sí atọ́ka build."
 
 #: mu-plugins/rosetta/builder.php:488
 msgid "Error in exporting theme/%s. Probably this branch/tag doesn&#8217;t exist."
-msgstr ""
+msgstr "Àṣìṣe ní fífi theme/%s ránṣẹ́. Ó ṣeé ṣe kí branch/tag yìí má sí."
 
 #: mu-plugins/rosetta/builder.php:457
 msgid "Couldn&#8217;t create temporary directory %s!"
-msgstr ""
+msgstr "Kò lè ṣẹ̀dá atọ́ka %s fún ìgbà díẹ̀!"
 
 #: mu-plugins/rosetta/builder.php:453
 msgid "Couldn&#8217;t delete temporary file %s!"
-msgstr ""
+msgstr "Kò lè pa fáìlì %s fún ìgbà díẹ̀ rẹ́!"
 
 #: mu-plugins/rosetta/builder.php:449
 msgid "Couldn&#8217;t create a temporary file!"
-msgstr ""
+msgstr "Kò lè ṣẹ̀dá fáìlì fún ìgbà díẹ̀!"
 
 #: mu-plugins/rosetta/builder.php:415
 msgid "The default key in dist/wp-config-sample.php does&#8217;t match $wp_default_secret_key in %1$s.php. The one in the sample config is:<p><code>%2$s</code></p><p>and the one in %1$s.php is:</p><p><code>%3$s</code></p>"
-msgstr ""
+msgstr "Kọ́kọ́rọ́ àkọ́kọ́ nínú dist/wp-config-sample.php kò bá $wp_default_secret_key nínú %1$s.php mu. Èyí tó wà nínú àpẹẹrẹ config ni:<p><code>%2$s</code></p><p>àti èyí tó wà nínú %1$s.php ni:</p><p><code>%3$s</code></p>"
 
 #: mu-plugins/rosetta/builder.php:340
 msgid "The locale %s doesn&#8217;t have associated locale in GlotPress."
-msgstr ""
+msgstr "Locale %s kò ní locale tí ó jọmọ́ nínú GlotPress."
 
 #: mu-plugins/rosetta/builder.php:330
 msgid "Couldn&#8217;t write downloaded file to %s"
-msgstr ""
+msgstr "Kò lè kọ fáìlì tí a download sí %s"
 
 #: mu-plugins/rosetta/builder.php:325
 msgid "Couldn&#8217;t retrieve the file from: %s"
-msgstr ""
+msgstr "Kò lè gba fáìlì náà láti: %s"
 
 #: mu-plugins/rosetta/builder.php:258
 msgid "No svn branch associated with this project."
-msgstr ""
+msgstr "Kò sí svn branch tí ó jọmọ́ iṣẹ́ yìí."
 
 #: mu-plugins/rosetta/builder.php:229
 msgid "Couldn't write wp-config-sample.php"
-msgstr ""
+msgstr "Kò lè kọ wp-config-sample.php"
 
 #: mu-plugins/rosetta/builder.php:222
 msgid "Couldn't open wp-config-sample.php"
-msgstr ""
+msgstr "Kò lè ṣí wp-config-sample.php"
 
 #: mu-plugins/rosetta/builder.php:215
 msgid "Couldn't write version.php"
-msgstr ""
+msgstr "Kò lè kọ version.php"
 
 #: mu-plugins/rosetta/builder.php:204
 msgid "Couldn't open version.php"
-msgstr ""
+msgstr "Kò lè ṣí version.php"
 
 #: themes/rosetta/front-page.php:76 themes/rosetta/front-page.php:111
 msgid "Showcase"
-msgstr ""
+msgstr "Àfihàn"
 
 #: mu-plugins/roles/cross-locale-pte.php:182
 #, gp-priority: low
 msgid "Are you sure you wish to completely remove CLPTE status for this user?"
-msgstr ""
+msgstr "Ṣé o dá ọ lójú pé o fẹ́ yọ ipò CLPTE kúrò pátápátá fún olùlò yíì?"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:41
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:210
 #, gp-priority: low
 msgid "Sites Without Locale Association"
-msgstr ""
+msgstr "Àwọn ìkànnì tí kò ní Ìsopọ̀ Locale"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:40
 #, gp-priority: low
 msgid "Manage the locale association for localized sites. Without an association the site&#8217;s front end is not available."
-msgstr ""
+msgstr "Ṣàkóso ìsopọ̀ locale fún àwọn site agbègbè. Láìsí ìsopọ̀, ojú ìwọ̀n site náà kò ní sí."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:157
 #, gp-priority: low
 msgid "Latest Release"
-msgstr ""
+msgstr "Release Tuntun"
 
 #. translators: Do not translate the placeholders USERNAME, LOCALENAME,
 #. PROJECTLIST, RESOURCESLIST, CURRENTUSERNAME.
@@ -820,6 +820,26 @@ msgid ""
 "\n"
 "Welcome to the WordPress Polyglots team and happy translating."
 msgstr ""
+"Báwo ni ###USERNAME###,\n"
+"\n"
+"Inú wa dùn láti sọ fun ọ pé a ti fi ọ́ kúnú pẹ̀lú àṣeyọrí gẹ́gẹ́ bíi Olootu Itumọ Iṣẹ-ṣiṣe fún ###LOCALENAME### fún àwọn iṣẹ́ wọ̀nyí:\n"
+"\n"
+"###PROJECTLIST###\n"
+"\n"
+"A ti fi ọ́ kúnú àwọn iṣẹ́ wọ̀nyí bóyá nípasẹ̀ ìbéèrè rẹ tàbí nípasẹ̀ ìbéèrè olùkọ iṣẹ́ náà.\n"
+"\n"
+"Ṣáájú ìtumọ̀, jọ̀wọ́ mọ bí ẹgbẹ́ náà ṣe n ṣiṣẹ́ nípa kíkà Ìwé Ìtumọ̀ – https://make.wordpress.org/polyglots/handbook/, ibi tí ó dára láti bẹ̀rẹ̀ ni ojú ìwé Àwọn Ohun tí a Retí.\n"
+"\n"
+"Ẹgbẹ́ ìtumọ̀ agbègbè rẹ wà ní https://make.wordpress.org/polyglots/teams/. Ríi dájú pé o mọ àwọn àkọsílẹ̀ nípa ìtumọ̀ ní èdè rẹ tí àwọn olùkópa mìíràn nínú ẹgbẹ́ rẹ ti pèsè.\n"
+"\n"
+"###RESOURCESLIST###\n"
+"\n"
+"Ẹgbẹ́ Polyglots n so pọ̀ lórí Slack. Ṣàyẹ̀wò https://make.wordpress.org/meetings/#polyglots fún àwọn ìpàdé ẹgbẹ́ tí ó nbọ̀. Inú wa yóò dùn láti ní ọ níbẹ̀ tí o bá lè wá. Forúkọsílẹ̀ láti https://chat.wordpress.org/.\n"
+"Tí o bá ní ìbéèrè kankan nípa àwọn ìlànà tàbí tí o nílò ìrànlọ́wọ́, kan sí ẹgbẹ́ náà lórí Slack tàbí ní https://make.wordpress.org/polyglots/.\n"
+"\n"
+"###CURRENTUSERNAME### ló fún ọ ní àṣẹ.\n"
+"\n"
+"Kaabọ sí ẹgbẹ́ WordPress Polyglots, ku iṣẹ́ ìtumọ̀."
 
 #. translators: Do not translate the placeholders USERNAME, LOCALENAME,
 #. LOCALEURL, CURRENTUSERNAME.
@@ -847,214 +867,234 @@ msgid ""
 "\n"
 "Welcome to the WordPress Polyglots team and happy translating!"
 msgstr ""
+"Báwo ni ###USERNAME###,\n"
+"\n"
+"Inú wa dùn láti sọ fun ọ pé a ti fi ọ́ kúnú pẹ̀lú àṣeyọrí gẹ́gẹ́ bíi Olootu Itumọ Gbogbogbo ti WordPress fún ###LOCALENAME###.\n"
+"\n"
+"Gẹ́gẹ́ bíi Olootu Itumọ Gbogbogbo, o ní àṣẹ láti fi ìtumọ̀ ránṣẹ́ àti láti fọwọ́sí i fún gbogbo àwọn iṣẹ́ tí ó wà ní ###LOCALEURL###.\n"
+"\n"
+"Pẹ̀lú WordPress fúnra rẹ̀, ó dára láti ṣe àkọ́kọ́ ìtumọ̀ àwọn iṣẹ́ tí ó wá pẹ̀lú rẹ̀ – Àwọn themes àkọ́kọ́ bíi Twenty Seventeen tàbí Twenty Sixteen, àti Akismet.\n"
+"\n"
+"Jọ̀wọ́ mọ bí ẹgbẹ́ náà ṣe n ṣiṣẹ́ nípa kíkà Ìwé Ìtumọ̀ – https://make.wordpress.org/polyglots/handbook/, ibi tí ó dára láti bẹ̀rẹ̀ ni ojú ìwé Àwọn Ohun tí a Retí.\n"
+"\n"
+"Gẹ́gẹ́ bíi Olootu Itumọ Gbogbogbo fún locale, a bèèrè pé kí o kún ìwé àkọọ́lẹ̀ WordPress.org rẹ (https://profiles.wordpress.org/profile/), forúkọsílẹ̀ lórí Slack kí o sì pèsè ọ̀nà fún àwọn olùkópa ìtumọ̀ láti kan sí ọ.\n"
+"\n"
+"A tún bèèrè lọ́wọ́ gbogbo àwọn Olootu Itumọ Gbogbogbo WordPress láti forúkọsílẹ̀ fún àwọn ìwifúnní fún àwọn locale wọn, o lè rí àwọn ètò ìforúkọsílẹ̀ ìwifúnní nínú ètò ìwé àkọọ́lẹ̀ rẹ (https://profiles.wordpress.org/profile/notifications/).\n"
+"\n"
+"Ẹgbẹ́ Polyglots n so pọ̀ lórí Slack. Ṣàyẹ̀wò https://make.wordpress.org/meetings/#polyglots fún àwọn ìpàdé ẹgbẹ́ tí ó nbọ̀. Inú wa yóò dùn láti ní ọ níbẹ̀ tí o bá lè wá. Forúkọsílẹ̀ láti https://chat.wordpress.org.\n"
+"Tí o bá ní ìbéèrè kankan nípa àwọn ìlànà tàbí tí o nílò ìrànlọ́wọ́, kan sí ẹgbẹ́ náà lórí Slack tàbí ní https://make.wordpress.org/polyglots/.\n"
+"\n"
+"###CURRENTUSERNAME### ló fún ọ ní àṣẹ.\n"
+"\n"
+"Kaabọ sí ẹgbẹ́ WordPress Polyglots, ku iṣẹ́ ìtumọ̀!"
 
 #: mu-plugins/roles/rosetta-roles.php:550
 #, gp-priority: low
 msgid "You have been added to a WordPress project as a translation editor"
-msgstr ""
+msgstr "A ti fi ọ́ kún iṣẹ́ WordPress kan gẹ́gẹ́ bí olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/rosetta-roles.php:95
 #, gp-priority: low
 msgid "Resources for translation editors"
-msgstr ""
+msgstr "Àwọn ohun èlò fún àwọn olóòtú ìtumọ̀"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:156
 #, gp-priority: low
 msgid "Sites"
-msgstr ""
+msgstr "Àwọn ìkànnì"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:155
 #, gp-priority: low
 msgid "Subdomain"
-msgstr ""
+msgstr "Subdomain"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:41
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:150
 #, gp-priority: low
 msgid "Existing Associations"
-msgstr ""
+msgstr "Àwọn Ìsopọ̀ Tó Ti Wà"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:134
 #, gp-priority: low
 msgid "Subdomain:"
-msgstr ""
+msgstr "Subdomain:"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:120
 #, gp-priority: low
 msgid "Locale:"
-msgstr ""
+msgstr "Locale:"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:41
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:114
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:139
 #, gp-priority: low
 msgid "Add New Association"
-msgstr ""
+msgstr "Ṣe Àfikún Ìsopọ̀ Tuntun"
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:103
 #, gp-priority: low
 msgid "The association has been deleted."
-msgstr ""
+msgstr "A ti pa ìsopọ̀ náà rẹ́."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:97
 #, gp-priority: low
 msgid "The ID of the association is missing. Please try again."
-msgstr ""
+msgstr "ID ìsopọ̀ náà kò sí. Jọ̀wọ́ gbìyànjú lẹ́ẹ̀kansíi."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:91
 #, gp-priority: low
 msgid "The new association has been added."
-msgstr ""
+msgstr "A ti ṣe àfikún ìsopọ̀ tuntun."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:79
 #, gp-priority: low
 msgid "Please provide a locale and a subdomain."
-msgstr ""
+msgstr "Jọ̀wọ́ pèsè locale àti subdomain kan."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:73
 #, gp-priority: low
 msgid "An error occurred. Please try again."
-msgstr ""
+msgstr "Àṣìṣe kan ṣẹlẹ̀. Jọ̀wọ́ gbìyànjú lẹ́ẹ̀kansíi."
 
 #: plugins/rosetta/inc/admin/network/class-locale-associations-view.php:21
 #, gp-priority: low
 msgid "Locale Associations"
-msgstr ""
+msgstr "Àwọn Ìsopọ̀ Locale"
 
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:22
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:26
 #, gp-priority: low
 msgid "Add cross-locale PTE access for:"
-msgstr ""
+msgstr "Ṣe àfikún àṣẹ PTE cross-locale fún:"
 
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:2
 #, gp-priority: low
 msgid "Edit Cross-Locale PTE"
-msgstr ""
+msgstr "Ṣàtúnṣe PTE Cross-Locale"
 
 #: mu-plugins/roles/views/cross-locale-pte.php:43
 #: mu-plugins/roles/views/cross-locale-pte.php:54
 #, gp-priority: low
 msgid "Add Cross-Locale PTE"
-msgstr ""
+msgstr "Ṣe Àfikún PTE Cross-Locale"
 
 #: mu-plugins/roles/views/cross-locale-pte.php:8
 #, gp-priority: low
 msgid "This is the list of our current Cross-Locale PTEs."
-msgstr ""
+msgstr "Èyí ni àtòjọ àwọn PTE Cross-Locale wa lọ́wọ́lọ́wọ́."
 
 #: mu-plugins/roles/views/cross-locale-pte.php:3
 #, gp-priority: low
 msgid "Cross-Locale PTEs"
-msgstr ""
+msgstr "Àwọn PTE Cross-Locale"
 
 #: mu-plugins/roles/cross-locale-pte.php:53
 #: mu-plugins/roles/cross-locale-pte.php:54
 #, gp-priority: low
 msgid "Cross-Locale PTE"
-msgstr ""
+msgstr "PTE Cross-Locale"
 
 #. translators: %s: WP.org profile link
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:9
 #: mu-plugins/roles/views/edit-translation-editor.php:10
 #, gp-priority: low
 msgid "You are currently editing the user %s."
-msgstr ""
+msgstr "O n ṣàtúnṣe olùlò %s lọ́wọ́lọ́wọ́."
 
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:30
 #: mu-plugins/roles/views/edit-translation-editor.php:39
 #, gp-priority: low
 msgid "Loading&hellip;"
-msgstr ""
+msgstr "Ó n gbádùn lọ́wọ́&hellip;"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:196
 #, gp-priority: low
 msgid "General Translation Editor <span class=\"count\">(%s)</span>"
 msgid_plural "General Translation Editor <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Olóòtú ìtumọ̀ Gbogbogbo <span class=\"count\">(%s)</span>"
+msgstr[1] "Àwọn Olóòtú ìtumọ̀ Gbogbogbo <span class=\"count\">(%s)</span>"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:177
 #, gp-priority: low
 msgid "Translation Editor <span class=\"count\">(%s)</span>"
 msgid_plural "Translation Editor <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Olóòtú ìtumọ̀ <span class=\"count\">(%s)</span>"
+msgstr[1] "Àwọn Olóòtú ìtumọ̀ <span class=\"count\">(%s)</span>"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:158
 #, gp-priority: low
 msgctxt "translation editors"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gbogbo <span class=\"count\">(%s)</span>"
+msgstr[1] "Gbogbo <span class=\"count\">(%s)</span>"
 
 #: mu-plugins/roles/rosetta-roles.php:822
 #, gp-priority: low
 msgid "The user couldn&#8217;t be added to this site."
-msgstr "Olumulo ko se fi kun si Saiti yii & # 8211;"
+msgstr "Olùmúlò kò ṣe fi kún sí ìkànnì yíì &#8211;"
 
 #: mu-plugins/roles/views/edit-translation-editor.php:35
 #, gp-priority: low
 msgid "The translation editor has validation permissions for all projects, including newly-added projects."
-msgstr ""
+msgstr "Olóòtú ìtumọ̀ ní àwọn ìgbààyè ìfọwọ́sí fún gbogbo àwọn iṣẹ́, pẹ̀lú àwọn iṣẹ́ tuntun tí a ṣẹ̀ṣẹ̀ fi kún."
 
 #: mu-plugins/roles/cross-locale-pte.php:183
 #: mu-plugins/roles/rosetta-roles.php:762
 #, gp-priority: low
 msgid "Search..."
-msgstr "Sàwárí..."
+msgstr "Ṣàwárí..."
 
 #: mu-plugins/roles/views/translation-editors.php:40
 #, gp-priority: low
 msgid "Custom &ndash; After the user is added you will be redirected to set the projects."
-msgstr ""
+msgstr "Àdàṣe &ndash; Lẹ́yìn tí a bá ti fi olùlò kún, a ó darí rẹ láti ṣètò àwọn iṣẹ́ náà."
 
 #: mu-plugins/roles/views/cross-locale-pte.php:48
 #: mu-plugins/roles/views/translation-editors.php:31
 #, gp-priority: low
 msgid "E-mail or Username"
-msgstr ""
+msgstr "E-mail tàbí Orúkọ Olùlò"
 
 #: mu-plugins/roles/views/cross-locale-pte.php:44
 #: mu-plugins/roles/views/translation-editors.php:27
 #, gp-priority: low
 msgid "Enter the email address or username of an existing user on wordpress.org."
-msgstr ""
+msgstr "Tẹ àdírẹ́sì e-mail tàbí orúkọ olùlò olùlò kan tó ti wà lórí wordpress.org."
 
 #: mu-plugins/roles/views/translation-editors.php:26
 #: mu-plugins/roles/views/translation-editors.php:52
 #, gp-priority: low
 msgid "Add Translation Editor"
-msgstr ""
+msgstr "Ṣe Àfikún Olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/views/translation-editors.php:16
 #, gp-priority: low
 msgid "Search Translation Editors"
-msgstr ""
+msgstr "Wa Àwọn Olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/views/translation-editors.php:7
 #, gp-priority: low
 msgid "Search results for &#8220;%s&#8221;"
-msgstr ""
+msgstr "Àwọn àbájáde ìwárí fún &#8220;%s&#8221;"
 
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:45
 #: mu-plugins/roles/views/edit-translation-editor.php:54
 #, gp-priority: low
 msgctxt "translation editor"
 msgid "Update"
-msgstr ""
+msgstr "Ìmúdójúìwọ̀n"
 
 #: mu-plugins/roles/views/edit-cross-locale-pte.php:34
 #: mu-plugins/roles/views/edit-translation-editor.php:43
 #, gp-priority: low
 msgid "Each project includes sub projects and newly-added sub projects."
-msgstr ""
+msgstr "Iṣẹ́ kọ̀ọ̀kan pẹ̀lú àwọn iṣẹ́ abẹ́lẹ̀ àti àwọn iṣẹ́ abẹ́lẹ̀ tuntun tí a ṣẹ̀ṣẹ̀ fi kún."
 
 #: mu-plugins/roles/views/translation-editors.php:44
 #, gp-priority: low
 msgid "All projects &ndash; If selected, translation editor will have validation permissions for all projects, including newly-added projects."
-msgstr ""
+msgstr "Gbogbo iṣẹ́ &ndash; Tí a bá yàn án, olóòtú ìtumọ̀ yóò ní àwọn ìgbààyè ìfọwọ́sí fún gbogbo àwọn iṣẹ́, pẹ̀lú àwọn iṣẹ́ tuntun tí a ṣẹ̀ṣẹ̀ fi kún."
 
 #: mu-plugins/roles/views/edit-translation-editor.php:23
 #: mu-plugins/roles/views/edit-translation-editor.php:27
@@ -1062,77 +1102,77 @@ msgstr ""
 #: mu-plugins/roles/views/translation-editors.php:38
 #, gp-priority: low
 msgid "Add editor access for:"
-msgstr ""
+msgstr "Ṣe àfikún àṣẹ olóòtú fún:"
 
 #: mu-plugins/roles/views/edit-translation-editor.php:2
 #, gp-priority: low
 msgid "Edit Translation Editor"
-msgstr ""
+msgstr "Ṣàtúnṣe Olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/rosetta-roles.php:824
 #, gp-priority: low
 msgid "The user is already a translation editor."
-msgstr ""
+msgstr "Olùlò náà ti jẹ́ olóòtú ìtumọ̀ tẹ́lẹ̀."
 
 #: mu-plugins/roles/rosetta-roles.php:823
 #, gp-priority: low
 msgid "The user is not a translation editor."
-msgstr ""
+msgstr "Olùlò náà kì í ṣe olóòtú ìtumọ̀."
 
 #: mu-plugins/roles/rosetta-roles.php:821
 #, gp-priority: low
 msgid "The user is not a member of this site."
-msgstr ""
+msgstr "Olùlò náà kì í ṣe ọmọ ẹgbẹ́ ìkànnì yíì."
 
 #: mu-plugins/roles/rosetta-roles.php:820
 #, gp-priority: low
 msgid "The user couldn&#8217;t be found."
-msgstr ""
+msgstr "A kò rí olùlò náà."
 
 #: mu-plugins/roles/rosetta-roles.php:816
 #, gp-priority: low
 msgid "%s translation editor removed."
 msgid_plural "%s translation editors removed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "A ti yọ olóòtú ìtumọ̀ %s kúrò."
+msgstr[1] "A ti yọ àwọn olóòtú ìtumọ̀ %s kúrò."
 
 #: mu-plugins/roles/rosetta-roles.php:815
 #, gp-priority: low
 msgid "New translation editor added. You can select the projects now."
-msgstr ""
+msgstr "A ti fi olóòtú ìtumọ̀ tuntun kún. O lè yan àwọn iṣẹ́ náà báyìí."
 
 #: mu-plugins/roles/rosetta-roles.php:814
 #, gp-priority: low
 msgid "New translation editor added."
-msgstr ""
+msgstr "A ti fi olóòtú ìtumọ̀ tuntun kún."
 
 #: mu-plugins/roles/rosetta-roles.php:813
 #, gp-priority: low
 msgid "Translation editor updated."
-msgstr ""
+msgstr "A ti ṣe àtúnṣe olóòtú ìtumọ̀."
 
 #: mu-plugins/roles/rosetta-roles.php:103
 #: mu-plugins/roles/rosetta-roles.php:104
 #: mu-plugins/roles/views/translation-editors.php:4
 #, gp-priority: low
 msgid "Translation Editors"
-msgstr ""
+msgstr "Àwọn Olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:334
 #: mu-plugins/roles/views/edit-translation-editor.php:32
 #, gp-priority: low
 msgid "All projects"
-msgstr "Gbogbo ise agbese"
+msgstr "Gbogbo iṣẹ́ àgbékalẹ̀"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:329
 #, gp-priority: low
 msgid "No projects"
-msgstr "Ko si ise agbese"
+msgstr "Kò sí iṣẹ́ àgbékalẹ̀"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:293
 #, gp-priority: low
 msgid "Remove"
-msgstr "Yọ kuro"
+msgstr "Yọọ́ kúrò"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:292
 #, gp-priority: low
@@ -1142,38 +1182,38 @@ msgstr "Ṣàtúnṣe"
 #: mu-plugins/roles/class-translation-editors-list-table.php:272
 #, gp-priority: low
 msgid "Select translation editor"
-msgstr ""
+msgstr "Yan olóòtú ìtumọ̀"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:250
 #, gp-priority: low
 msgctxt "translation editor"
 msgid "Remove"
-msgstr "Yọ kuro"
+msgstr "Yọọ́ kúrò"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:124
 #, gp-priority: low
 msgid "Projects"
-msgstr "Awọn iṣẹ akanṣe"
+msgstr "Àwọn Iṣẹ́"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:123
 #, gp-priority: low
 msgid "E-mail"
-msgstr "Imeeli"
+msgstr "E-mail"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:122
 #, gp-priority: low
 msgid "Name"
-msgstr "Oruko"
+msgstr "Orúkọ"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:121
 #, gp-priority: low
 msgid "Username"
-msgstr "Orukọ olumulo"
+msgstr "Orúkọ Olùlò"
 
 #: mu-plugins/roles/class-translation-editors-list-table.php:109
 #, gp-priority: low
 msgid "No translation editors were found."
-msgstr ""
+msgstr "A kò rí àwọn olóòtú ìtumọ̀ kankan."
 
 #: mu-plugins/downloads/rosetta-downloads.php:156
 #: mu-plugins/downloads/rosetta-downloads.php:179
