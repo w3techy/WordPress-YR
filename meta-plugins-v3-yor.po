@@ -28,6 +28,17 @@ msgid ""
 "\n"
 "If you believe this to be in error, please contact %7$s."
 msgstr ""
+"Báwo ni %1$s,\n"
+"\n"
+"A ti fi %2$s kún un gẹ́gẹ́ bíi committer sí %3$s látọwọ́ %4$s.\n"
+"\n"
+"Àwọn ènìyàn wọ̀nyí ni wọ́n ní àṣẹ àtìkọ sí %3$s:\n"
+"%5$s\n"
+"\n"
+"O lè ṣàkóso àwọn committer Plugin rẹ níbí:\n"
+"%6$s\n"
+"\n"
+"Tí o bá gbàgbọ́ pé èyí jẹ́ àṣìṣe, jọ̀wọ́ kàn sí %7$s."
 
 #. translators: This is an email signature. Do not translate the URL.
 #: plugins/plugin-directory/email/class-base.php:160
@@ -36,6 +47,9 @@ msgid ""
 "The WordPress Plugin Directory Team\n"
 "https://make.wordpress.org/plugins"
 msgstr ""
+"--\n"
+"Ẹgbẹ́ WordPress Plugin Directory\n"
+"https://make.wordpress.org/plugins"
 
 #. translators: 1: Author name 2: Date, 3: Plugin Name 4: Plugin team email
 #. address.
@@ -51,6 +65,15 @@ msgid ""
 "The WordPress Plugin Directory Team\n"
 "https://make.wordpress.org/plugins"
 msgstr ""
+"Gẹ́gẹ́ bí %1$s ṣe béèrè lọ́jọ́ %2$s, %3$s ti sé nínú Àtòpọ̀ Plugin WordPress.\n"
+"\n"
+"Pípa Plugin rẹ jẹ́ ìgbésẹ̀ tí ó yẹ kó jẹ́ ti gbére. O kò ní lè ṣí i padà láì kan ẹgbẹ́ àwọn Plugin.\n"
+"\n"
+"Tí o bá gbàgbọ́ pé àṣìṣe ni pípa yìí, jọ̀wọ́ fi lẹ́tà email ránṣẹ́ sí %4$s kí o sì ṣàlàyé ìdí tí o fi rò pé ó yẹ kí á ṣí Plugin rẹ padà.\n"
+"\n"
+"--\n"
+"Ẹgbẹ́ WordPress Plugin Directory\n"
+"https://make.wordpress.org/plugins"
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:348
 #, gp-priority: low
@@ -73,6 +96,23 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you <strong>not</strong> resubmit the plugin, and reply to this email instead."
 msgstr ""
+"A ti kọ Plugin yìí nítorí ó jọ pé ó jẹ́ àfihàn tàbí àdàwò Plugin kan.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"A mọ̀ pé sísọ fún ọ pé a kò ní gba koodu rẹ gbà yóò dun ọ́, a sì rọ̀ ọ́ pé kó o ka lẹ́tà email yìí tán pátápátá.\n"
+"\n"
+"Tí o bá rò pé àṣìṣe ni ìpinnu yìí nígbà tó bá yá, jọ̀wọ́ dáhùn sí lẹ́tà email yìí pẹ̀lú Plugin rẹ tí a so mọ́ ọ gẹ́gẹ́ bíi zip, kí o sì ṣàlàyé ìdí tí o fi rò pé ó yẹ kí á gba Plugin rẹ.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"A fẹ́ kí gbogbo Plugin ṣiṣẹ́ pátápátá, kí wọ́n sì ṣe tán láti lò nígbà tí a bá fi wọ́n sílẹ̀. Nígbà tí ẹnì kan bá fi Plugin kan sílẹ̀ pẹ̀lú readme àkọ́kọ́ tí kò ní àtúnṣe tàbí koodu tó wúlò, a gbà pé wọ́n ti fi àdàkọ àkọ́kọ́ Plugin wọn ránsẹ́ láì mọ̀ọ́mọ̀, tàbí wọ́n ń dán ọ̀nà ìgbésókè wò.\n"
+"\n"
+"Tí ó bá jẹ́ ti àkọ́kọ́, jọ̀wọ́ ṣàyẹ̀wò zip tí ò ń gbìyànjú láti gbé sókè fún àyẹ̀wò, kí o sì tún fi sílẹ̀.\n"
+"\n"
+"Tí ó bá jẹ́ èkejì, a rọ̀ ọ́ pé kó o má lo ètò wa fún dídánwò. Ó ń pa àwọn olùyọ̀ǹda lára láti jẹ́ kí wọ́n máa yan àwọn Plugin gidi tí wọ́n ṣe tán fún àyẹ̀wò.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé <strong>kó o má</strong> tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:319
 #, gp-priority: low
@@ -101,6 +141,29 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you <strong>not</strong> resubmit the plugin, and reply to this email instead."
 msgstr ""
+"A ti kọ Plugin rẹ nítorí a kò gba irú àwọn Plugin báyìí ní ọ̀pọ̀ ìgbà.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"Ó yé wa pé sísọ fún ọ pé a kò ní gba koodu rẹ níbí yóò dun ọ́, a sì rọ̀ ọ́ pé kó o fara balẹ̀ ka lẹ́tà email yìí.\n"
+"\n"
+"O lè fi Plugin mìíràn sílẹ̀, ṣùgbọ́n a rò pé èyí jẹ́ àṣàyàn búburú láti fi sílẹ̀. Bákan náà, àwọn Plugin díẹ̀ wà tí wọ́n ti ń ṣe èyí, ó sàn kí o lò wọ́n dípò.\n"
+"\n"
+"Tí o bá ní ìbéèrè kankan, jọ̀wọ́ dáhùn sí lẹ́tà email yìí. Bí bẹ́ẹ̀ kọ́, kò burú láti kàn gbájú mọ́ nǹkan mìíràn.\n"
+"\n"
+"Tí o bá rò pé a ti ṣe ìpinnu yìí ní àṣìṣe, jọ̀wọ́ dáhùn pẹ̀lú àdàkọ koodu rẹ tí a so mọ́ ọ, kí o sì ṣàlàyé ìdí tí o fi rò bẹ́ẹ̀.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"Àwọn Plugin tí wọ́n fi script sí nǹkan jẹ́ alágbára àti ìyanu. Wọ́n tún léwu púpọ̀, wọ́n sì nílò òye tó ga nípa ìmọ́tótó, ààbò, àti lílò. Àwọn ọgbọ́n wọ̀nyí gbà ọdún púpọ̀ láti kọ́. WordPress ní ohun èlò tó díjú púpọ̀ láti fi CSS sí, ó sì yàn láti má ṣe bójú tó javascript nítorí ewu. PHP tilẹ̀ díjú ju bẹ́ẹ̀ lọ.\n"
+"\n"
+"Yàtọ̀ sí àwọn ọ̀ràn ìmọ́tótó, gbígba àyè fún fífi script sí lọ́nàkọnà máa ń jẹ́ kí àwọn olùlò fi àwọn script tó léwu sí láìmọ̀. Àwọn olùlò yóò kan lẹ nǹkankọǹkan mọ́ ọn, Plugin rẹ sì lè di ọ̀nà àìròtẹ́lẹ̀ fún ìjàmbá.\n"
+"\n"
+"Ìdí nìyí tí WordPress fúnra rẹ̀ fi gbà ọ́ láyè láti dí àwọn ènìyàn lọ́wọ́ láti lè ṣàtúnṣe àwọn fáìlì theme àti Plugin tààrà (nípasẹ̀ DEFINES tí ọ̀pọ̀ àwọn olùgbàlejò tí a ṣàkóso ń lò), ṣùgbọ́n ó tún ní àwọn àyẹ̀wò lẹ́yìn ìtọ́jú tí wọ́n ń fìdí rẹ̀ múlẹ̀ pé ojúlé náà yóò ṣì ṣiṣẹ́ lẹ́yìn àwọn àtúnṣe èyíkéyìí.\n"
+"\n"
+"Nítorí àwọn ìdí wọ̀nyẹn, láìjẹ́ pé ìfilọ́lẹ̀ kan fi òye tó dájú nípa àwọn ọ̀ràn ààbò àti lílò hàn látìbẹ̀rẹ̀, a máa ń kọ̀ wọ́n.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé <strong>kó o má</strong> tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:270
 #, gp-priority: low
@@ -125,6 +188,25 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you not resubmit the plugin, and reply to this email instead."
 msgstr ""
+"A ti kọ Plugin rẹ nítorí a kò gba àwọn Plugin oníṣòwò (storefront plugins) lọ́wọ́lọ́wọ́.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"Ó yé wa pé sísọ fún ọ pé a kò ní gba koodu rẹ níbí yóò dun ọ́. Ìpinnu yìí kò ní í ṣe pẹ̀lú ìjójúlówó tàbí ète koodu rẹ, ó kàn ní í ṣe pẹ̀lú òtítọ́ náà pé, lóòótọ́, oníṣòwò ni.\n"
+"\n"
+"A dámọ̀ràn pé kó o gbà á léjò lórí iṣẹ́ tìrẹ, kí o sì lo àwọn àtúnṣe àtọwọ́dá fún ìtìlẹ́yìn àti ìtọ́jú rẹ tí ń lọ lọ́wọ́.\n"
+"\n"
+"Tí o bá rò pé àṣìṣe ni èyí, jọ̀wọ́ dáhùn sí lẹ́tà email yìí pẹ̀lú Plugin rẹ tí a so mọ́ ọ gẹ́gẹ́ bíi zip, kí o sì ṣàlàyé ìdí tí o fi rò pé ó yẹ kí á gba Plugin rẹ níbí.\n"
+"\n"
+"Kí o tó ṣe bẹ́ẹ̀, a rọ̀ ọ́ pé kó o gba àkókò láti ka lẹ́tà email yìí tán pátápátá.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"Àwọn Plugin tí wọ́n ń ṣiṣẹ́ láti fi àwọn Plugin àti àwọn theme sílẹ̀ láti ibòmíràn yàtọ̀ sí WordPress.org kò gbààyè nítorí ààbò àti ìdàrújẹ olùlò. Ní ìtàn, wọ́n ti fa kí àwọn olùlò má mọ ibi tí wọ́n ti gba Plugin kan, àti ibi tí wọ́n yẹ kí wọ́n lọ fún ìrànlọ́wọ́.\n"
+"\n"
+"Láfikún, tí àtúnṣe búburú bá ti wáyé, WordPress ni a rí bí ẹni tí ó jẹ́ onídùúró fún àbájáde búburú èyíkéyìí.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé kó o má tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:245
 #, gp-priority: low
@@ -149,6 +231,25 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you <strong>not</strong> resubmit the plugin, and reply to this email instead."
 msgstr ""
+"A ti kọ Plugin rẹ nítorí a kò gba àwọn Plugin tí wọ́n jẹ́ àfikún wp-cli nìkan lọ́wọ́lọ́wọ́.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"Ó yé wa pé sísọ fún ọ pé a kò ní gba koodu rẹ níbí yóò dun ọ́. Ìpinnu yìí kò ní í ṣe pẹ̀lú ìjójúlówó tàbí ète koodu rẹ, ó kàn ní í ṣe pẹ̀lú òtítọ́ náà pé, lóòótọ́, àfikún wp-cli ni.\n"
+"\n"
+"A dámọ̀ràn pé kó o fi koodu yìí sínú Plugin rẹ tó wà tẹ́lẹ̀ dípò fífi sílẹ̀ gẹ́gẹ́ bí àfikún ọ̀tọ̀.\n"
+"\n"
+"Tí o bá rò pé àṣìṣe ni èyí, jọ̀wọ́ dáhùn sí lẹ́tà email yìí pẹ̀lú Plugin rẹ tí a so mọ́ ọ gẹ́gẹ́ bíi zip, kí o sì ṣàlàyé ìdí tí o fi rò pé ó yẹ kí á gba Plugin rẹ níbí.\n"
+"\n"
+"Kí o tó ṣe bẹ́ẹ̀, a rọ̀ ọ́ pé kó o gba àkókò láti ka lẹ́tà email yìí tán pátápátá.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"Àwọn Plugin ní láti ní ìbáṣepọ̀ kan pẹ̀lú blog náà lọ́nà tí ó jẹ́ àdáṣiṣẹ́ (f.a. ṣíṣiṣẹ́ Plugin náà gbà á láyè láti ṣiṣẹ́) tàbí ìbánisọ̀rọ̀ (f.a. àpótí ètò).\n"
+"\n"
+"Àwọn Plugin àṣẹ ìlànà (Command line plugins) kò bá ìlànà yẹn mu.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé <strong>kó o má</strong> tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:166
 #, gp-priority: low
@@ -175,6 +276,27 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you not resubmit the plugin, and reply to this email instead."
 msgstr ""
+"Lákòókò yìí, a kò gba irú àwọn Plugin báyìí.\n"
+"\n"
+"Bí ó tilẹ̀ jẹ́ pé àtòpọ̀ náà ṣí sílẹ̀ fún gbogbo àwọn Plugin tó ní ààbò, tó sì bára mu pẹ̀lú GPLv2 (tàbí lẹ́yìn náà), a ní ẹ̀tọ́ láti kọ Plugin èyíkéyìí lórí ìdí èyíkéyìí tí a bá rò pé ó bójú mu, yálà a mẹ́nu kàn án ní kedere nínú àwọn ìlànà tàbí bẹ́ẹ̀ kọ́.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"A mọ̀ pé sísọ fún ọ pé a kò ní gba koodu rẹ gbà yóò dun ọ́, a sì rọ̀ ọ́ pé kó o ka lẹ́tà email yìí tán pátápátá.\n"
+"\n"
+"Tí o bá rò pé àṣìṣe ni ìpinnu yìí nígbà tó bá yá, jọ̀wọ́ dáhùn sí lẹ́tà email yìí pẹ̀lú Plugin rẹ tí a so mọ́ ọ gẹ́gẹ́ bíi zip, kí o sì ṣàlàyé ìdí tí o fi rò pé ó yẹ kí á gba Plugin rẹ.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"Àwọn Plugin tí wọ́n ń ṣe àfarawé àwọn ohun tó ti wà nínú WordPress tẹ́lẹ̀, láìsí àfikún kankan tó hàn gbangba, gẹ́gẹ́ bíi (ṣùgbọ́n kò mọ níbẹ̀) ṣíṣe àdàkọ àwọn koodu kúkúrú tó ti wà ( [embed] àti [gallery] ), àwọn widget (ìfihàn ìjẹun RSS), tàbí iṣẹ́ ṣíṣe (fífi àwọn olùlò kún un), a kò ní gbà wọ́n.\n"
+"\n"
+"A kò gba àwọn Plugin tí a rò pé kò bójú mu, gẹ́gẹ́ bíi SEO ẹlẹ́tàn (black or grey hat SEO) (pẹ̀lú àwọn Plugin tí wọ́n ń fi àkóónú sílẹ̀ ládáṣe). Plugin èyíkéyìí tó ní í ṣe pẹ̀lú àwọn gbólóhùn bíi 'Plugin wa yóò ràn ọ́ lọ́wọ́ láti gba ẹgbẹẹgbẹ̀rún dọ́là' ni a ó kọ̀, nítorí ìwà yẹn burú, a kò sì fẹ́ ẹ.\n"
+"\n"
+"A kò tún gba àwọn Plugin 'ìtumọ̀', tàbí àwọn àdàkọ Plugin tí wọ́n wà ní èdè mìíràn, nítorí ó sàn kí á bá Plugin àkọ́kọ́ sọ̀rọ̀ fún ìdí yẹn. Jọ̀wọ́ kàn sí wọn kí o sì pèsè ìtumọ̀ lọ́nà tó tọ́.\n"
+"\n"
+"A kò ní gba àwọn Plugin tí koodu wọn bá fi ara sin (ìyẹn, tí a fi pamọ́ tàbí tí a ṣe àìyípadà) láé.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé kó o má tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #: plugins/plugin-directory/email/class-plugin-rejected.php:122
 #, gp-priority: low
@@ -218,6 +340,44 @@ msgid ""
 "\n"
 "If you've gotten all the way down here and still think we should be hosting your code, we ask you not resubmit the plugin, and reply to this email instead."
 msgstr ""
+"A ti kọ Plugin rẹ nítorí a kò gba àwọn framework, boilerplate, àti library mọ́ gẹ́gẹ́ bíi Plugin aládàágbé.\n"
+"\n"
+"<strong>Ohun tó yẹ kó o ṣe</strong>\n"
+"\n"
+"Tí o bá rò pé àṣìṣe ni èyí, jọ̀wọ́ dáhùn sí lẹ́tà email yìí pẹ̀lú Plugin rẹ tí a so mọ́ ọ gẹ́gẹ́ bíi zip, kí o sì ṣàlàyé ìdí tí o fi rò pé Plugin rẹ kì í ṣe library tàbí boilerplate.\n"
+"\n"
+"Kí o tó ṣe bẹ́ẹ̀, a rọ̀ ọ́ pé kó o gba àkókò láti ka lẹ́tà email yìí tán pátápátá. A mọ̀ pé ó máa ń dunni láti sọ fúnni pé a kò ní gba koodu rẹ, àkòrí ọ̀rọ̀ yìí sì lè fa àríyànjiyàn, pàápàá jù lọ nítorí pé a máa ń gba koodu library tẹ́lẹ̀.\n"
+"\n"
+"A ti yàn láti má ṣe pa gbogbo àwọn library tó wà tẹ́lẹ̀ rẹ́ kí á má baà ba àwọn ojúlé ènìyàn jẹ́. Síbẹ̀síbẹ̀, nítorí ọ̀pọ̀lọpọ̀ ìdí (èyí tí a ó ṣàlàyé ní ìsàlẹ̀) a kò gba àwọn <strong>tuntun</strong> kankan.\n"
+"\n"
+"Èyí kò ní í ṣe pẹ̀lú ìjójúlówó tàbí ète koodu rẹ. Púpọ̀ nínú wa nínú ẹgbẹ́ ni olólùfẹ́ àwọn library àti framework.\n"
+"\n"
+"<strong>Ìdí tí a kò fi gba irú àwọn Plugin wọ̀nyí</strong>\n"
+"\n"
+"Láti ṣàlàyé àwọn ọ̀rọ̀ ìtumọ̀ níbí:\n"
+"\n"
+"- <strong>Framework/Boilerplate:</strong> àdàkọ́ṣe tí a lè fi kọ́ koodu púpọ̀ sí i\n"
+"- <strong>Library:</strong> nílò àwọn Plugin tàbí theme mìíràn láti ṣàtúnṣe ara wọn kí a tó lè lò wọ́n\n"
+"\n"
+"A fẹ́ kí àwọn Plugin wúlò fúnra wọn (kódà bí ó bá jẹ́ pé ọ̀nà sí iṣẹ́ ìta nìkan ni). Èyí túmọ̀ sí pé Plugin kan yẹ kí ó jẹ́ èyí tó ṣeé fi sílẹ̀, tó sì ń ṣiṣẹ́ pátápátá, tàbí kó ní àpótí ìṣàkóso kan.\n"
+"\n"
+"https://make.wordpress.org/plugins/2016/03/01/please-do-not-submit-frameworks/\n"
+"\n"
+"Nígbà tí Plugin kan bá nílò kí a ṣàtúnṣe Plugin náà fúnra rẹ̀ kí ó tó ṣiṣẹ́, tàbí tí a kò lè lò ó bíkòṣe pé a kọ koodu síbòmíràn, kò ní àǹfààní tó pọ̀ mọ́ fún àwọn olùlò ìkẹyìn, ó sì dà bí ohun èlò olùṣẹ̀dá.\n"
+"\n"
+"Bí ó tilẹ̀ jẹ́ pé ọ̀pọ̀lọpọ̀ àǹfààní ló wà fún àwọn framework àti library, WordPress kò ní ìtìlẹ́yìn ìgbára lé Plugin kankan lásìkò yìí, èyí tó ń fa ọ̀pọ̀lọpọ̀ ìṣòro.\n"
+"\n"
+"Àwọn ìṣòro ìtìlẹ́yìn tó ṣeéṣe ni (ṣùgbọ́n kò mọ sí):\n"
+"\n"
+"- àìgbà pé library ṣe pàtàkì tàbí ríronú pé wọ́n ti fọ́ ojúlé wọn\n"
+"- àìṣe àdàkọ boilerplate lọ́nà tó tọ́ àti ṣíṣàtúnṣe rẹ̀ níbẹ̀, èyí tó máa ń fa kí àwọn àtúnṣe pa koodu rẹ́\n"
+"- àìgbà pé Plugin library ṣe pàtàkì, báyìí ni wọ́n ṣe ń pa á rẹ́ (tó ń fa kí àwọn mìíràn bàjẹ́)\n"
+"- ṣíṣe àtúnṣe Plugin library lọ́tọ̀ sí àwọn Plugin tó gbára lé e, tó ń fa ìbàjẹ́\n"
+"- ṣíṣe àtúnṣe Plugin tó gbára lé e láìṣe àtúnṣe library, tó ń fa ìbàjẹ́\n"
+"- àwọn Plugin ọ̀tọ̀ọ̀tọ̀ tó ń nílò àwọn ẹ̀yà ọ̀tọ̀ọ̀tọ̀ Plugin library láìní àyẹ̀wò if-exists tó tọ́\n"
+"- A rò pé ó yẹ kí á fi àwọn library pa pọ̀ pẹ̀lú Plugin kọ̀ọ̀kan (ní ìrètí pé kò ní tako àwọn Plugin mìíràn tó ń lo àwọn library náà). Ó kéré tán títí tí èyí àárín yóò fi gba ìgbára lé Plugin. Àwọn Framework, fúnra wọn, kò ní àyè nínú àtòpọ̀ wa nítorí pé wọ́n jẹ́ àdàkọ́ṣe tí kò ṣiṣẹ́.\n"
+"\n"
+"Tí o bá ti kà á dé ìsàlẹ̀ yìí, tí o sì ṣì rò pé ó yẹ kí á gba koodu rẹ, a rọ̀ ọ́ pé kó o má tún fi Plugin náà sílẹ̀, kí o sì dáhùn sí lẹ́tà email yìí dípò."
 
 #. translators: 1: plugin name, 2: plugin slug.
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:478
@@ -237,229 +397,242 @@ msgid ""
 "The WordPress Plugin Directory Team\n"
 "https://make.wordpress.org/plugins"
 msgstr ""
+"Lẹ́tà email yí wà láti jẹ́ kí o mọ̀ pé Plugin rẹ %1$s ni a ti fi kún Àtòpọ̀ Àkójọpọ̀ níbí: https://wordpress.org/plugins/browse/block/.\n"
+"\n"
+"A ṣì ń ṣiṣẹ́ lórí mímú ìwáàdí Àtòpọ̀ Àkójọpọ̀ àti ìṣàwárí àdáṣe àwọn àkójọpọ̀ sunwọ̀n sí i, nítorí náà má ṣe bẹ̀rù tí àkójọpọ̀ rẹ kò bá hàn lẹ́sẹ̀kẹsẹ̀ níbẹ̀. A ti ṣe ohun èlò tuntun kan láti ran àwọn olùdàgbàsókè lọ́wọ́ láti ṣe ìdámọ̀ àwọn ìṣòro àti àwọn ìlọsíwájú tó ṣeéṣe sí àwọn Plugin àkójọpọ̀, èyí tí ìwọ yóò rí níbí: https://wordpress.org/plugins/developers/block-plugin-validator/.\n"
+"\n"
+"Bí o kò bá mọ̀, Àtòpọ̀ Àkójọpọ̀ jẹ́ ohun tuntun tí yóò dé sí WordPress 5.5 ní August. Nípa fífi Plugin rẹ kún un níbí ládáṣe, àwọn olùlò WordPress yóò lè ṣàwárí Plugin àkójọpọ̀ rẹ, kí wọ́n sì fi sílẹ̀ tààrà láti inú olóòtú nígbà tí wọ́n bá ń wá àwọn àkójọpọ̀. Tí o bá ní àbá èyíkéyìí (àṣìṣe, ìlọsíwájú, àti bẹ́ẹ̀bẹ́ẹ̀ lọ) nípa ohun tuntun yìí, jọ̀wọ́ ṣí ọ̀ràn kan níbí: https://github.com/wordpress/gutenberg/.\n"
+"\n"
+"Tí o bá fẹ́ kí á yọ Plugin rẹ kúrò nínú Àtòpọ̀ Àkójọpọ̀, o lè ṣe bẹ́ẹ̀ níbí: https://wordpress.org/plugins/developers/block-plugin-validator/?plugin_url=%2$s\n"
+"\n"
+"Bí bẹ́ẹ̀ kọ́, o ti ṣe tán!\n"
+"\n"
+"--\n"
+"Ẹgbẹ́ WordPress Plugin Directory\n"
+"https://make.wordpress.org/plugins"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:520
 #, gp-priority: low
 msgid "Click to search Plugin Team P2 for mentions of this plugin"
-msgstr ""
+msgstr "Klíìkì láti wá àwọn àpèjáde Plugin yìí nínú Plugin Team P2"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:491
 #, gp-priority: low
 msgid "Plugin is open."
-msgstr ""
+msgstr "Plugin wà ní ṣíṣí."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:488
 #, gp-priority: low
 msgid "Plugin is open but has not been updated in more than two years."
-msgstr ""
+msgstr "Plugin wà ní ṣíṣí ṣùgbọ́n a kò tíì ṣe àtúnṣe rẹ̀ fún ohun tó ju ọdún méjì lọ."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:485
 #, gp-priority: low
 msgid "Plugin is approved, but has no data."
-msgstr ""
+msgstr "A ti fọwọ́sí Plugin, ṣùgbọ́n kò ní dátà."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:477
 #, gp-priority: low
 msgid "Plugin is disabled (updates are active)."
-msgstr ""
+msgstr "Plugin wà ní dídálẹ́kun (àwọn àtúnṣe ṣì ń ṣiṣẹ́)."
 
 #. translators: %s: close/disable reason
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:474
 #, gp-priority: low
 msgid "(disabled: %s)"
-msgstr ""
+msgstr "(dídálẹ́kun: %s)"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:468
 #, gp-priority: low
 msgid "Plugin is closed."
-msgstr ""
+msgstr "Plugin wà ní pípàdé."
 
 #. translators: %s: close/disable reason
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:465
 #, gp-priority: low
 msgid "(closed: %s)"
-msgstr ""
+msgstr "(pípàdé: %s)"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:458
 #, gp-priority: low
 msgid "Plugin was rejected."
-msgstr ""
+msgstr "A kọ Plugin náà."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:454
 #, gp-priority: low
 msgid "Requested, remains unapproved."
-msgstr ""
+msgstr "A béèrè rẹ̀, ó ṣì wà láìfọwọ́sí."
 
 #. translators: %s: time ago
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:451
 #, gp-priority: low
 msgid "(requested %s ago)"
-msgstr ""
+msgstr "(a béèrè rẹ̀ ní %s sẹ́yìn)"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:442
 #, gp-priority: low
 msgid "The user is not a current committer."
-msgstr ""
+msgstr "Olùlò náà kì í ṣe committer lọ́wọ́lọ́wọ́."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:438
 #, gp-priority: low
 msgid "This user submitted this plugin."
-msgstr ""
+msgstr "Olùlò yìí ni ó fi Plugin yìí sílẹ̀."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:270
 #, gp-priority: low
 msgid "Not a developer on any plugin."
-msgstr ""
+msgstr "Kì í ṣe olùdàgbàsókè lórí Plugin kankan."
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:189
 #, gp-priority: low
 msgid "flagged"
-msgstr ""
+msgstr "fìlàsì"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:182
 #, gp-priority: low
 msgid "banned"
-msgstr ""
+msgstr "fígbèdé"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:168
 #, gp-priority: low
 msgid "Author URL:"
-msgstr ""
+msgstr "URL Akọ̀wé:"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:137
 #, gp-priority: low
 msgid "support"
-msgstr ""
+msgstr "ìtìlẹ́yìn"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:136
 #, gp-priority: low
 msgid "profile"
-msgstr ""
+msgstr "prófáìlì"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:124
 #, gp-priority: low
 msgid "Click to search Pluginrepo P2 for mentions of this author"
-msgstr ""
+msgstr "Klíìkì láti wá àwọn àpèjáde akọ̀wé yìí nínú Pluginrepo P2"
 
 #: plugins/plugin-directory/admin/class-customizations.php:486
 #: themes/pub/wporg-plugins-2024/inc/template-tags.php:243
 #: themes/pub/wporg-plugins-2024/inc/template-tags.php:253
 #, gp-priority: low
 msgid "This plugin has been closed and is no longer available for download."
-msgstr ""
+msgstr "Plugin yìí ti wà ní pípàdé, kò sì sí fún gbígbà jáde mọ́."
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:628
 #: plugins/plugin-directory/admin/metabox/class-controls.php:134
 #, gp-priority: low
 msgid "Close/Disable Reason:"
-msgstr ""
+msgstr "Ìdí Pípadé/Dídálẹ́kun:"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:115
 #, gp-priority: low
 msgid "Disable Reason: %s"
-msgstr ""
+msgstr "Ìdí Dídálẹ́kun: %s"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:111
 #, gp-priority: low
 msgid "Close Reason: %s"
-msgstr ""
+msgstr "Ìdí Pípadé: %s"
 
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:137
 #, gp-priority: low
 msgid "Add Support Rep"
-msgstr ""
+msgstr "Fi Aṣojú Ìtìlẹ́yìn Kún Un"
 
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:135
 #, gp-priority: low
 msgid "Add a new support rep"
-msgstr ""
+msgstr "Fi aṣojú ìtìlẹ́yìn tuntun kún un"
 
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:129
 #, gp-priority: low
 msgid "+ Add New Support Rep"
-msgstr ""
+msgstr "+ Fi Aṣojú Ìtìlẹ́yìn Tuntun Kún Un"
 
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:62
 #, gp-priority: low
 msgid "No support reps found."
-msgstr ""
+msgstr "A kò rí aṣojú ìtìlẹ́yìn kankan."
 
 #: plugins/plugin-directory/admin/class-customizations.php:759
 #: plugins/plugin-directory/widgets/class-support-reps.php:18
 #, gp-priority: low
 msgid "Plugin Support Reps"
-msgstr ""
+msgstr "Àwọn Aṣojú Ìtìlẹ́yìn Plugin"
 
 #: plugins/plugin-directory/admin/class-customizations.php:144
 #, gp-priority: low
 msgid "Are you sure you want to remove this support rep?"
-msgstr ""
+msgstr "Ṣé o dá ọ lójú pé o fẹ́ yọ aṣojú ìtìlẹ́yìn yìí kúrò?"
 
 #. translators: %s: plugin slug
 #: plugins/plugin-directory/admin/class-customizations.php:585
 #: plugins/plugin-directory/admin/class-customizations.php:665
 #, gp-priority: low
 msgid "Error: The plugin %s already exists."
-msgstr ""
+msgstr "Àṣìṣe: Plugin %s ti wà tẹ́lẹ̀."
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:365
 #, gp-priority: low
 msgid "Update"
-msgstr ""
+msgstr "Àtúnṣe"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:338
 #, gp-priority: low
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:334
 #, gp-priority: low
 msgid "Quick Edit"
-msgstr ""
+msgstr "Àtúnṣe Kíákíá"
 
 #. translators: %s: Plugin Title
 #: plugins/plugin-directory/admin/metabox/class-review-tools.php:418
 #, gp-priority: low
 msgid "[WordPress Plugin Directory] Rejection Explanation: %s"
-msgstr ""
+msgstr "[Àtòpọ̀ Plugin WordPress] Àlàyé Ìkọ̀sílẹ̀: %s"
 
 #. translators: 1: readme.txt, 2: readme.md
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:345
 #, gp-priority: low
 msgid "The zip file must include a file named %1$s or %2$s. We recommend using %1$s as it will allow you to fully utilize our directory."
-msgstr ""
+msgstr "Fáìlì zip gbọ́dọ̀ ní fáìlì kan tí orúkọ rẹ̀ jẹ́ %1$s tàbí %2$s. A dámọ̀ràn lílo %1$s nítorí yóò jẹ́ kí o lo àtòpọ̀ wa ní kíkún."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:341
 #, gp-priority: low
 msgid "Error: The plugin has no readme."
-msgstr ""
+msgstr "Àṣìṣe: Plugin kò ní readme."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:296
 #, gp-priority: low
 msgid "Error: Plugin versions are expected to be numbers."
-msgstr ""
+msgstr "Àṣìṣe: Àwọn nọ́mbà la retí kí àwọn ẹ̀yà Plugin jẹ́."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:284
 #, gp-priority: low
 msgid "Error: The plugin has no version."
-msgstr ""
+msgstr "Àṣìṣe: Plugin kò ní ẹ̀yà."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:272
 #, gp-priority: low
 msgid "Error: The plugin has no description."
-msgstr ""
+msgstr "Àṣìṣe: Plugin kò ní àpèjúwe."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:235
 #, gp-priority: low
 msgid "Error: The plugin already exists."
-msgstr ""
+msgstr "Àṣìṣe: Plugin ti wà tẹ́lẹ̀."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:170
 #, gp-priority: low
 msgid "Error: The plugin has a reserved name."
-msgstr ""
+msgstr "Àṣìṣe: Plugin ní orúkọ tí a ti pamọ́."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:142
 #, gp-priority: low
 msgid "Error: The plugin has no name."
-msgstr ""
+msgstr "Àṣìṣe: Plugin kò ní orúkọ."
