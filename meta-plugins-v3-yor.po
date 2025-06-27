@@ -487,12 +487,12 @@ msgstr "Kì í ṣe olùdàgbàsókè lórí Plugin kankan."
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:189
 #, gp-priority: low
 msgid "flagged"
-msgstr "fìlàsì"
+msgstr "fìlàsì sí"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:182
 #, gp-priority: low
 msgid "banned"
-msgstr "fígbèdé"
+msgstr "gbígbèdé"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:168
 #, gp-priority: low
@@ -507,7 +507,7 @@ msgstr "ìtìlẹ́yìn"
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:136
 #, gp-priority: low
 msgid "profile"
-msgstr "prófáìlì"
+msgstr "prófáílì"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:124
 #, gp-priority: low
@@ -583,7 +583,7 @@ msgstr "Àtúnṣe"
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:338
 #, gp-priority: low
 msgid "Slug"
-msgstr "Slug"
+msgstr "Slúgì"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:334
 #, gp-priority: low
