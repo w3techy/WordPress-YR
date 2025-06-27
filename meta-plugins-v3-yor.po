@@ -4377,256 +4377,256 @@ msgstr ""
 #: plugins/plugin-directory/widgets/class-meta.php:162
 #, gp-priority: low
 msgid "Close"
-msgstr ""
+msgstr "Tì"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:170
 #: plugins/plugin-directory/admin/metabox/class-controls.php:63
 #, gp-priority: low
 msgid "Disable"
-msgstr ""
+msgstr "Dílọ́wọ́"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:162
 #: plugins/plugin-directory/admin/metabox/class-controls.php:60
 #, gp-priority: low
 msgid "Open"
-msgstr ""
+msgstr "Ṣí"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:73
 #, gp-priority: low
 msgid "Mark as Pending"
-msgstr ""
+msgstr "Sàmì sí bíi Ndurodè"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:54
 #, gp-priority: low
 msgid "Approve"
-msgstr ""
+msgstr "Fọwọ́sí"
 
 #: plugins/plugin-directory/admin/class-customizations.php:142
 #, gp-priority: low
 msgid "Are you sure you want to reject this plugin?"
-msgstr ""
+msgstr "Ṣé o dá ọ lójú pé o fẹ́ kọ plugin yìí?"
 
 #: plugins/plugin-directory/admin/class-customizations.php:141
 #, gp-priority: low
 msgid "Are you sure you want to approve this plugin?"
-msgstr ""
+msgstr "Ṣé o dá ọ lójú pé o fẹ́ fọwọ́sí plugin yìí?"
 
 #. translators: %s: 'Plugin Name:'
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:162
 #, gp-priority: low
 msgid "Plugin names may only contain latin letters (A-z), numbers, spaces, and hyphens. Please change the %s line in your main plugin file and readme, then you may upload it again."
-msgstr ""
+msgstr "Àwọn orúkọ Plugin lè ní àwọn lẹ́tà Látìn (A-z), nọ́mbà, ààyè, àti àwọn ìlà nìkan. Jọ̀wọ́ yí ìlà %s padà nínú fáìlì plugin àkọ́kọ́ rẹ àti readme, lẹ́yìn náà o lè tún un gbé sí ayélujára."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:158
 #, gp-priority: low
 msgid "Error: The plugin has an unsupported name."
-msgstr ""
+msgstr "Àṣìṣe: Plugin ní orúkọ tí a kò ṣe àtìlẹ́yìn fún."
 
 #. translators: plugins@wordpress.org
 #: plugins/plugin-directory/shortcodes/class-upload.php:185
 #, gp-priority: low
 msgid "Please wait at least 7 business days before asking for an update status from <a href=\"mailto:%1$s\">%1$s</a>."
-msgstr ""
+msgstr "Jọ̀wọ́ dúró de ó kéré tán ọjọ́ iṣẹ́ méje kí o tó béèrè fún ipò àtúnṣe láti ọ̀dọ̀ <a href=\"mailto:%1$s\">%1$s</a>."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:414
 #, gp-priority: low
 msgid "Error: The plugin has failed the automated checks."
-msgstr ""
+msgstr "Àṣìṣe: Plugin ti kùnà àwọn àyẹ̀wò aládàáṣiṣẹ́."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:247
 #, gp-priority: low
 msgid "Error: The plugin has already been submitted."
-msgstr ""
+msgstr "Àṣìṣe: A ti fi plugin náà sílẹ̀ tẹ́lẹ̀."
 
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:364
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:129
 #, gp-priority: low
 msgid "Congratulations! No errors found."
-msgstr ""
+msgstr "Mo kí ọ kú oríire! Kò sí àṣìṣe kankan tí a rí."
 
 #. translators: %d: number of pending plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:521
 #, gp-priority: low
 msgid "&rarr; (pending; replied to)* : %d"
-msgstr ""
+msgstr "&rarr; (ndúródé; a ti dáhùn)* : %d"
 
 #. translators: %d: number of new plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:512
 #, gp-priority: low
 msgid "&rarr; (new; not processed or replied to yet)* : %d"
-msgstr ""
+msgstr "&rarr; (tuntun; a kò tíì ṣiṣẹ́ lé lórí tàbí dáhùn sí)* : %d"
 
 #. translators: 1: start date, 2: end date, 3: number of plugins in the queue
 #. within defined time window
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:501
 #, gp-priority: low
 msgid "&rarr; (%1$s - %2$s) : %3$d"
-msgstr ""
+msgstr "&rarr; (%1$s - %2$s) : %3$d"
 
 #. translators: 1: number of most recent days, 2: number of older plugins in
 #. the queue
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:491
 #, gp-priority: low
 msgid "&rarr; (older than %1$d days ago)** : %2$d"
-msgstr ""
+msgstr "&rarr; (tó pẹ́ ju %1$d ọjọ́ sẹ́yìn lọ)** : %2$d"
 
 #. translators: %d: number of plugins in the queue
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:482
 #, gp-priority: low
 msgid "Plugins in the queue (new and pending)* : %d"
-msgstr ""
+msgstr "Àwọn Plugin nínú ìtòlọ́wọ̀ọ̀wọ́ (tuntun àti ndúródé)* : %d"
 
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:475
 #, gp-priority: low
 msgid "Plugin Queue Stats (current)"
-msgstr ""
+msgstr "Àwọn ìṣirò Ìtòlọ́wọ̀ọ̀wọ́ Plugin (lọ́wọ́lọ́wọ́)"
 
 #. translators: %s: number of approved plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:468
 #, gp-priority: low
 msgid "Plugins approved : %s"
-msgstr ""
+msgstr "Àwọn Plugin tí a fọwọ́sí : %s"
 
 #. translators: %s: number of closed plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:450
 #, gp-priority: low
 msgid "Plugins closed : %s"
-msgstr ""
+msgstr "Àwọn Plugin tí a ti tì : %s"
 
 #. translators: %s: number of rejected plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:441
 #, gp-priority: low
 msgid "Plugins rejected : %s"
-msgstr ""
+msgstr "Àwọn Plugin tí a kọ̀ : %s"
 
 #. translators: %d: number of requested plugins
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:432
 #, gp-priority: low
 msgid "Plugins requested : %d"
-msgstr ""
+msgstr "Àwọn Plugin tí a béèrè : %d"
 
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:394
 #, gp-priority: low
 msgid "\"Recent\" number of days"
-msgstr ""
+msgstr "Iye ọjọ́ \"Àìpẹ́\""
 
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:381
 #, gp-priority: low
 msgid "Number of days"
-msgstr ""
+msgstr "Iye ọjọ́"
 
 #: plugins/plugin-directory/admin/class-customizations.php:491
 #, gp-priority: low
 msgid "This plugin is disabled (closed, but actively serving updates)."
-msgstr ""
+msgstr "A ti dí plugin yìí lọ́wọ́ (a ti tì í, ṣùgbọ́n ó ṣì n pèsè àwọn ìgbàgbọ́hùn lọ́wọ́lọ́wọ́)."
 
 #: plugins/plugin-directory/admin/class-customizations.php:477
 #: themes/pub/wporg-plugins-2024/inc/template-tags.php:207
 #, gp-priority: low
 msgid "This plugin has been rejected and is not visible to the public."
-msgstr ""
+msgstr "A ti kọ plugin yìí, kò sì hàn sí gbogbo ènìyàn."
 
 #: plugins/plugin-directory/admin/class-customizations.php:472
 #, gp-priority: low
 msgid "This plugin has been reviewed and is currently waiting on developer feedback."
-msgstr ""
+msgstr "A ti ṣe àgbéyẹ̀wò plugin yìí, ó sì n dúró de àbá èsì olùgbéejáde lọ́wọ́lọ́wọ́."
 
 #: plugins/plugin-directory/admin/class-customizations.php:467
 #, gp-priority: low
 msgid "This plugin is newly requested and has not yet been reviewed."
-msgstr ""
+msgstr "A ṣẹ̀ṣẹ̀ béèrè fún plugin yìí, a kò sì tíì ṣe àgbéyẹ̀wò rẹ̀."
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:133
 #, gp-priority: low
 msgid "No user found with this slug, login, or email address."
-msgstr ""
+msgstr "Kò sí olùṣamúlò tí a rí pẹ̀lú slug, ìwọlé, tàbí àdírẹ́sì lẹ́tà sọ̀nrọ̀sọ̀ yìí."
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:96
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:225
 #, gp-priority: low
 msgid "Results"
-msgstr ""
+msgstr "Àwọn àbájáde"
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:92
 #: plugins/plugin-directory/admin/tools/class-stats-report.php:408
 #: plugins/plugin-directory/admin/tools/class-upload-token.php:138
 #, gp-priority: low
 msgid "Submit"
-msgstr ""
+msgstr "Fi sílẹ̀"
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:90
 #, gp-priority: low
 msgid "Comma-separated list of user slugs, logins, and/or email addresses."
-msgstr ""
+msgstr "Àkójọpọ̀ tí a fi ààmì ìdánidúró yà sọ́tọ̀ ti àwọn slug olùṣamúlò, àwọn ìwọlé, àti/tàbí àwọn àdírẹ́sì lẹ́tà sọ̀nrọ̀sọ̀."
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:87
 #, gp-priority: low
 msgid "Users"
-msgstr ""
+msgstr "Àwọn olùṣàmúlò"
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:83
 #, gp-priority: low
 msgid "This is a tool to display an author card for one or more specified users."
-msgstr ""
+msgstr "Èyí jẹ́ irinṣẹ́ láti fi káàdì òǹkọ̀wé hàn fún ọ̀kan tàbí jù bẹ́ẹ̀ lọ àwọn olùṣamúlò tí a tọ́ka sí."
 
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:38
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:39
 #: plugins/plugin-directory/admin/tools/class-author-cards.php:81
 #, gp-priority: low
 msgid "Author Cards"
-msgstr ""
+msgstr "Àwọn Káàdì Òǹkọ̀wé"
 
 #. translators: %s: comma-separated list of negative user status labels
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:204
 #, gp-priority: low
 msgid "This user is: %s"
-msgstr ""
+msgstr "Olùṣamúlò yìí ni: %s"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:190
 #, gp-priority: low
 msgid "User is flagged in the support forums"
-msgstr ""
+msgstr "A ti sàmì sí olùṣamúlò nínú àwọn àpéjọ ìrànlọ́wọ́"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:183
 #, gp-priority: low
 msgid "User is banned from logging into WordPress.org"
-msgstr ""
+msgstr "A ti fòfin de olùṣamúlò láti wọlé sí WordPress.org"
 
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:272
 #, gp-priority: low
 msgid "%d plugin:"
 msgid_plural "%d plugins:"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d plugin:"
+msgstr[1] "%d àwọn plugin:"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:37
 #, gp-priority: low
 msgid "Submitter"
-msgstr ""
+msgstr "Olùfisílẹ̀"
 
 #. translators: 1: user note author's display name, 2: date
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:252
 #: plugins/plugin-directory/api/routes/class-plugin.php:420
 #, gp-priority: low
 msgid "By %1$s on %2$s"
-msgstr ""
+msgstr "Láti ọwọ́ %1$s ní %2$s"
 
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:102
 #, gp-priority: low
 msgid "Fatal Errors:"
-msgstr ""
+msgstr "Àwọn Àṣìṣe Pàtàkì:"
 
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:56
 #, gp-priority: low
 msgid "... or paste your <code>readme.txt</code> here:"
-msgstr ""
+msgstr "... tàbí lẹẹmọ́ <code>readme.txt</code> rẹ síbí:"
 
 #: plugins/plugin-directory/admin/class-customizations.php:715
 #: plugins/plugin-directory/admin/list-table/class-plugin-comments.php:65
 #: plugins/plugin-directory/admin/metabox/class-author.php:28
 #, gp-priority: low
 msgid "Author"
-msgstr ""
+msgstr "Òǹkọ̀wé"
 
 #. translators: %s: section title
 #: plugins/plugin-directory/readme/class-validator.php:389
@@ -4635,65 +4635,65 @@ msgstr ""
 #: plugins/plugin-directory/readme/class-validator.php:407
 #, gp-priority: low
 msgid "No %s section was found"
-msgstr ""
+msgstr "Kò sí apá %s tí a rí"
 
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:104
 #, gp-priority: low
 msgid "Notes:"
-msgstr ""
+msgstr "Àwọn àkíyèsí:"
 
 #: plugins/plugin-directory/readme/class-validator.php:411
 #, gp-priority: low
 msgid "No donate link was found"
-msgstr ""
+msgstr "Kò sí ìjápọ̀ ìtọrẹ tí a rí"
 
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:103
 #, gp-priority: low
 msgid "Warnings:"
-msgstr ""
+msgstr "Àwọn ìkìlọ̀:"
 
 #: plugins/plugin-directory/readme/class-validator.php:57
 #, gp-priority: low
 msgid "Invalid readme.txt URL."
-msgstr ""
+msgstr "URL readme.txt tí kò tọ̀nà."
 
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:52
 #: plugins/plugin-directory/shortcodes/class-readme-validator.php:61
 #, gp-priority: low
 msgid "Validate!"
-msgstr ""
+msgstr "Fìdíìmúlẹ̀!"
 
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:40
 #: plugins/plugin-directory/shortcodes/class-upload.php:348
 #: plugins/plugin-directory/shortcodes/class-upload.php:451
 #, gp-priority: low
 msgid "Select File"
-msgstr ""
+msgstr "Yan Fáìlì"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:134
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:134
 #, gp-priority: low
 msgid "WordPress.org username"
-msgstr ""
+msgstr "Orúkọ olùṣamúlò WordPress.org"
 
 #. translators: used between list items, there is a space after the comma.
 #: plugins/plugin-directory/block-json/class-validator.php:103
 #, gp-priority: low
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: Login URL
 #: plugins/plugin-directory/shortcodes/class-upload.php:55
 #, gp-priority: low
 msgid "Before you can upload a new plugin, <a href=\"%s\">please log in</a>."
-msgstr ""
+msgstr "Kí o tó lè gbé plugin tuntun sí ayélujára, <a href=\"%s\">jọ̀wọ́ wọlé</a>."
 
 #. translators: Maximum allowed file size.
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:51
 #: plugins/plugin-directory/shortcodes/class-upload.php:459
 #, gp-priority: low
 msgid "Maximum allowed file size: %s"
-msgstr ""
+msgstr "Ìwọ̀n fáìlì tó pọ̀ jùlọ tí a gbà láàyè: %s"
 
 #: plugins/plugin-directory/admin/metabox/class-review-tools.php:161
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:43
@@ -4701,7 +4701,7 @@ msgstr ""
 #: plugins/plugin-directory/shortcodes/class-upload.php:520
 #, gp-priority: low
 msgid "Upload"
-msgstr ""
+msgstr "Gbé sí ayélujára"
 
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:109
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:79
@@ -4709,152 +4709,152 @@ msgstr ""
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:98
 #, gp-priority: low
 msgid "Error in file upload."
-msgstr ""
+msgstr "Àṣìṣe nínú gbígbé fáìlì sí ayélujára."
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:799
 #, gp-priority: low
 msgid "Results of Automated Plugin Scanning: %s"
-msgstr ""
+msgstr "Àwọn àbájáde Ìṣàyẹ̀wò Plugin Aládàáṣiṣẹ́: %s"
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:800
 #, gp-priority: low
 msgid "Fail"
-msgstr ""
+msgstr "Kùnà"
 
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:800
 #, gp-priority: low
 msgid "Pass"
-msgstr ""
+msgstr "Kọjá"
 
 #. translators: 1: Plugin Check Plugin URL, 2: plugins email.
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:417
 #, gp-priority: low
 msgid "Please correct the listed problems with your plugin and upload it again. You can also use the <a href=\"%1$s\">Plugin Check Plugin</a> to test your plugin before uploading. If you have any questions about this please contact %2$s."
-msgstr ""
+msgstr "Jọ̀wọ́ ṣatúnṣe àwọn ìṣòro tí a ṣe àtòjọ wọn pẹ̀lú plugin rẹ kí o sì tún un gbé sí ayélujára. O tún lè lo <a href=\"%1$s\">Plugin Check Plugin</a> láti dán plugin rẹ wò kí o tó gbé e sí ayélujára. Tí o bá ní ìbéèrè kankan nípa èyí, jọ̀wọ́ kàn sí %2$s."
 
 #. translators: %s: 'Version:'
 #: plugins/plugin-directory/shortcodes/class-upload-handler.php:300
 #, gp-priority: low
 msgid "Version strings may only contain numeric and period characters (i.e. 1.2). Please correct the %s line in your main plugin file and upload the plugin again."
-msgstr ""
+msgstr "Àwọn okun ẹ̀yà lè ní àwọn nọ́mbà àti àwọn ààmì ìdánidúró nìkan (f.a. 1.2). Jọ̀wọ́ ṣatúnṣe ìlà %s nínú fáìlì plugin àkọ́kọ́ rẹ kí o sì tún gbé plugin náà sí ayélujára."
 
 #. translators: %s: Plugin Title
 #: plugins/plugin-directory/admin/metabox/class-review-tools.php:436
 #, gp-priority: low
 msgid "[WordPress Plugin Directory] Notice: %s"
-msgstr ""
+msgstr "[Ìwé Àkójọ Plugin WordPress] Ìfitónilétí: %s"
 
 #: plugins/plugin-directory/admin/metabox/class-internal-notes.php:35
 #, gp-priority: low
 msgid "Add note"
-msgstr ""
+msgstr "Fi àkíyèsí kún"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:225
 #, gp-priority: low
 msgid "Tested With:"
-msgstr ""
+msgstr "Dánwò Pẹ̀lú:"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:363
 #, gp-priority: low
 msgid "Cancel"
-msgstr ""
+msgstr "Fagilee"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:181
 #, gp-priority: low
 msgid "Status:"
-msgstr ""
+msgstr "Ipò:"
 
 #: plugins/plugin-directory/admin/metabox/class-controls.php:37
 #, gp-priority: low
 msgid "Save Changes"
-msgstr ""
+msgstr "Fi Àwọn Àyípadà Pamọ́"
 
 #: plugins/plugin-directory/admin/metabox/class-committers.php:111
 #: plugins/plugin-directory/admin/metabox/class-support-reps.php:103
 #, gp-priority: low
 msgid "The specified user does not exist."
-msgstr ""
+msgstr "Olùṣamúlò tí a tọ́ka sí kò sí."
 
 #: plugins/plugin-directory/admin/metabox/class-committers.php:72
 #: plugins/plugin-directory/admin/metabox/class-support-reps.php:64
 #, gp-priority: low
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "Àṣìṣe kan ti ṣẹlẹ̀. Jọ̀wọ́ tún ojú ìwé náà gbé jáde kí o sì gbìyànjú lẹ́ẹ̀kansíi."
 
 #: plugins/plugin-directory/admin/metabox/class-committers.php:56
 #: plugins/plugin-directory/admin/metabox/class-support-reps.php:56
 #, gp-priority: low
 msgid "The user %s does not exist."
-msgstr ""
+msgstr "Olùṣamúlò %s kò sí."
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:559
 #, gp-priority: low
 msgctxt "posts"
 msgid "Sticky <span class=\"count\">(%s)</span>"
 msgid_plural "Sticky <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Lílẹ̀mọ́ <span class=\"count\">(%s)</span>"
+msgstr[1] "Lílẹ̀mọ́ <span class=\"count\">(%s)</span>"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:475
 #, gp-priority: low
 msgctxt "posts"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gbogbo <span class=\"count\">(%s)</span>"
+msgstr[1] "Gbogbo <span class=\"count\">(%s)</span>"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:448
 #, gp-priority: low
 msgctxt "posts"
 msgid "My Plugins <span class=\"count\">(%s)</span>"
 msgid_plural "My Plugins <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àwọn Plugin Mi <span class=\"count\">(%s)</span>"
+msgstr[1] "Àwọn Plugin Mi <span class=\"count\">(%s)</span>"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:264
 #, gp-priority: low
 msgid "View"
-msgstr ""
+msgstr "Wo"
 
 #. translators: %s: post title
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:263
 #, gp-priority: low
 msgid "View &#8220;%s&#8221;"
-msgstr ""
+msgstr "Wo &#8220;%s&#8221;"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:253
 #, gp-priority: low
 msgid "Quick&nbsp;Edit"
-msgstr ""
+msgstr "Àtúnṣe&nbsp;Kíákíá"
 
 #. translators: %s: post title
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:252
 #, gp-priority: low
 msgid "Quick edit &#8220;%s&#8221; inline"
-msgstr ""
+msgstr "Àtúnṣe kíákíá &#8220;%s&#8221; inú ìlà"
 
 #. translators: %s: post title
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:244
 #, gp-priority: low
 msgid "Edit &#8220;%s&#8221;"
-msgstr ""
+msgstr "Ṣe àtúnṣe &#8220;%s&#8221;"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:158
 #: plugins/plugin-directory/admin/metabox/class-controls.php:57
 #, gp-priority: low
 msgid "Reject"
-msgstr ""
+msgstr "Kọ̀"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:245
 #: plugins/plugin-directory/admin/metabox/class-author-card.php:515
 #, gp-priority: low
 msgid "Edit"
-msgstr ""
+msgstr "Ṣe àtúnṣe"
 
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:153
 #, gp-priority: low
 msgid "Restore"
-msgstr ""
+msgstr "Múpadàbọ̀sípò"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:165
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:168
@@ -4864,144 +4864,144 @@ msgstr ""
 #: plugins/plugin-directory/widgets/class-support-reps.php:92
 #, gp-priority: low
 msgid "Remove"
-msgstr ""
+msgstr "Yọ kúrò"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:137
 #, gp-priority: low
 msgid "Add Committer"
-msgstr ""
+msgstr "Fi Olùfìṣọwọ́sí Kún"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:135
 #, gp-priority: low
 msgid "Add a new committer"
-msgstr ""
+msgstr "Fi olùfìṣọwọ́sí tuntun kún"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:129
 #, gp-priority: low
 msgid "+ Add New Committer"
-msgstr ""
+msgstr "+ Fi Olùfìṣọwọ́sí Tuntun Kún"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:86
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:86
 #, gp-priority: low
 msgid "Username"
-msgstr ""
+msgstr "Orúkọ olùṣamúlò"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:85
 #: plugins/plugin-directory/admin/list-table/class-support-reps.php:85
 #, gp-priority: low
 msgid "Avatar"
-msgstr ""
+msgstr "Àwòrán Avatar"
 
 #: plugins/plugin-directory/admin/list-table/class-committers.php:62
 #, gp-priority: low
 msgid "No committers found."
-msgstr ""
+msgstr "Kò sí àwọn olùfìṣọwọ́sí tí a rí."
 
 #: plugins/plugin-directory/admin/class-status-transitions.php:120
 #, gp-priority: low
 msgid "You do not have permission to assign this post status to a plugin."
-msgstr ""
+msgstr "O kò ní àṣẹ láti yan ipò àkọsílẹ̀ yìí fún plugin kan."
 
 #: plugins/plugin-directory/admin/class-customizations.php:966
 #, gp-priority: low
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Àbá"
+msgstr[1] "%s Àwọn Àbá"
 
 #: plugins/plugin-directory/admin/class-customizations.php:900
 #, gp-priority: low
 msgid "ERROR: please type a comment."
-msgstr ""
+msgstr "Àṣìṣe: jọ̀wọ́ tẹ àbá kan."
 
 #: plugins/plugin-directory/admin/class-customizations.php:878
 #, gp-priority: low
 msgid "Sorry, you must be logged in to reply to a comment."
-msgstr ""
+msgstr "Má bínú, o gbọ́dọ̀ wọlé kí o tó lè dáhùn sí àbá kan."
 
 #: plugins/plugin-directory/admin/class-customizations.php:752
 #: plugins/plugin-directory/widgets/class-committers.php:17
 #, gp-priority: low
 msgid "Plugin Committers"
-msgstr ""
+msgstr "Àwọn Olùfìṣọwọ́sí Plugin"
 
 #: plugins/plugin-directory/admin/class-customizations.php:730
 #, gp-priority: low
 msgid "Plugin Controls"
-msgstr ""
+msgstr "Àwọn Ìṣàkóso Plugin"
 
 #: plugins/plugin-directory/admin/class-customizations.php:722
 #: plugins/plugin-directory/widgets/class-meta.php:18
 #, gp-priority: low
 msgid "Plugin Meta"
-msgstr ""
+msgstr "Àkójọpọ̀ Meta Plugin"
 
 #: plugins/plugin-directory/admin/class-customizations.php:708
 #, gp-priority: low
 msgid "Author Card"
-msgstr ""
+msgstr "Káàdì Òǹkọ̀wé"
 
 #: plugins/plugin-directory/admin/class-customizations.php:694
 #: plugins/plugin-directory/shortcodes/class-block-validator.php:290
 #, gp-priority: low
 msgid "Plugin Review Tools"
-msgstr ""
+msgstr "Àwọn Irinṣẹ́ Àgbéyẹ̀wò Plugin"
 
 #: plugins/plugin-directory/admin/class-customizations.php:687
 #: plugins/plugin-directory/admin/list-table/class-plugin-posts.php:39
 #, gp-priority: low
 msgid "Internal Notes"
-msgstr ""
+msgstr "Àwọn Àkíyèsí Inú"
 
 #: plugins/plugin-directory/admin/class-customizations.php:549
 #: plugins/plugin-directory/class-plugin-directory.php:387
 #, gp-priority: low
 msgctxt "plugin status"
 msgid "Approved"
-msgstr ""
+msgstr "Fífọwọ́sí"
 
 #: plugins/plugin-directory/admin/class-customizations.php:541
 #: plugins/plugin-directory/class-plugin-directory.php:399
 #, gp-priority: low
 msgctxt "plugin status"
 msgid "Rejected"
-msgstr ""
+msgstr "Kíkọ̀sílẹ̀"
 
 #: plugins/plugin-directory/admin/class-customizations.php:532
 #: plugins/plugin-directory/class-plugin-directory.php:393
 #, gp-priority: low
 msgctxt "plugin status"
 msgid "Closed"
-msgstr ""
+msgstr "Títìpa"
 
 #: plugins/plugin-directory/admin/class-customizations.php:523
 #: plugins/plugin-directory/class-plugin-directory.php:381
 #, gp-priority: low
 msgctxt "plugin status"
 msgid "Disabled"
-msgstr ""
+msgstr "Dídílọ́wọ́"
 
 #: plugins/plugin-directory/admin/class-customizations.php:482
 #, gp-priority: low
 msgid "This plugin is approved and awaiting data upload. It is not yet visible to the public."
-msgstr ""
+msgstr "A ti fọwọ́sí plugin yìí, ó sì n dúró de gbígbé dátà sí ayélujára. Kò tíì hàn sí gbogbo ènìyàn."
 
 #: plugins/plugin-directory/admin/class-customizations.php:361
 #, gp-priority: low
 msgid "%s plugin rejected."
 msgid_plural "%s plugins rejected."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s plugin tí a kọ̀."
+msgstr[1] "%s àwọn plugin tí a kọ̀."
 
 #: plugins/plugin-directory/admin/class-customizations.php:143
 #, gp-priority: low
 msgid "Are you sure you want to remove this committer?"
-msgstr ""
+msgstr "Ṣé o dá ọ lójú pé o fẹ́ yọ olùfìṣọwọ́sí yìí kúrò?"
 
 #: plugins/plugin-directory/admin/class-customizations.php:110
 #, gp-priority: low
 msgid "%s Plugin"
 msgid_plural "%s Plugins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Plugin"
+msgstr[1] "%s Àwọn Plugin"
