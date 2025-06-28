@@ -13,2665 +13,2289 @@ msgstr ""
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:106
 msgid "Classic Editor to Blocks"
-msgstr ""
+msgstr "Láti Classic Editor sí Blocks"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:100
 msgid "Divi to Blocks"
-msgstr ""
+msgstr "Láti Divi sí Blocks"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:94
 msgid "Figma to Blocks"
-msgstr ""
+msgstr "Láti Figma sí Blocks"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:58
 msgid "Drupal to WordPress"
-msgstr ""
+msgstr "Láti Drupal sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:52
 msgid "Wix to WordPress"
-msgstr ""
+msgstr "Láti Wix sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:34
 msgid "Tumblr to WordPress"
-msgstr ""
+msgstr "Láti Tumblr sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:28
 msgid "Squarespace to WordPress"
-msgstr ""
+msgstr "Láti Squarespace sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:281
 msgid "Discover the latest WordPress release"
-msgstr ""
+msgstr "Ṣàwárí ìtújáde WordPress tuntun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:269
 msgid "The latest major WordPress version includes updates that can improve the blocks you use and enhance your overall site-building experience. Get more details about what features are available in the current release."
-msgstr ""
+msgstr "Ẹ̀yà WordPress tuntun pàtàkì ní àwọn àtúnṣe tí ó lè mú kí àwọn block tí o n lò dára sí i, kí ó sì jẹ́ kí ìrírí rẹ níní kíkọ́ ojúlé rẹ gbòòrò sí i. Gba àlàyé kíkún nípa àwọn ohun tí ó wà nínú ìtújáde tí ó wà lóde."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:35
 msgid "Upcoming WordPress events"
-msgstr ""
+msgstr "Àwọn ìṣẹ̀lẹ̀ WordPress tí ń bọ̀"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:31
 msgid "Developer Blog"
-msgstr ""
+msgstr "Developer Blog"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:27
 msgid "WordPress News"
-msgstr ""
+msgstr "Ìròyìn WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:21
 msgid "Go right to the source:"
-msgstr ""
+msgstr "Lọ tààrà sí orísun:"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/_work-in-progress.php:17
 msgid "You&#8217;re looking for what&#8217;s new in WordPress"
-msgstr ""
+msgstr "Ohun tuntun ní WordPress ni ò ń wá"
 
 #: themes/pub/wporg-login/functions.php:494
 msgid "Log in to your WordPress.org account to take or continue a course and track your progress."
-msgstr ""
+msgstr "Wọlé sí àkàùntù WordPress.org rẹ láti kẹ́kọ̀ọ́ tàbí láti tẹ̀síwájú nínú ìkẹ́kọ̀ọ́, kí o sì tọpinpin ìtẹ̀síwájú rẹ."
 
 #: themes/pub/wporg-login/functions.php:493
 msgid "Access all of Learn WordPress"
-msgstr ""
+msgstr "Wọlé sí gbogbo Learn WordPress"
 
 #: mu-plugins/blocks/local-navigation-bar/index.php:101
 msgctxt "local navigation label"
 msgid "Section"
-msgstr ""
+msgstr "Apá"
 
 #: mu-plugins/blocks/global-header-footer/header.php:102
 msgctxt "search toggle navigation label"
 msgid "Search"
-msgstr ""
+msgstr "Ìwáàdí"
 
 #: mu-plugins/blocks/global-header-footer/header.php:84
 msgctxt "main navigation label"
 msgid "Main"
-msgstr ""
+msgstr "Àkọ́kọ́"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:308
 msgid "State of Enterprise WordPress 2024 Report"
-msgstr ""
+msgstr "Ìròyìn State of Enterprise WordPress 2024"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:405
 msgid "Thanks to the over <em>630 contributors</em> who made this release"
-msgstr ""
+msgstr "Ọpẹ́ fún àwọn <em>olùkópa tó ju 630</em> lọ tí wọ́n ṣe ìtújáde yìí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:393
 msgid "Integrate your extensions across editors with slots now available under the <code>wp.editor</code> global variable."
-msgstr ""
+msgstr "Ṣàkópọ̀ àwọn extensions rẹ kaakiri àwọn editor pẹ̀lú àwọn slots tí ó wà nísinsìnyí lábẹ́ global variable <code>wp.editor</code>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:389
 msgid "Unified extensibility APIs"
-msgstr ""
+msgstr "Àwọn API extensibility tí a ṣọ̀kan"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:379
 msgid "Save time with <kbd>⌘G</kbd> for Mac or <kbd>ctrl</kbd> + <kbd>G</kbd> for Windows to group selected blocks and tab to indent list items."
-msgstr ""
+msgstr "Fi àkókò pamọ́ pẹ̀lú <kbd>⌘G</kbd> fún Mac tàbí <kbd>ctrl</kbd> + <kbd>G</kbd> fún Windows láti ṣàkójọpọ̀ àwọn block tí a yàn àti tab láti fi ààyè sí àwọn nǹkan inú àtòjọ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:375
 msgid "Shortcuts for editing"
-msgstr ""
+msgstr "Àwọn ọ̀nà àìgbà-kan-kan fún ṣíṣàtúnṣe"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:357
 msgid "Create a connected block with custom fields using the block bindings API and edit the custom field later directly in the editor."
-msgstr ""
+msgstr "Ṣẹ̀dá block kan tó so mọ́ra pẹ̀lú àwọn custom fields nípa lílo block bindings API, kí o sì ṣàtúnṣe custom field náà nígbà tó yá tààrà nínú editor."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:353
 msgid "Edit custom fields from connected blocks"
-msgstr ""
+msgstr "Ṣàtúnṣe àwọn custom fields láti inú àwọn block tó so mọ́ra"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:343
 msgid "Customize the available presets for aspect ratios for Image, Featured Image, and Cover blocks."
-msgstr ""
+msgstr "Ṣe àtúnṣe àwọn presets tó wà fún aspect ratios fún Image, Featured Image, àti àwọn block Cover."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:339
 msgid "Aspect ratio presets"
-msgstr ""
+msgstr "Àwọn presets aspect ratio"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:315
 msgid "Display blocks in a grid with visual sizing controls to change the row and column span of items to your liking. Auto and manual controls provide even more flexibility."
-msgstr ""
+msgstr "Ṣàfihàn àwọn block nínú grid pẹ̀lú àwọn visual sizing controls láti yí ààyè ìlà àti ọ̀wọ̀n àwọn nǹkan padà bí o ṣe fẹ́. Àwọn ìṣàkóso àdáṣe àti àfọwọ́ṣe pèsè àǹfààní púpọ̀ sí i."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:310
 msgid "New grid block"
-msgstr ""
+msgstr "Grid block tuntun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:299
 msgid "Create and edit shadows to your liking directly in the Styles section of the Site Editor. This gives you the power to create the exact shadow you’d like."
-msgstr ""
+msgstr "Ṣẹ̀dá kí o sì ṣàtúnṣe àwọn òjìji bí o ṣe fẹ́ tààrà nínú apá Styles ti Site Editor. Èyí fún ọ ní agbára láti ṣẹ̀dá òjìji tí o fẹ́ gẹ́lẹ́."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:295
 msgid "Custom shadows"
-msgstr ""
+msgstr "Àwọn òjìji àdáṣe"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:281
 msgid "Theme authors can pre-package styling options for sections of blocks, adding options for users to apply them as they’d like for a beautiful, consistent design and added flexibility."
-msgstr ""
+msgstr "Àwọn theme authors lè ṣàkójọpọ̀ àwọn àṣàyàn styling fún àwọn apá block, ní fífi àwọn àṣàyàn kún un fún àwọn olùlò láti lò wọ́n bí wọ́n ṣe fẹ́ fún dídára, ìṣọ̀kan nínú ìṣẹ̀dá àti àfikún àǹfààní."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:276
 msgid "Set styles for groups of blocks"
-msgstr ""
+msgstr "Ṣètò àwọn style fún àwọn àkójọpọ̀ block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:265
 msgid "Classic themes now have access to the patterns experience provided in the Site Editor, which offers a more feature-rich and modern way to manage and create patterns."
-msgstr ""
+msgstr "Àwọn Classic themes ní ààyè sí ìrírí patterns tí Site Editor pèsè, èyí tí ó pèsè ọ̀nà ìṣàkóso àti ìṣẹ̀dá patterns tí ó ní ohun púpọ̀, tí ó sì bá ìgbà mu."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:261
 msgid "Modern pattern management for Classic themes"
-msgstr ""
+msgstr "Ìṣàkóso pattern ìgbàlódé fún àwọn Classic themes"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:247
 msgid "A new design highlights key information when publishing, no matter where you’re writing, and a standardized inspector displays essential information for everything you edit."
-msgstr ""
+msgstr "Ìṣẹ̀dá tuntun kan ṣàfihàn àwọn ìsọfúnni pàtàkì nígbà tí o bá ń ṣe àtẹ̀jáde, láìka ibi tí o ti ń kọ̀wé sí, àti inspector tí a ṣe déédé ṣàfihàn àwọn ìsọfúnni pàtàkì fún gbogbo ohun tí o bá ń ṣàtúnṣe."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:242
 msgid "Refined publish flow"
-msgstr ""
+msgstr "Ìṣàn àtẹ̀jáde tí a túnṣe"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:231
 msgid "Create overlapping designs thanks to the ability to manually input negative values into margin controls. This is automatically available for all blocks that include margin support."
-msgstr ""
+msgstr "Ṣẹ̀dá àwọn ìṣẹ̀dá tó gbarawọn lé nítorí àǹfààní láti fi ọwọ́ kọ àwọn iye odi sínú àwọn ìṣàkóso margin. Èyí wà ní àdáṣe fún gbogbo àwọn block tó ní ìtìlẹ́yìn margin."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:227
 msgid "Negative margins"
-msgstr ""
+msgstr "Àwọn margin odi"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:202
 msgid "55+ accessibility fixes and enhancements focus on foundational aspects of the WordPress experience, particularly the data views component powering the new site editing experience and areas like the Inserter that provide a key way of interacting with blocks and patterns."
-msgstr ""
+msgstr "Àwọn àtúnṣe àti ìlọsíwájú accessibility tó ju 55 lọ gbájú mọ́ àwọn apá ìpìlẹ̀ ìrírí WordPress, pàápàá jùlọ data views component tó ń fún ìrírí ṣíṣàtúnṣe ojúlé tuntun ní agbára àti àwọn agbègbè bíi Inserter tó pèsè ọ̀nà pàtàkì láti bá àwọn block àti pattern ṣiṣẹ́."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:184
 msgid "6.6 includes important updates like removing redundant <code>WP_Theme_JSON</code> calls, disabling autoload for large options, eliminating unnecessary polyfill dependencies, lazy loading post embeds, introducing the <code>data-wp-on-async</code> directive, and a 40% reduction in template loading time in the editor."
-msgstr ""
+msgstr "6.6 ní àwọn àtúnṣe pàtàkì bíi yíyọ àwọn ìpè <code>WP_Theme_JSON</code> tí kò pọndandan kúrò, dídálẹ́kun autoload fún àwọn àṣàyàn ńlá, yíyọ àwọn polyfill dependencies tí kò pọndandan kúrò, lazy loading àwọn post embeds, ìfihàn <code>data-wp-on-async</code> directive, àti ìdínkù 40% nínú àkókò ìgbéjáde template nínú editor."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:162
 msgid "<strong>Add the ability to customize content in synced patterns.</strong><br>Allow specific pieces of content to be customized in each instance of a synced pattern while keeping a consistent style for all instances, simplifying future updates. Currently, you can set overrides for Heading, Paragraph, Button, and Image blocks."
-msgstr ""
+msgstr "<strong>Fi àǹfààní kún un láti ṣe àtúnṣe àkóónú nínú àwọn synced patterns.</strong><br>Gba àwọn apá àkóónú kan láàyè láti ṣe àtúnṣe nínú ìṣẹ̀lẹ̀ kọ̀ọ̀kan ti synced pattern kan nígbà tí o bá ń pa style kan náà mọ́ fún gbogbo ìṣẹ̀lẹ̀, ní mímú àwọn àtúnṣe ọjọ́ iwájú rọrùn. Lọ́wọ́lọ́wọ́, o lè ṣètò àwọn overrides fún Heading, Paragraph, Button, àti àwọn block Image."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:158
 msgid "Overrides"
-msgstr ""
+msgstr "Overrides"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:122
 msgid "<strong>Auto-update your plugins with peace of mind.</strong><br>Enjoy the ease of plugin auto-updates with the safety of rollbacks if anything goes wrong, improving your site&#039;s security while minimizing potential downtime."
-msgstr ""
+msgstr "<strong>Ṣe auto-update àwọn plugin rẹ pẹ̀lú ìfọ̀kànbalẹ̀.</strong><br>Gbádùn ìrọ̀rùn auto-updates plugin pẹ̀lú ààbò rollbacks tí nǹkan kan bá lọ́ báṣubàṣu, ní mímú ààbò ojúlé rẹ sunwọ̀n sí i nígbà tí o bá ń dín àkókò ìdádúró kù."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:118
 msgid "Rollbacks for plugin auto-updates"
-msgstr ""
+msgstr "Rollbacks fún auto-updates plugin"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:96
 msgid "<strong>Simplify your workflow with a new layout built for pages.&nbsp;</strong><br>See all of your pages and a preview of any selected page before you edit via a new side-by-side layout in the Site Editor."
-msgstr ""
+msgstr "<strong>Mú iṣẹ́ ṣíṣe rẹ rọrùn pẹ̀lú layout tuntun tí a ṣe fún àwọn ojúewé.&nbsp;</strong><br>Wo gbogbo àwọn ojúewé rẹ àti àfihàn ojúewé èyíkéyìí tí o bá yàn kí o tó ṣàtúnṣe nípasẹ̀ layout ẹgbẹ́-sí-ẹgbẹ́ tuntun nínú Site Editor."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:92
 msgid "Quick previews for pages"
-msgstr ""
+msgstr "Àwọn àfihàn kíákíá fún àwọn ojúewé"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:54
 msgid "<strong>Add more design options to any block theme.</strong><br>Block theme authors can create unlimited individual color or font sets to offer more specific design options within the same theme. These sets provide more contained design possibilities, allowing for customization without changing the site’s broader styling, beyond color or typography settings."
-msgstr ""
+msgstr "<strong>Fi àwọn àṣàyàn ìṣẹ̀dá púpọ̀ sí i kún block theme èyíkéyìí.</strong><br>Àwọn block theme authors lè ṣẹ̀dá àwọn àkójọpọ̀ àwọ̀ tàbí fọ́ntì kọ̀ọ̀kan láìní òpin láti pèsè àwọn àṣàyàn ìṣẹ̀dá kan pàtó nínú theme kan náà. Àwọn àkójọpọ̀ wọ̀nyí pèsè àwọn àǹfààní ìṣẹ̀dá tí ó wà ní ìkómpaktì, ní gbígba àtúnṣe láàyè láìyí styling gbogbogbòò ojúlé náà padà, yàtọ̀ sí àwọn ètò àwọ̀ tàbí typography."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:50
 msgid "Color palettes &amp; font sets"
-msgstr ""
+msgstr "Àwọn àkójọpọ̀ àwọ̀ &amp; àkójọpọ̀ fọ́ntì"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:29
 msgid "Download WordPress 6.6"
-msgstr ""
+msgstr "Ṣe ìgbàsílẹ̀ WordPress 6.6"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:24
 msgid "Create and deploy beautiful and coherent design elements across your sites with WordPress 6.6. A new rollback option for auto-updating plugins gives you control, flexibility, and peace of mind."
-msgstr ""
+msgstr "Ṣẹ̀dá kí o sì fi àwọn èròjà ìṣẹ̀dá dídára àti ìṣọ̀kan ránṣẹ́ kaakiri àwọn ojúlé rẹ pẹ̀lú WordPress 6.6. Àṣàyàn rollback tuntun fún àwọn plugin tó ń ṣe auto-update fún ọ ní ìṣàkóso, àǹfààní, àti ìfọ̀kànbalẹ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:17
 msgid "<span>A new meaning to</span> <em>style</em>"
-msgstr ""
+msgstr "<span>Ìtumọ̀ tuntun sí</span> <em>style</em>"
 
 #: extra/translation-strings.php:15
 msgid "WordPress 6.6"
-msgstr ""
+msgstr "WordPress 6.6"
 
 #: mu-plugins/blocks/language-suggest/language-suggest.php:25
 msgctxt "block style name"
 msgid "Prominent"
-msgstr ""
+msgstr "Gbòógì"
 
 #: extra/translation-strings.php:21
 msgid "WordPress 6.3"
-msgstr ""
+msgstr "WordPress 6.3"
 
 #: extra/translation-strings.php:16
 msgid "WordPress 6.5"
-msgstr ""
+msgstr "WordPress 6.5"
 
 #: extra/translation-strings.php:55
 msgid "Cookie Policy"
-msgstr ""
+msgstr "Cookie Policy"
 
 #: extra/translation-strings.php:54
 msgid "Export Personal Data"
-msgstr ""
+msgstr "Kó Dátà Ti Ara Rẹ Jádé"
 
 #: extra/translation-strings.php:53
 msgid "Erase Personal Data"
-msgstr ""
+msgstr "Pa Dátà Ti Ara Rẹ Rẹ́"
 
 #: extra/translation-strings.php:51
 msgid "Release Archive"
-msgstr ""
+msgstr "Àkójọ Ìtújáde"
 
 #: extra/translation-strings.php:47
 #: source/wp-content/themes/wporg-make-2024/functions.php:481
 msgid "Home"
-msgstr ""
+msgstr "Ojú Ilé"
 
 #: extra/translation-strings.php:45
 msgid "Content Marketing"
-msgstr ""
+msgstr "Content Marketing"
 
 #: extra/translation-strings.php:44
 msgid "eCommerce"
-msgstr ""
+msgstr "eCommerce"
 
 #: extra/translation-strings.php:43
 msgid "Education"
-msgstr ""
+msgstr "Ẹ̀kọ́"
 
 #: extra/translation-strings.php:42
 msgid "Integrations"
-msgstr ""
+msgstr "Integrations"
 
 #: extra/translation-strings.php:40
 msgid "WordPress and the Journey to 40% of the Web"
-msgstr ""
+msgstr "WordPress àti Ìrìnàjò sí 40% ti Web"
 
 #: extra/translation-strings.php:38
 msgid "Mobile"
-msgstr ""
+msgstr "Mobile"
 
 #: extra/translation-strings.php:26
 msgid "Stats"
-msgstr ""
+msgstr "Stats"
 
 #: extra/translation-strings.php:22
 msgid "Remembers"
-msgstr ""
+msgstr "Rántí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-swag.php:19
 msgid "Looking for another way to find swag and connect with fellow WordPressers? Check out a&nbsp;<a href=\"https://events.wordpress.org/\">WordPress event</a>&nbsp;near you."
-msgstr ""
+msgstr "Ṣé ò ń wá ọ̀nà mìíràn láti rí swag àti láti darapọ̀ mọ́ àwọn WordPressers bíi tìrẹ? Wo&nbsp;<a href=\"https://events.wordpress.org/\">ìṣẹ̀lẹ̀ WordPress</a>&nbsp;tó wà nítòsí rẹ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-swag.php:15
 msgid "The Mercantile: WordPress Swag Store has closed its doors for now. Thanks for always wearing your love of WordPress for all to see, and for supporting the WordPress Foundation."
-msgstr ""
+msgstr "The Mercantile: Ilé Ìtajà Swag WordPress ti ti ilẹ̀kùn rẹ̀ fún ìgbà díẹ̀. Nagbàdú fún wíwọ ìfẹ́ rẹ sí WordPress nígbà gbogbo fún gbogbo ènìyàn láti rí, àti fún ìtìlẹ́yìn rẹ fún WordPress Foundation."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-swag.php:11
 msgid "Swag store"
-msgstr ""
+msgstr "Ilé ìtajà Swag"
 
 #: themes/pub/wporg-main/front-page.php:34
 msgid "Matt Mullenweg at WordCamp Europe—streaming live June 15"
-msgstr ""
+msgstr "Matt Mullenweg ní WordCamp Europe—ìgbékalẹ̀ lórí afẹ́fẹ́ ní June 15"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:39
 msgid "https://github.com/WordPress/move-to-wp/blob/trunk/guides/html-to-wordpress.md"
-msgstr ""
+msgstr "https://github.com/WordPress/move-to-wp/blob/trunk/guides/html-to-wordpress.md"
 
 #. translators: %s: List of links to theme in other locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:150
 msgid "This theme is also available in %s."
-msgstr ""
+msgstr "Theme yìí tún wà ní %s."
 
 #. translators: %s: Locale name.
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:135
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:165
 msgid "This theme is not translated into %s yet."
-msgstr ""
+msgstr "A kò tíì tú theme yìí sí %s."
 
 #. translators: %1$s: Locale name, %2$s: List of links to theme in other
 #. locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:128
 msgid "This theme is not translated into %1$s yet, but it is available in %2$s."
-msgstr ""
+msgstr "A kò tíì tú theme yìí sí %1$s, ṣùgbọ́n ó wà ní %2$s."
 
 #. translators: %s: List of links to theme directory in other locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:64
 msgid "The theme directory is also available in %s."
-msgstr ""
+msgstr "Àtòpọ̀ theme tún wà ní %s."
 
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:160
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:156
 msgid "Help improve the translation!"
-msgstr ""
+msgstr "Ẹ jẹ́ kí á mú ìtumọ̀ náà sunwọ̀n sí i!"
 
 #. translators: %s: List of links to plugin in other locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:154
 msgid "This plugin is also available in %s."
-msgstr ""
+msgstr "Plugin yìí tún wà ní %s."
 
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:146
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:175
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:142
 #: mu-plugins/rest-api/endpoints/class-wporg-themes-locale-banner-controller.php:171
 msgid "Help translate it!"
-msgstr ""
+msgstr "Ẹ jẹ́ kí á tú u!"
 
 #. translators: %s: Locale name.
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:139
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:169
 msgid "This plugin is not translated into %s yet."
-msgstr ""
+msgstr "A kò tíì tú plugin yìí sí %s."
 
 #. translators: %1$s: Locale name, %2$s: List of links to plugin in other
 #. locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:132
 msgid "This plugin is not translated into %1$s yet, but it is available in %2$s."
-msgstr ""
+msgstr "A kò tíì tú plugin yìí sí %1$s, ṣùgbọ́n ó wà ní %2$s."
 
 #. translators: %s: List of links to plugin directory in other locales.
 #: mu-plugins/rest-api/endpoints/class-wporg-plugins-locale-banner-controller.php:67
 msgid "The plugin directory is also available in %s."
-msgstr ""
+msgstr "Àtòpọ̀ plugin tún wà ní %s."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:329
 msgid "<a href=\"https://developer.wordpress.org/themes/block-themes/\" data-type=\"link\" data-id=\"https://wordpress.org/documentation/\">Build block themes</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/themes/block-themes/\" data-type=\"link\" data-id=\"https://wordpress.org/documentation/\">Kọ́ àwọn block themes</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:325
 msgid "<a href=\"/patterns/\" data-type=\"link\" data-id=\"https://wordpress.org/playground/\">Design block patterns</a>"
-msgstr ""
+msgstr "<a href=\"/patterns/\" data-type=\"link\" data-id=\"https://wordpress.org/playground/\">Ṣe àpẹẹrẹ àwọn block patterns</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:308
 msgid "Only the beginning"
-msgstr ""
+msgstr "Ìbẹ̀rẹ̀ pẹ̀pẹ̀ nìyí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:261
 msgid "See what&#039;s new with blocks"
-msgstr ""
+msgstr "Wo ohun tuntun pẹ̀lú àwọn block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:54
 msgid "Browse the block directory"
-msgstr ""
+msgstr "Ṣàwárí àtòpọ̀ block"
 
 #: mu-plugins/blocks/screenshot-preview-block/src/block.json
 msgctxt "block description"
 msgid "Show a preview of a website."
-msgstr ""
+msgstr "Ṣàfihàn àkójọpọ̀ ojúlé kan."
 
 #: mu-plugins/blocks/screenshot-preview-block/src/block.json
 msgctxt "block title"
 msgid "Screenshot Preview"
-msgstr ""
+msgstr "Àfihàn Screenshot"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:125
 msgid "We also strongly recommend <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#receiving-vulnerability-reports\">publishing a responsible disclosure policy</a> of your own."
-msgstr ""
+msgstr "A tún gba ọ nímọ̀ràn gidigidi láti <a href=\"https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html#receiving-vulnerability-reports\">ṣe àtẹ̀jáde ìlànà ìṣípayá onídùúró</a> tìrẹ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:121
 msgid "The <a href=\"https://developer.wordpress.org/advanced-administration/security/\">Security guide in the Advanced Administration handbook</a> contains key information on how to secure your hosting environment."
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/security/\">Ìtọ́sọ́nà Ààbò nínú ìwé ìtọ́nisọ́nà Advanced Administration</a> ní àwọn ìsọfúnni pàtàkì nípa bí o ṣe lè ṣe ààbò àyíká hosting rẹ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:117
 msgid "Web Hosts"
-msgstr ""
+msgstr "Àwọn Olùgbàlejò Web"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:109
 msgid "<a href=\"https://developer.wordpress.org/themes/theme-security/theme-security-issues/\">Find out more about how to address security issues in your theme.</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/themes/theme-security/theme-security-issues/\">Wá àlàyé síwájú sí i nípa bí o ṣe lè yanjú àwọn ọ̀ràn ààbò nínú theme rẹ.</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:105
 msgid "If you believe you&#039;ve identified a security problem in your own theme, the WordPress theme review team is here to support you."
-msgstr ""
+msgstr "Tí o bá gbàgbọ́ pé o ti rí ìṣòro ààbò kan nínú theme tìrẹ, ẹgbẹ́ àyẹ̀wò theme WordPress wà níbí láti tì ọ́ lẹ́yìn."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:97
 msgid "Theme Developers"
-msgstr ""
+msgstr "Àwọn Theme Developers"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:91
 msgid "<a href=\"https://developer.wordpress.org/plugins/wordpress-org/plugin-security/\">Find out more about how to address security issues in your plugin.</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/plugins/wordpress-org/plugin-security/\">Wá àlàyé síwájú sí i nípa bí o ṣe lè yanjú àwọn ọ̀ràn ààbò nínú plugin rẹ.</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:87
 msgid "If you believe you&#039;ve identified a security problem in your own plugin, the WordPress plugins team is here to support you."
-msgstr ""
+msgstr "Tí o bá gbàgbọ́ pé o ti rí ìṣòro ààbò kan nínú plugin tìrẹ, ẹgbẹ́ plugin WordPress wà níbí láti tì ọ́ lẹ́yìn."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:83
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:101
 msgid "The <a href=\"https://developer.wordpress.org/apis/security/\">Security guide in the Common APIs handbook</a> is your go-to guide for secure development principles."
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/apis/security/\">Ìtọ́sọ́nà Ààbò nínú ìwé ìtọ́nisọ́nà Common APIs</a> ni ìtọ́sọ́nà rẹ fún àwọn ìlànà ìdàgbàsókè tó ní ààbò."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:79
 msgid "Plugin Developers"
-msgstr ""
+msgstr "Àwọn Plugin Developers"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:73
 msgid "Learn more about the <a href=\"https://github.com/WordPress/Security-White-Paper/blob/master/WordPressSecurityWhitePaper.pdf?raw=true\">WordPress project&#039;s security stance in our whitepaper</a>."
-msgstr ""
+msgstr "Kẹ́kọ̀ọ́ síwájú sí i nípa <a href=\"https://github.com/WordPress/Security-White-Paper/blob/master/WordPressSecurityWhitePaper.pdf?raw=true\">ìdúró ààbò iṣẹ́ àkànṣe WordPress nínú whitepaper wa</a>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:69
 msgid "The Security Team also works directly with significant web hosting operators and security ecosystem providers to detect and mitigate threats to WordPress-based sites, including coordinating release rollouts and developing web application firewall (WAF) mitigations."
-msgstr ""
+msgstr "Ẹgbẹ́ Ààbò tún ń ṣiṣẹ́ tààrà pẹ̀lú àwọn oníṣẹ́ web hosting pàtàkì àti àwọn olùpèsè àyíká ààbò láti ṣàwárí àti láti dín àwọn ewu kù sí àwọn ojúlé tó dá lórí WordPress, pẹ̀lú ṣíṣe àkóso àwọn ìtújáde àti ìdàgbàsókè àwọn ìdènà web application firewall (WAF)."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:65
 msgid "To address responsibly-disclosed security vulnerabilities, the Security Team works to develop fixes, create robust test cases, and <a href=\"https://wordpress.org/news/category/security/\">release those fixes in bugfix releases</a>. While only the latest version of WordPress is officially supported, the Security Team also <a href=\"https://make.wordpress.org/security/2022/09/07/dropping-security-updates-for-wordpress-versions-3-7-through-4-0/\">backports fixes to older versions as a courtesy</a>, to ensure older sites receive critical security fixes via auto-updates."
-msgstr ""
+msgstr "Láti yanjú àwọn àìpé ààbò tí a ṣípayá lọ́nà onídùúró, Ẹgbẹ́ Ààbò ń ṣiṣẹ́ láti ṣe àwọn àtúnṣe, ṣẹ̀dá àwọn ìdánwò tó lágbára, àti <a href=\"https://wordpress.org/news/category/security/\">láti ṣe àtẹ̀jáde àwọn àtúnṣe wọ̀nyẹn nínú àwọn ìtújáde bugfix</a>. Bí ó tilẹ̀ jẹ́ pé ẹ̀yà tuntun WordPress nìkan ni a ṣe ìtìlẹ́yìn fún lọ́fíìsì, Ẹgbẹ́ Ààbò tún <a href=\"https://make.wordpress.org/security/2022/09/07/dropping-security-updates-for-wordpress-versions-3-7-through-4-0/\">ṣe àtúnṣe fún àwọn ẹ̀yà àtijọ́ gẹ́gẹ́ bí ọ̀wọ̀</a>, láti rí i dájú pé àwọn ojúlé àtijọ́ gba àwọn àtúnṣe ààbò pàtàkì nípasẹ̀ auto-updates."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:61
 msgid "In addition to more than 50 trusted experts, including lead developers, security researchers, and key contributors to every component of WordPress, <a href=\"https://wordpress.org/five-for-the-future/\">sponsored members of the Security Team</a> dedicate time to identifying and addressing concerns in the software and ecosystem."
-msgstr ""
+msgstr "Ní àfikún sí àwọn ògbógi tó gbẹ́kẹ̀lé ju 50 lọ, pẹ̀lú àwọn lead developers, àwọn oníwáàdí ààbò, àti àwọn olùkópa pàtàkì sí gbogbo apá WordPress, <a href=\"https://wordpress.org/five-for-the-future/\">àwọn ọmọ ẹgbẹ́ Ẹgbẹ́ Ààbò tí a ṣe onígbọ̀wọ́ wọn</a> ya àkókò sọ́tọ̀ láti ṣàwárí àti láti yanjú àwọn àníyàn nínú software àti àyíká."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:57
 msgid "The WordPress Security Team works to identify and resolve security issues across the WordPress core software, harden the software against threats such as the <a href=\"https://owasp.org/www-project-top-ten/\">OWASP Top Ten</a>, and <a href=\"https://developer.wordpress.org/apis/security/\">provide guidance</a> across the ecosystem."
-msgstr ""
+msgstr "Ẹgbẹ́ Ààbò WordPress ń ṣiṣẹ́ láti ṣàwárí àti láti yanjú àwọn ọ̀ràn ààbò kaakiri software àárín WordPress, láti mú software náà le koko lòdì sí àwọn ewu bíi <a href=\"https://owasp.org/www-project-top-ten/\">OWASP Top Ten</a>, àti <a href=\"https://developer.wordpress.org/apis/security/\">láti pèsè ìtọ́sọ́nà</a> kaakiri àyíká."
 
 #. translators: [market_share] is a shortcode and should not be translated.
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:52
 msgid "The WordPress project is committed to providing a stable, secure, trusted platform for more than [market_share] of the web. The <a href=\"https://make.wordpress.org/core/handbook/contribute/codebase/\">core WordPress software development lifecycle</a> includes code review throughout the process, with open-source contributions reviewed by trusted committers."
-msgstr ""
+msgstr "Iṣẹ́ àkànṣe WordPress ti pinnu láti pèsè pẹpẹ tó dúró ṣinṣin, tó ní ààbò, tó sì gbẹ́kẹ̀lé fún ohun tó ju [market_share] ti web lọ. <a href=\"https://make.wordpress.org/core/handbook/contribute/codebase/\">Ìgbésí ayé ìdàgbàsókè software àárín WordPress</a> ní àyẹ̀wò koodu ní gbogbo ìgbésẹ̀, pẹ̀lú àwọn ìkópa orísun ṣíṣí tí àwọn committer tó gbẹ́kẹ̀lé ń ṣàyẹ̀wò."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:46
 msgid "Our process"
-msgstr ""
+msgstr "Ìlànà wa"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:40
 msgid "For theme vulnerabilities, <a href=\"https://developer.wordpress.org/themes/theme-security/theme-security-issues/\">report it to the theme developer and the theme review team</a>."
-msgstr ""
+msgstr "Fún àwọn àìpé ààbò theme, <a href=\"https://developer.wordpress.org/themes/theme-security/theme-security-issues/\">sọ fún theme developer àti ẹgbẹ́ àyẹ̀wò theme</a>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:36
 msgid "For plugin vulnerabilities, <a href=\"https://developer.wordpress.org/plugins/wordpress-org/plugin-security/reporting-plugin-security-issues/\">report it to the plugin developer and the plugins team</a>."
-msgstr ""
+msgstr "Fún àwọn àìpé ààbò plugin, <a href=\"https://developer.wordpress.org/plugins/wordpress-org/plugin-security/reporting-plugin-security-issues/\">sọ fún plugin developer àti ẹgbẹ́ plugin</a>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:31
 msgid "If you believe you have found a vulnerability in a WordPress plugin or theme available on WordPress.org, please keep it confidential."
-msgstr ""
+msgstr "Tí o bá gbàgbọ́ pé o ti rí àìpé kan nínú plugin tàbí theme WordPress tó wà lórí WordPress.org, jọ̀wọ́ pa á mọ́ sí àṣírí."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:27
 msgid "If you believe you have found a vulnerability in WordPress, please keep it confidential and <a href=\"https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/\">report it to the WordPress Security Team</a>."
-msgstr ""
+msgstr "Tí o bá gbàgbọ́ pé o ti rí àìpé kan nínú WordPress, jọ̀wọ́ pa á mọ́ sí àṣírí kí o sì <a href=\"https://make.wordpress.org/core/handbook/testing/reporting-security-vulnerabilities/\">sọ fún Ẹgbẹ́ Ààbò WordPress</a>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:22
 msgid "WordPress encourages responsible disclosure of vulnerabilities in WordPress core, in plugins and themes available on WordPress.org, or in the wider WordPress ecosystem."
-msgstr ""
+msgstr "WordPress gba ìṣípayá onídùúró níyànjú fún àwọn àìpé nínú àárín WordPress, nínú àwọn plugin àti theme tó wà lórí WordPress.org, tàbí nínú àyíká WordPress gbogbogbòò."
 
 #. translators: [market_share] is a shortcode and should not be translated.
 #: source/wp-content/themes/wporg-main-2022/patterns/about-security.php:17
 msgid "We take the security of the WordPress project and the ecosystem seriously. With <a href=\"https://wordpress.org/about/history/\">over 20 years of history</a> and powering more than [market_share] of the web, we&#039;re committed to ensuring security for all, from solo bloggers to enterprise organizations."
-msgstr ""
+msgstr "A gba ààbò iṣẹ́ àkànṣe WordPress àti àyíká ní pàtàkì. Pẹ̀lú <a href=\"https://wordpress.org/about/history/\">ìtàn tó ju ọdún 20 lọ</a> àti fífi agbára fún ohun tó ju [market_share] ti web lọ, a ti pinnu láti rí i dájú pé ààbò wà fún gbogbo ènìyàn, láti ọ̀dọ̀ àwọn blogger adáṣe dé àwọn àjọ ńlá."
 
 #: mu-plugins/blocks/query-has-results/src/block.json
 msgctxt "block description"
 msgid "Contains the block elements to display when there are query results."
-msgstr ""
+msgstr "Ó ní àwọn èròjà block láti ṣàfihàn nígbà tí àwọn àbájáde ìwáàdí bá wà."
 
 #: mu-plugins/blocks/query-has-results/src/block.json
 msgctxt "block title"
 msgid "Has results"
-msgstr ""
+msgstr "Ní àwọn àbájáde"
 
 #: mu-plugins/blocks/query-has-results/src/index.js:17
 msgid "Add text or blocks that will display only when a query has results."
-msgstr ""
+msgstr "Fi ọ̀rọ̀ tàbí àwọn block kún un tí yóò hàn nígbà tí ìwáàdí bá ní àwọn àbájáde nìkan."
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:233
 msgctxt "block style name"
 msgid "Dots (dark)"
-msgstr ""
+msgstr "Àwọn àmì (dúdú)"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:224
 msgctxt "block style name"
 msgid "Dots (blue)"
-msgstr ""
+msgstr "Àwọn àmì (búlúù)"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:206
 msgctxt "block style name"
 msgid "Buttons"
-msgstr ""
+msgstr "Àwọn bọ́tìnnì"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:198
 msgctxt "block style name"
 msgid "Borderless"
-msgstr ""
+msgstr "Láìní ààlà"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:190
 msgctxt "block style name"
 msgid "Cards Grid"
-msgstr ""
+msgstr "Grid àwọn Káàdì"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:181
 msgctxt "block style name"
 msgid "On dark"
-msgstr ""
+msgstr "Lórí dúdú"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:172
 msgctxt "block style name"
 msgid "Dropdown on Mobile"
-msgstr ""
+msgstr "Dropdown lórí Mobile"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:163
 msgctxt "block style name"
 msgid "Long items"
-msgstr ""
+msgstr "Àwọn nǹkan gígùn"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:154
 msgctxt "block style name"
 msgid "Brush Stroke"
-msgstr ""
+msgstr "Ìfọwọ́fà Brush"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:145
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:215
 msgctxt "block style name"
 msgid "Dots"
-msgstr ""
+msgstr "Àwọn àmì"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:136
 msgctxt "block style name"
 msgid "Link & Arrow"
-msgstr ""
+msgstr "Ìsopọ̀ &amp; ọfà"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:127
 msgctxt "block style name"
 msgid "Short text"
-msgstr ""
+msgstr "Ọ̀rọ̀ kúkúrú"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:118
 msgctxt "block style name"
 msgid "Serif"
-msgstr ""
+msgstr "Serif"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:110
 msgctxt "block style name"
 msgid "Links"
-msgstr ""
+msgstr "Àwọn ìsopọ̀"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:101
 msgctxt "block style name"
 msgid "Features"
-msgstr ""
+msgstr "Àwọn Ohun Pàtàkì"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:93
 msgctxt "block style name"
 msgid "Toggle"
-msgstr ""
+msgstr "Toggle"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:85
 msgctxt "block style name"
 msgid "Text"
-msgstr ""
+msgstr "Ọ̀rọ̀"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:77
 msgctxt "block style name"
 msgid "Outline on dark"
-msgstr ""
+msgstr "Ìlà ààlà lórí dúdú"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:69
 msgctxt "block style name"
 msgid "Fill on dark"
-msgstr ""
+msgstr "Kíkún lórí dúdú"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:60
 msgctxt "block style name"
 msgid "Four Columns"
-msgstr ""
+msgstr "Ọ̀wọ̀n Mẹ́rin"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:51
 msgctxt "block style name"
 msgid "Left Heading"
-msgstr ""
+msgstr "Àkọlé Apá Òsì"
 
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:33
 #: source/wp-content/themes/wporg-parent-2021/inc/block-styles.php:42
 msgctxt "block style name"
 msgid "Shifted Content"
-msgstr ""
+msgstr "Àkóónú Tí A Yípadà"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:112
 msgid "https://wordpress.org/download/releases/6-8/"
-msgstr ""
+msgstr "https://wordpress.org/download/releases/6-8/"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:377
 msgid "Thanks to the over <br><em><mark class=\"has-inline-color has-light-grey-2-color\">700 contributors</mark></em> who made this release"
-msgstr ""
+msgstr "Ọpẹ́ fún àwọn <br><em><mark class=\"has-inline-color has-light-grey-2-color\">olùkópa tó ju 700</mark></em> lọ tí wọ́n ṣe ìtújáde yìí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:367
 msgid "There&#039;s now an easier way to manage plugin dependencies. Plugin authors can supply a new <code>Requires Plugins</code> header with a comma-separated list of required plugin slugs, presenting users with links to install and activate those plugins first."
-msgstr ""
+msgstr "Ọ̀nà tó rọrùn wà nísinsìnyí láti ṣàkóso àwọn ìgbára-lé plugin. Àwọn Plugin authors lè pèsè header <code>Requires Plugins</code> tuntun pẹ̀lú àtòjọ àwọn slug plugin tí a nílò, tí a fi ààmì ìdánudúró yà, ní fífi àwọn ìsopọ̀ hàn sí àwọn olùlò láti fi àwọn plugin wọ̀nyẹn sílẹ̀ àti láti mú wọn ṣiṣẹ́ lákọ̀ọ́kọ́."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:363
 msgid "Explore improvements to the plugin experience"
-msgstr ""
+msgstr "Ṣàwárí àwọn ìlọsíwájú sí ìrírí plugin"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:353
 msgid "Give designers and creators using Classic themes access to an upgraded design experience. Opt in to support for spacing, border, typography, and color options, even without using theme.json. Once support is enabled, more tools will be automatically added as they become available."
-msgstr ""
+msgstr "Fún àwọn oníṣẹ̀dá àti àwọn olùṣẹ̀dá tó ń lo Classic themes ní ààyè sí ìrírí ìṣẹ̀dá tí a mú dára sí i. Yan láti ṣe àtìlẹ́yìn fún ààyè, ààlà, typography, àti àwọn àṣàyàn àwọ̀, kódà láìlo theme.json. Nígbà tí a bá ti mú ìtìlẹ́yìn ṣiṣẹ́, àwọn ohun èlò púpọ̀ sí i yóò fi kún un ládàáṣe bí wọ́n bá ṣe wà."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:349
 msgid "Add appearance tools to Classic themes"
-msgstr ""
+msgstr "Fi àwọn ohun èlò ìrísí kún àwọn Classic themes"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:331
 msgid "Link core block attributes to custom fields and use the value of custom fields without creating custom blocks. Powered by the Block Bindings API, developers can extend this capability further to connect blocks to any dynamic content—even beyond custom fields. If there’s data stored elsewhere, easily point blocks to that new source with only a few lines of code."
-msgstr ""
+msgstr "So àwọn àpèjúwe block àárín pọ̀ mọ́ àwọn custom fields kí o sì lo iye àwọn custom fields láìṣẹ̀dá àwọn custom blocks. Pẹ̀lú agbára Block Bindings API, àwọn developers lè fa àǹfààní yìí gbòòrò sí i láti so àwọn block mọ́ àkóónú alágbára èyíkéyìí—kódà ju àwọn custom fields lọ. Tí dátà bá wà níbòmíràn, tọ́ka àwọn block sí orísun tuntun yẹn pẹ̀lú ìlà koodu díẹ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:327
 msgid "Connect blocks to custom fields or other dynamic content"
-msgstr ""
+msgstr "So àwọn block mọ́ àwọn custom fields tàbí àkóónú alágbára mìíràn"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:317
 msgid "The Interactivity API offers developers a standardized method for building interactive front-end experiences with blocks. It simplifies the process, with fewer dependencies on external tooling, while maintaining optimal performance. Use it to create memorable user experiences, like fetching search results instantly or letting visitors interact with content in real time."
-msgstr ""
+msgstr "Interactivity API pèsè ọ̀nà tí a ṣe déédé fún àwọn developers láti kọ́ àwọn ìrírí front-end tó ń bá ènìyàn ṣiṣẹ́ pẹ̀lú àwọn block. Ó mú ìlànà náà rọrùn, pẹ̀lú àwọn ìgbára-lé díẹ̀ sí àwọn ohun èlò ìta, nígbà tí ó bá ń pa performance tó dára jùlọ mọ́. Lò ó láti ṣẹ̀dá àwọn ìrírí olùlò tó ṣeé rántí, bíi gbígba àwọn àbájáde ìwáàdí lẹ́sẹ̀kẹsẹ̀ tàbí gbígba àwọn àlejò láàyè láti bá àkóónú ṣiṣẹ́ ní àkókò gidi."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:313
 msgid "Bring interactions to blocks with the Interactivity API"
-msgstr ""
+msgstr "Mú ìbáṣepọ̀ wá sí àwọn block pẹ̀lú Interactivity API"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:289
 msgid "Feel the difference when you move things around, with helpful visual cues like displaced items in List View or frictionless dragging to anywhere in your workspace—from beginning to end."
-msgstr ""
+msgstr "Rí ìyàtọ̀ nígbà tí o bá ń gbé nǹkan kiri, pẹ̀lú àwọn àmì ìran tó wúlò bíi àwọn nǹkan tí a yí padà nínú List View tàbí fífà láìní ìdènà sí ibikíbi nínú àyè iṣẹ́ rẹ—láti ìbẹ̀rẹ̀ dé òpin."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:285
 msgid "Smoother drag-and-drop"
-msgstr ""
+msgstr "Drag-and-drop tó rọrùn"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:273
 msgid "Set aspect ratios for Cover block images and easily add color overlays that automatically source color from your chosen image."
-msgstr ""
+msgstr "Ṣètò aspect ratios fún àwọn àwòrán Cover block kí o sì fi àwọn àwọ̀ àkọ́lé kún un lọ́nà tó rọrùn, èyí tí yóò gba àwọ̀ láti inú àwòrán tí o yàn ládàáṣe."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:269
 msgid "Get more control over images in Cover blocks"
-msgstr ""
+msgstr "Gba ìṣàkóso púpọ̀ sí i lórí àwọn àwòrán nínú àwọn Cover block"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:240
 msgid "This release includes more than 65 accessibility improvements across the platform, making it more accessible than ever. It contains an important fix that unblocks access to the admin submenus for screen reader users and others who navigate by keyboard. This release also adds fixes to color contrast in admin focus states, positioning of elements, and cursor focus, among many others, that help improve the WordPress experience for everyone."
-msgstr ""
+msgstr "Ìtújáde yìí ní àwọn ìlọsíwájú accessibility tó ju 65 lọ kaakiri pẹpẹ, ní sísọ ọ́ di èyí tó ṣeé wọlé sí ju ti ìgbàkígbà rí lọ. Ó ní àtúnṣe pàtàkì kan tó ṣí ààyè sí àwọn submenu admin fún àwọn olùlò screen reader àti àwọn mìíràn tó ń lo keyboard láti rìn. Ìtújáde yìí tún fi àwọn àtúnṣe kún un sí ìyàtọ̀ àwọ̀ nínú àwọn ipò ìfojúsí admin, ìgbékalẹ̀ àwọn èròjà, àti ìfojúsí cursor, láàárín ọ̀pọ̀lọpọ̀ àwọn mìíràn, tí wọ́n ń ran ìrírí WordPress lọ́wọ́ fún gbogbo ènìyàn."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:236
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:198
 msgid "Accessibility improvements"
-msgstr ""
+msgstr "Àwọn ìlọsíwájú Accessibility"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:216
 msgid "This release includes 110+ performance updates, with an impressive increase in speed and efficiency across the Post Editor and Site Editor. Loading is over two times faster than in 6.4, with input processing speed up to five times faster than the previous release. Translated sites see up to 25% improvement in load time for this release."
-msgstr ""
+msgstr "Ìtújáde yìí ní àwọn àtúnṣe performance tó ju 110 lọ, pẹ̀lú ìlọsíwájú tó wúni lórí nínú iyára àti ṣíṣe déédé kaakiri Post Editor àti Site Editor. Ìgbéjáde yára ju ìlọ́po méjì lọ ní ìfiwéra pẹ̀lú 6.4, pẹ̀lú iyára ìtọ́jú ìfisi tó yára tó ìlọ́po márùn-ún ju ìtújáde tó ṣáájú lọ. Àwọn ojúlé tí a túmọ̀ rí ìlọsíwájú tó tó 25% nínú àkókò ìgbéjáde fún ìtújáde yìí."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:212
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:180
 msgid "Performance updates"
-msgstr ""
+msgstr "Àwọn àtúnṣe Performance"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:186
 msgid "Every piece of your site comes with a library of information and data—now, you can find what you need quickly and organize it however you like. Data views for pages, templates, patterns, and template parts let you see data in a table or grid view, with the option to toggle fields and make bulk changes."
-msgstr ""
+msgstr "Gbogbo apá ojúlé rẹ ní àkójọpọ̀ ìsọfúnni àti dátà—nísinsìnyí, o lè wá ohun tí o nílò ní kíákíá kí o sì ṣètò rẹ̀ bí o ṣe fẹ́. Àwọn Data views fún àwọn ojúewé, templates, patterns, àti àwọn apá template jẹ́ kí o rí dátà nínú tábìlì tàbí grid view, pẹ̀lú àṣàyàn láti yí àwọn pápá padà àti láti ṣe àwọn àtúnṣe púpọ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:182
 msgid "Discover new<br>Data Views"
-msgstr ""
+msgstr "Ṣàwárí tuntun<br>Data Views"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:156
 msgid "Create and manage links easily with a more intuitive link-building experience, like a streamlined UI and a shortcut for copying links."
-msgstr ""
+msgstr "Ṣẹ̀dá kí o sì ṣàkóso àwọn ìsopọ̀ lọ́nà tó rọrùn pẹ̀lú ìrírí kíkọ́ ìsopọ̀ tó túbọ̀ ṣe é gbọ́ yé, bíi UI tí a mú rọrùn àti ọ̀nà àìgbà-kan-kan fún dídàkọ àwọn ìsopọ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:152
 msgid "Improved link controls"
-msgstr ""
+msgstr "Àwọn ìṣàkóso ìsopọ̀ tí a mú dára sí i"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:138
 msgid "Work through creative projects with a more comprehensive picture of what’s been done—and what you can fall back on. Get details like time stamps, quick summaries, and a paginated list of all revisions. View revisions from the Style&nbsp;Book to see changes outside of what you’re working on. Revisions are also now available for templates and template parts."
-msgstr ""
+msgstr "Ṣiṣẹ́ lórí àwọn iṣẹ́ àkànṣe ìṣẹ̀dá pẹ̀lú àwòrán tó kún jù nípa ohun tí a ti ṣe—àti ohun tí o lè padà sí. Gba àwọn àlàyé bíi ààmì àkókò, àkópọ̀ kúkúrú, àti àtòjọ gbogbo àwọn àtúnyẹ̀wò tí a ṣe sí ojúewé. Wo àwọn àtúnyẹ̀wò láti inú Style&nbsp;Book láti rí àwọn àtúnṣe yàtọ̀ sí ohun tí ò ń ṣiṣẹ́ lé lórí. Àwọn àtúnyẹ̀wò tún wà nísinsìnyí fún àwọn template àti àwọn apá template."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:134
 msgid "Get more details from your style revisions"
-msgstr ""
+msgstr "Gba àlàyé púpọ̀ sí i láti inú àwọn àtúnyẹ̀wò style rẹ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:108
 msgid "Explore more ways to add visual interest to layouts using updated design tools. Control size, repeat, and focal point options on your background images to make them blend in or stand out. Add shadow supports to more blocks to bring visual depth to your designs or to inject a little personality."
-msgstr ""
+msgstr "Ṣàwárí àwọn ọ̀nà púpọ̀ sí i láti fi ìfanimọ́ra ìran kún àwọn layout nípa lílo àwọn ohun èlò ìṣẹ̀dá tí a túnṣe. Ṣàkóso ìwọ̀n, àtúnṣe, àti àwọn àṣàyàn ojú ìfojúsí lórí àwọn àwòrán ìpilẹ̀ṣẹ̀ rẹ láti jẹ́ kí wọ́n bá ara mu tàbí kí wọ́n yọrí. Fi àwọn ìtìlẹ́yìn òjìji kún àwọn block púpọ̀ sí i láti mú ìjìnlẹ̀ ìran wá sí àwọn ìṣẹ̀dá rẹ tàbí láti fi ìhùwàsí díẹ̀ kún un."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:104
 msgid "Enhanced background and shadow tools"
-msgstr ""
+msgstr "Àwọn ohun èlò ìpilẹ̀ṣẹ̀ àti òjìji tí a mú dára sí i"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:84
 msgid "Effortlessly install, remove, and activate local and Google&nbsp;Fonts across your site for any Block theme. The ability to include custom typography collections gives site creators and publishers even more choice."
-msgstr ""
+msgstr "Fi àwọn Fọ́ntì àdúgbò àti Google&nbsp;Fonts sílẹ̀, yọ wọ́n kúrò, kí o sì mú wọn ṣiṣẹ́ lọ́nà tó rọrùn kaakiri ojúlé rẹ fún Block theme èyíkéyìí. Àǹfààní láti fi àwọn àkójọpọ̀ typography àdáṣe kún un fún àwọn olùṣẹ̀dá ojúlé àti àwọn akọ̀wé ní àṣàyàn púpọ̀ sí i."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:80
 msgid "Add and manage fonts<br>across your site"
-msgstr ""
+msgstr "Fi àwọn fọ́ntì kún un kí o sì ṣàkóso wọn<br>kaakiri ojúlé rẹ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:54
 msgid "Stay in control of an essential piece of your site’s design—typography—without coding or extra steps."
-msgstr ""
+msgstr "Dúró ní ìṣàkóso apá pàtàkì kan nínú ìṣẹ̀dá ojúlé rẹ—typography—láìkọ koodu tàbí àwọn ìgbésẹ̀ àfikún."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:50
 msgid "Meet the Font Library"
-msgstr ""
+msgstr "Pàdé Font Library"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:46
 msgid "Icon showing Aa in two fonts."
-msgstr ""
+msgstr "Àmì tó ń ṣàfihàn Aa nínú fọ́ntì méjì."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:25
 msgid "Download WordPress 6.5"
-msgstr ""
+msgstr "Ṣe ìgbàsílẹ̀ WordPress 6.5"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:20
 msgid "Elevate your site-building experience with WordPress 6.5. Explore more avenues to make it your own with new features and enhancements that transform how you create with WordPress."
-msgstr ""
+msgstr "Gbé ìrírí kíkọ́ ojúlé rẹ ga pẹ̀lú WordPress 6.5. Ṣàwárí àwọn ọ̀nà púpọ̀ sí i láti sọ ọ́ di tìrẹ pẹ̀lú àwọn ohun tuntun àti àwọn ìlọsíwájú tó yí ọ̀nà tí o fi ń ṣẹ̀dá pẹ̀lú WordPress padà."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:14
 msgid "Take control, build it <mark class=\"has-inline-color has-blueberry-1-color\"><em>your way</em></mark>"
-msgstr ""
+msgstr "Gba ìṣàkóso, kọ́ ọ <mark class=\"has-inline-color has-blueberry-1-color\"><em>lọ́nà tìrẹ</em></mark>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:41
 msgid "Want to get involved? Head on over to <a href=\"https://make.wordpress.org/\">Make WordPress</a> and meet the people developing, designing, documenting, translating, and marketing WordPress."
-msgstr ""
+msgstr "Ṣé o fẹ́ kópa? Lọ sí <a href=\"https://make.wordpress.org/\">Make WordPress</a> kí o sì pàdé àwọn ènìyàn tó ń ṣe ìdàgbàsókè, ìṣẹ̀dá, àkọsílẹ̀, ìtumọ̀, àti títajà WordPress."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:36
 msgid "Address the difficulty in moving platforms through the <a href=\"https://wordpress.org/news/2024/01/data-liberation-in-2024/\">Data Liberation project</a>, as well as streamline existing review processes across project repositories."
-msgstr ""
+msgstr "Yanjú ìṣòro nínú gbígbé pẹpẹ kiri nípasẹ̀ <a href=\"https://wordpress.org/news/2024/01/data-liberation-in-2024/\">iṣẹ́ àkànṣe Data Liberation</a>, àti láti mú àwọn ìlànà àyẹ̀wò tó wà tẹ́lẹ̀ rọrùn kaakiri àwọn ibi ìpamọ́ iṣẹ́ àkànṣe."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:32
 msgid "Continue to support the community through <a href=\"https://learn.wordpress.org/\">learning</a>, <a href=\"https://events.wordpress.org/\">events</a>, and <a href=\"https://make.wordpress.org/community/tag/mentorship-program/\">mentorship</a> of current and future contributors."
-msgstr ""
+msgstr "Tẹ̀síwájú láti ṣe àtìlẹ́yìn fún àwùjọ nípasẹ̀ <a href=\"https://learn.wordpress.org/\">ìkẹ́kọ̀ọ́</a>, <a href=\"https://events.wordpress.org/\">àwọn ìṣẹ̀lẹ̀</a>, àti <a href=\"https://make.wordpress.org/community/tag/mentorship-program/\">ìtọ́sọ́nà</a> fún àwọn olùkópa lọ́wọ́lọ́wọ́ àti ọjọ́ iwájú."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:28
 msgid "<a href=\"https://make.wordpress.org/core/\">Test, iterate, and ship</a> Phase 3 of the Gutenberg project."
-msgstr ""
+msgstr "<a href=\"https://make.wordpress.org/core/\">Dánwò, túnṣe, kí o sì fi</a> Apá 3 iṣẹ́ àkànṣe Gutenberg ránṣẹ́."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:23
 msgid "To support the vision set in the latest <a href=\"https://wordpress.org/news/2023/12/state-of-the-word-2023-recap/\">State of the Word</a>, the project has the following <a href=\"https://make.wordpress.org/project/2024/01/19/big-picture-goals-2024/\">big picture goals for 2024</a>:"
-msgstr ""
+msgstr "Láti ṣe àtìlẹ́yìn fún ìran tí a gbé kalẹ̀ nínú <a href=\"https://wordpress.org/news/2023/12/state-of-the-word-2023-recap/\">State of the Word</a> tuntun, iṣẹ́ àkànṣe náà ní àwọn <a href=\"https://make.wordpress.org/project/2024/01/19/big-picture-goals-2024/\">góńgó àwòrán ńlá wọ̀nyí fún 2024</a>:"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:84
 msgid "Tools"
-msgstr ""
+msgstr "Àwọn Ohun Èlò"
 
 #: source/wp-content/themes/wporg-main-2022/functions.php:189
 msgid "The people"
-msgstr ""
+msgstr "Àwọn ènìyàn"
 
 #: source/wp-content/themes/wporg-main-2022/functions.php:185
 msgid "The details"
-msgstr ""
+msgstr "Àwọn àlàyé"
 
 #: source/wp-content/themes/wporg-main-2022/functions.php:181
 msgid "The technology"
-msgstr ""
+msgstr "Ìmọ̀-ẹ̀rọ"
 
 #. translators: %s is the author name.
 #: source/wp-content/themes/wporg-parent-2021/inc/gutenberg-tweaks.php:183
 msgid "By %s"
-msgstr ""
+msgstr "Látọwọ́ %s"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/post-list.php:34
 msgid "Older Posts"
-msgstr ""
+msgstr "Àwọn Àtẹ̀jáde Àtijọ́"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/post-list.php:32
 msgid "Newer Posts"
-msgstr ""
+msgstr "Àwọn Àtẹ̀jáde Tuntun"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/post-list.php:26
 msgid "Read Post"
-msgstr ""
+msgstr "Ka Àtẹ̀jáde"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Custom template name"
 msgid "No Secondary Content"
-msgstr ""
+msgstr "Kò sí Àkóónú Èkejì"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Custom template name"
 msgid "Centered Column"
-msgstr ""
+msgstr "Ọ̀wọ̀n Àárín"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "3X-Large"
-msgstr ""
+msgstr "3X-Ńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "2X-Large"
-msgstr ""
+msgstr "2X-Ńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "X-Large"
-msgstr ""
+msgstr "X-Ńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "Large"
-msgstr ""
+msgstr "Ńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "Medium"
-msgstr ""
+msgstr "Àárín"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "Small"
-msgstr ""
+msgstr "Kékeré"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "X-Small"
-msgstr ""
+msgstr "X-Kékeré"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "2X-Small"
-msgstr ""
+msgstr "2X-Kékeré"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "3X-Small"
-msgstr ""
+msgstr "3X-Kékeré"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Space size name"
 msgid "Edge Spacing"
-msgstr ""
+msgstr "Ààyè Etí"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Lemon 3"
-msgstr ""
+msgstr "Lemon 3"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Lemon 2"
-msgstr ""
+msgstr "Lemon 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Lemon"
-msgstr ""
+msgstr "Lemon"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Acid Green 3"
-msgstr ""
+msgstr "Acid Green 3"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Acid Green 2"
-msgstr ""
+msgstr "Acid Green 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Acid Green"
-msgstr ""
+msgstr "Acid Green"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Pomegrade 3"
-msgstr ""
+msgstr "Pomegrade 3"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Pomegrade 2"
-msgstr ""
+msgstr "Pomegrade 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Pomegrade"
-msgstr ""
+msgstr "Pomegrade"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Blueberry 4"
-msgstr ""
+msgstr "Blueberry 4"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Blueberry 3"
-msgstr ""
+msgstr "Blueberry 3"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Blueberry 2"
-msgstr ""
+msgstr "Blueberry 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Blueberry"
-msgstr ""
+msgstr "Blueberry"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Deep Blueberry"
-msgstr ""
+msgstr "Deep Blueberry"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Dark Blueberry"
-msgstr ""
+msgstr "Dark Blueberry"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Black 15%"
-msgstr ""
+msgstr "Dúdú 15%"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "White 15%"
-msgstr ""
+msgstr "Funfun 15%"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "White"
-msgstr ""
+msgstr "Funfun"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Light Grey 2"
-msgstr ""
+msgstr "Light Grey 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Light Grey"
-msgstr ""
+msgstr "Light Grey"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal 5"
-msgstr ""
+msgstr "Charcoal 5"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal 4"
-msgstr ""
+msgstr "Charcoal 4"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal 3"
-msgstr ""
+msgstr "Charcoal 3"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal 2"
-msgstr ""
+msgstr "Charcoal 2"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal"
-msgstr ""
+msgstr "Charcoal"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Color name"
 msgid "Charcoal 0"
-msgstr ""
+msgstr "Charcoal 0"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font family name"
 msgid "IBM Plex Sans"
-msgstr ""
+msgstr "IBM Plex Sans"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font family name"
 msgid "Monospace"
-msgstr ""
+msgstr "Monospace"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font family name"
 msgid "Inter"
-msgstr ""
+msgstr "Inter"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font family name"
 msgid "EB Garamond"
-msgstr ""
+msgstr "EB Garamond"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "CTA Heading"
-msgstr ""
+msgstr "Àkọlé CTA"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 1"
-msgstr ""
+msgstr "Àkọlé 1"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 2"
-msgstr ""
+msgstr "Àkọlé 2"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 3"
-msgstr ""
+msgstr "Àkọlé 3"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 4"
-msgstr ""
+msgstr "Àkọlé 4"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 5"
-msgstr ""
+msgstr "Àkọlé 5"
 
 #: source/wp-content/themes/wporg-make-2024/theme.json
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Heading 6"
-msgstr ""
+msgstr "Àkọlé 6"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Huge"
-msgstr ""
+msgstr "Ńláńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Extra Large"
-msgstr ""
+msgstr "Títóbi Jù"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Large"
-msgstr ""
+msgstr "Ńlá"
 
 #: source/wp-content/themes/wporg-parent-2021/theme.json
 msgctxt "Font size name"
 msgid "Extra Small"
-msgstr ""
+msgstr "Kékeré Jù"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/_footer-content.php:23
 msgid "Subscribe"
-msgstr ""
+msgstr "Ṣe Àṣàgbàwọlé"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/latest-posts-with-heading.php:18
 msgid "Read More"
-msgstr ""
+msgstr "Ka Síwájú Sí I"
 
 #: source/wp-content/themes/wporg-parent-2021/patterns/latest-posts-with-heading.php:14
 msgid "Latest Posts"
-msgstr ""
+msgstr "Àwọn Àtẹ̀jáde Tuntun"
 
 #: source/wp-content/themes/wporg-make-2024/patterns/404.php:18
 #: source/wp-content/themes/wporg-parent-2021/patterns/404-page.php:18
 msgid "This page doesn&#146;t exist."
-msgstr ""
+msgstr "Ojúewé yìí kò sí."
 
 #. translators: %s is the site URL.
 #: source/wp-content/themes/wporg-parent-2021/patterns/404-page-subtitle.php:15
 msgid "Go to <a href=\"%s\">the homepage</a> or try searching using the field below."
-msgstr ""
+msgstr "Lọ sí <a href=\"%s\">ojú ilé</a> tàbí gbìyànjú láti wá nǹkan nípa lílo ààyè ìwáàdí ní ìsàlẹ̀."
 
 #: source/wp-content/themes/wporg-parent-2021/inc/gutenberg-tweaks.php:168
 msgid "All posts"
-msgstr ""
+msgstr "Gbogbo àtẹ̀jáde"
 
 #: themes/pub/wporg-main/page-about-privacy-data-erasure-request.php:106
 msgid "This will not erase your support forum activity. Any topics or replies created will remain associated with an anonymized account."
-msgstr ""
+msgstr "Èyí kò ní pa ìgbòkègbodò pẹpẹ ìtìlẹ́yìn rẹ rẹ́. Àwọn àkòrí tàbí ìdáhùn èyíkéyìí tí a bá ṣẹ̀dá yóò wà ní ìsopọ̀ mọ́ àkàùntù tí a kò darúkọ."
 
 #: mu-plugins/blocks/handbook-meta-link/src/block.json
 msgctxt "block title"
 msgid "Handbook Meta Link"
-msgstr ""
+msgstr "Handbook Meta Link"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:70
 msgid "WordPress to WordPress"
-msgstr ""
+msgstr "Láti WordPress sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:64
 msgid "Blogger to WordPress"
-msgstr ""
+msgstr "Láti Blogger sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:46
 msgid "RSS to WordPress"
-msgstr ""
+msgstr "Láti RSS sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:40
 msgid "HTML to WordPress"
-msgstr ""
+msgstr "Láti HTML sí WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:217
 msgid "#StateOfTheWord"
-msgstr ""
+msgstr "#StateOfTheWord"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:212
 msgid "See you <em>December 16!</em>"
-msgstr ""
+msgstr "A ó rí ọ ní <em>December 16!</em>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:199
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:187
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:172
 msgid "Catch up on past keynotes while you wait for State of the Word 2024.<br>"
-msgstr ""
+msgstr "Wo àwọn keynote tó ti kọjá nígbà tí o bá ń dúró de State of the Word 2024.<br>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:168
 msgid "Watch past State of the Word keynotes"
-msgstr ""
+msgstr "Wo àwọn keynote State of the Word tó ti kọjá"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:158
 msgid "Watch parties already planned"
-msgstr ""
+msgstr "Àwọn watch parties tí a ti ṣètò"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:135
 msgid "<em>— Matt Mullenweg</em>"
-msgstr ""
+msgstr "<em>— Matt Mullenweg</em>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:100
 msgid "Stream the event via WordPress social media or join a <a href=\"https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/state-of-the-word-watch-parties/\">local watch party</a>."
-msgstr ""
+msgstr "Wo ìṣẹ̀lẹ̀ náà nípasẹ̀ social media WordPress tàbí darapọ̀ mọ́ <a href=\"https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/state-of-the-word-watch-parties/\">watch party àdúgbò kan</a>."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:80
 msgid "<strong>Where</strong>"
-msgstr ""
+msgstr "<strong>Níbo</strong>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:58
 msgid "State of the Word 2024"
-msgstr ""
+msgstr "State of the Word 2024"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:52
 msgid "<strong>What</strong>"
-msgstr ""
+msgstr "<strong>Kíni</strong>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/state-of-the-word.php:38
 msgid "State of the Word is the annual keynote address delivered by the WordPress project’s co-founder, <a href=\"https://ma.tt/\">Matt Mullenweg</a>, celebrating the progress of the open source project and offering a glimpse into its future."
-msgstr ""
+msgstr "State of the Word ni ọ̀rọ̀ àsọyé ọdọọdún tí olùdásílẹ̀ iṣẹ́ àkànṣe WordPress, <a href=\"https://ma.tt/\">Matt Mullenweg</a>, máa ń sọ, ní ṣíṣe ayẹyẹ ìtẹ̀síwájú iṣẹ́ àkànṣe orísun ṣíṣí àti ní fífi ìran díẹ̀ hàn nípa ọjọ́ iwájú rẹ̀."
 
 #: extra/translation-strings.php:18
 msgid "State of the Word"
-msgstr ""
+msgstr "State of the Word"
 
 #. translators: [stable_branch] is a shortcode and should not be translated.
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases.php:21
 msgid "This is an archive of every recorded release that’s been made available for WordPress.<br><br><strong>Only the most recent in the</strong> <strong>[stable_branch] series is safe to use</strong> and actively maintained."
-msgstr ""
+msgstr "Èyí ni àkójọ gbogbo ìtújáde tí a ti ṣe àkọsílẹ̀ rẹ̀ tí ó wà fún WordPress.<br><br><strong>Èyí tó tuntun jùlọ nínú</strong> <strong>[stable_branch] series nìkan ni ó léwu láti lò</strong> tí a sì ń tọ́jú rẹ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-requirements.php:58
 msgid "If you’re unsure whether or not your host can already run WordPress, here’s a request you can copy and paste to send them!"
-msgstr ""
+msgstr "Tí kò bá dá ọ lójú bóyá olùgbàlejò rẹ lè ti ṣiṣẹ́ WordPress tẹ́lẹ̀, èyí ni ìbéèrè tí o lè dàkọ kí o sì lẹ̀ mọ́ láti fi ránṣẹ́ sí wọn!"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-requirements.php:54
 msgid "Ask your host to run WordPress"
-msgstr ""
+msgstr "Bí olùgbàlejò rẹ léèrè láti ṣiṣẹ́ WordPress"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-requirements.php:15
 msgid "To run WordPress, it’s recommended your host supports:"
-msgstr ""
+msgstr "Láti ṣiṣẹ́ WordPress, a gba ọ nímọ̀ràn pé kí olùgbàlejò rẹ ṣe àtìlẹ́yìn fún:"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:155
 msgid "NASA logo"
-msgstr ""
+msgstr "Àmì NASA"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:167
 msgid "Harvard logo"
-msgstr ""
+msgstr "Àmì Harvard"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:163
 msgid "TechCrunch logo"
-msgstr ""
+msgstr "Àmì TechCrunch"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:147
 msgid "Rolling Stone logo"
-msgstr ""
+msgstr "Àmì Rolling Stone"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:33
 msgid "Sun logo"
-msgstr ""
+msgstr "Àmì Sun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:82
 msgid "<a href=\"https://make.wordpress.org/core/tag/phase-3/\">Collaboration</a> — A more intuitive way to co-author content"
-msgstr ""
+msgstr "<a href=\"https://make.wordpress.org/core/tag/phase-3/\">Ìfọwọ́sowọ́pọ̀</a> — Ọ̀nà tó túbọ̀ ṣe é gbọ́ yé láti jọ kọ àkóónú"
 
 #: mu-plugins/blocks/global-header-footer/blocks.php:544
 #: mu-plugins/blocks/global-header-footer/footer.php:89
 msgctxt "Menu item title"
 msgid "Events"
-msgstr ""
+msgstr "Àwọn ìṣẹ̀lẹ̀"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:112
 msgid "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/tools\">View all tools</a>"
-msgstr ""
+msgstr "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/tools\">Wo gbogbo àwọn ohun èlò</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:88
 msgid "Mix and match export, conversion, and import tools to design a personalized migration path that works for you."
-msgstr ""
+msgstr "Dapọ̀ kí o sì yan àwọn ohun èlò ìkójádé, ìyípadà, àti ìkówọlé láti ṣe àpẹẹrẹ ọ̀nà ìṣíkiri àdáni tó bá ọ mu."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:76
 msgid "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/guides\">View all guides</a>"
-msgstr ""
+msgstr "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/guides\">Wo gbogbo àwọn ìtọ́sọ́nà</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:22
 msgid "Easy to use step by step guidelines to help you move your site to WordPress."
-msgstr ""
+msgstr "Àwọn ìlànà ìgbésẹ̀-ní-ìgbésẹ̀ tó rọrùn láti lò láti ràn ọ́ lọ́wọ́ láti gbé ojúlé rẹ lọ sí WordPress."
 
 #: extra/translation-strings.php:13
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:18
 msgid "Guides"
-msgstr ""
+msgstr "Àwọn ìtọ́sọ́nà"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation.php:16
 msgid "Your data, your move."
-msgstr ""
+msgstr "Dátà rẹ, ìṣípòpadà rẹ."
 
 #: extra/translation-strings.php:17
 #: source/wp-content/themes/wporg-main-2022/patterns/data-liberation.php:12
 msgid "Data Liberation"
-msgstr ""
+msgstr "Data Liberation"
 
 #: source/wp-content/themes/wporg-main-2022/src/remembers-list/block.json
 msgctxt "block description"
 msgid "Displays a list of memorialized contributors."
-msgstr ""
+msgstr "Ṣàfihàn àtòjọ àwọn olùkópa tí a ṣe ìrántí wọn."
 
 #: source/wp-content/themes/wporg-main-2022/src/remembers-list/block.json
 msgctxt "block title"
 msgid "Remembers Contributor List"
-msgstr ""
+msgstr "Àtòjọ Olùkópa Tí A Rántí"
 
 #: source/wp-content/themes/wporg-main-2022/src/remembers-list/index.php:41
 msgid "Memorial Profiles mu-plugin is missing."
-msgstr ""
+msgstr "Memorial Profiles mu-plugin kò sí."
 
 #: source/wp-content/themes/wporg-main-2022/theme.json
 msgctxt "Font family name"
 msgid "Newsreader"
-msgstr ""
+msgstr "Newsreader"
 
 #: source/wp-content/themes/wporg-main-2022/theme.json
 msgctxt "Font family name"
 msgid "Anton"
-msgstr ""
+msgstr "Anton"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:469
 msgid "Thanks to the over <br><em><mark class=\"has-inline-color has-light-grey-2-color\">600 contributors</mark></em> who made this release"
-msgstr ""
+msgstr "Ọpẹ́ fún àwọn <br><em><mark class=\"has-inline-color has-light-grey-2-color\">olùkópa tó ju 600</mark></em> lọ tí wọ́n ṣe ìtújáde yìí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:459
 msgid "Every release is committed to making WordPress accessible to everyone. 6.4 brings List View improvements and aria-label support for the Navigation block, among other highlights. The admin user interface includes enhancements to button placements, “Add New” menu items context, and Site Health spoken messages."
-msgstr ""
+msgstr "Gbogbo ìtújáde ti pinnu láti jẹ́ kí WordPress ṣeé wọlé sí fún gbogbo ènìyàn. 6.4 mú àwọn ìlọsíwájú List View àti ìtìlẹ́yìn aria-label wá fún Navigation block, láàárín àwọn ohun pàtàkì mìíràn. Ojú ìṣàkóso admin ní àwọn ìlọsíwájú sí ìgbékalẹ̀ bọ́tìnnì, àyíká àwọn nǹkan inú akojọ aṣayan “Add New”, àti àwọn ìfọ̀rọ̀ránṣẹ́ Site Health."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:449
 msgid "WordPress 6.4 includes more than 100 performance-related updates for a faster and more efficient experience. Notable enhancements focus on template loading performance for themes, usage of the script loading strategies “defer” and “async” in core, blocks, and themes, and new functions to optimize autoloaded options."
-msgstr ""
+msgstr "WordPress 6.4 ní àwọn àtúnṣe tó ní í ṣe pẹ̀lú performance tó ju 100 lọ fún ìrírí tó yára àti tó ṣiṣẹ́ dáadáa. Àwọn ìlọsíwájú pàtàkì gbájú mọ́ performance ìgbéjáde template fún àwọn theme, lílo àwọn ọgbọ́n ìgbéjáde script “defer” àti “async” nínú àárín, àwọn block, àti àwọn theme, àti àwọn iṣẹ́ tuntun láti mú àwọn àṣàyàn autoloaded sunwọ̀n sí i."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:425
 msgid "Need to use your custom patterns on another site? It&#039;s simple. Import and export them as JSON files from the Site Editor’s patterns view."
-msgstr ""
+msgstr "Ṣé o nílò láti lo àwọn custom patterns rẹ lórí ojúlé mìíràn? Ó rọrùn. Kó wọn wọlé kí o sì kó wọn jáde gẹ́gẹ́ bíi àwọn fáìlì JSON láti inú àwòrán patterns ti Site Editor."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:421
 msgid "Share patterns across sites"
-msgstr ""
+msgstr "Pín àwọn pattern kaakiri àwọn ojúlé"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:415
 msgid "Organize your patterns with custom categories. Explore advanced filtering in the Patterns section of the inserter to find them all more intuitively."
-msgstr ""
+msgstr "Ṣètò àwọn pattern rẹ pẹ̀lú àwọn custom categories. Ṣàwárí àlẹ̀mọ tó gbòòrò nínú apá Patterns ti inserter láti wá gbogbo wọn lọ́nà tó túbọ̀ ṣe é gbọ́ yé."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:411
 msgid "Categorize and filter patterns"
-msgstr ""
+msgstr "Ṣe ìpín sí ọ̀wọ̀ kí o sì ṣe àlẹ̀mọ àwọn pattern"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:405
 msgid "Maintain consistent layouts with aspect ratios for image placeholders, seamlessly ensuring desired dimensions as you drag and drop images."
-msgstr ""
+msgstr "Pa àwọn layout tó báramu mọ́ pẹ̀lú aspect ratios fún àwọn ipò àwòrán, ní rírí i dájú pé àwọn ìwọ̀n tí o fẹ́ wà nígbà tí o bá ń fa àti ju àwọn àwòrán sílẹ̀."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:401
 msgid "Set placeholder aspect ratios"
-msgstr ""
+msgstr "Ṣètò àwọn aspect ratio ipò"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:393
 msgid "Visualize and locate your page’s images at a glance with new gallery and image previews in List View."
-msgstr ""
+msgstr "Wo kí o sì wá àwọn àwòrán ojúewé rẹ ní ìwòye kan pẹ̀lú àwọn gallery tuntun àti àwọn àfihàn àwòrán nínú List View."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:389
 msgid "Preview images in List View"
-msgstr ""
+msgstr "Wo àfihàn àwọn àwòrán nínú List View"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:383
 msgid "Incorporate buttons into your navigation menu to guide visitors to a call-to-action. Now it&#039;s possible without a line of code."
-msgstr ""
+msgstr "Fi àwọn bọ́tìnnì kún inú akojọ aṣayan navigation rẹ láti tọ́ àwọn àlejò sọ́nà sí call-to-action. Nísinsìnyí ó ṣeé ṣe láìkọ ìlà koodu kan."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:379
 msgid "Add navigation buttons"
-msgstr ""
+msgstr "Fi àwọn bọ́tìnnì navigation kún un"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:373
 msgid "Set custom names for Group blocks to organize and distinguish areas of your content easily."
-msgstr ""
+msgstr "Ṣètò àwọn orúkọ àdáṣe fún àwọn Group block láti ṣètò àti láti fi ìyàtọ̀ sáàárín àwọn agbègbè àkóónú rẹ lọ́nà tó rọrùn."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:369
 msgid "Rename Group blocks"
-msgstr ""
+msgstr "Tún àwọn Group block sọ lórúkọ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:359
 msgid "Featured highlights of WordPress 6.4: Twenty Twenty-Four theme, enable lightbox functionality, background images in Group blocks, categorize custom patterns, enhanced Command Palette, Block Hooks, previews in List View, and more."
-msgstr ""
+msgstr "Àwọn ohun pàtàkì WordPress 6.4: Twenty Twenty-Four theme, gbígba àǹfààní lightbox ṣiṣẹ́, àwọn àwòrán ìpilẹ̀ṣẹ̀ nínú àwọn Group block, ṣíṣe ìpín sí ọ̀wọ̀ àwọn custom patterns, Command Palette tí a mú dára sí i, Block Hooks, àwọn àfihàn nínú List View, àti púpọ̀ sí i."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:355
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:255
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:213
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-7.php:194
 msgid "And much more"
-msgstr ""
+msgstr "Àti púpọ̀ sí i"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:346
 msgid "Cropped screenshot showing a navigation menu with a shopping cart button inserted by Block Hooks."
-msgstr ""
+msgstr "Screenshot tí a gé tó ń ṣàfihàn akojọ aṣayan navigation kan pẹ̀lú bọ́tìnnì rira ọjà tí Block Hooks fi sí."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:334
 msgid "With <a href=\"https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/\">Block Hooks</a>, developers can automatically insert dynamic blocks at specific content locations, enriching the extensibility of block themes through plugins. While considered a developer tool, this feature is geared to respect your preferences and gives you complete control to add, dismiss, and customize auto-inserted blocks according to your needs."
-msgstr ""
+msgstr "Pẹ̀lú <a href=\"https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/\">Block Hooks</a>, àwọn developers lè fi àwọn dynamic block sí àwọn ipò àkóónú kan pàtó ládàáṣe, ní sísọ extensibility àwọn block theme di ọlọ́rọ̀ nípasẹ̀ àwọn plugin. Bí ó tilẹ̀ jẹ́ pé a kà á sí ohun èlò developer, ohun yìí ni a ṣe láti bọ̀wọ̀ fún àwọn ìfẹ́ rẹ, ó sì fún ọ ní ìṣàkóso pátápátá láti fi kún un, yọ kúrò, àti láti ṣe àtúnṣe àwọn block tí a fi sí ládàáṣe gẹ́gẹ́ bí àìní rẹ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:330
 msgid "Introducing <br>Block Hooks"
-msgstr ""
+msgstr "Ìfihàn <br>Block Hooks"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:313
 msgid "bike in the sun"
-msgstr ""
+msgstr "kẹ̀kẹ́ nínú oòrùn"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:309
 msgid "interior design showing a table and chairs"
-msgstr ""
+msgstr "ìṣẹ̀dá inú ilé tó ń ṣàfihàn tábìlì àti àga"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:303
 msgid "modern interior ramp"
-msgstr ""
+msgstr "ọ̀nà ramp inú ilé ìgbàlódé"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:299
 msgid "architectural texture on a modern building"
-msgstr ""
+msgstr "ìtẹ́lẹ̀ àwòrán lórí ilé ìgbàlódé"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:292
 msgid "Try it out by clicking or tapping on the images below"
-msgstr ""
+msgstr "Dán an wò nípa kíkíìkì tàbí títẹ àwọn àwòrán ní ìsàlẹ̀"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:278
 msgid "Enable lightbox functionality to let your site visitors enjoy full-screen, interactive images on click. Apply it globally or to specific images to customize the viewing experience."
-msgstr ""
+msgstr "Mú àǹfààní lightbox ṣiṣẹ́ láti jẹ́ kí àwọn àlejò ojúlé rẹ gbádùn àwọn àwòrán ìbánisọ̀rọ̀ ojú-ìwòye kíkún nígbà tí wọ́n bá tẹ ẹ́. Lò ó ní gbogbogbòò tàbí sí àwọn àwòrán kan pàtó láti ṣe àtúnṣe ìrírí wíwo."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:274
 msgid "Make your images stand out"
-msgstr ""
+msgstr "Jẹ́ kí àwọn àwòrán rẹ yọrí"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:261
 msgid "Play with new background images in Group blocks for unique designs"
-msgstr ""
+msgstr "Ṣeré pẹ̀lú àwọn àwòrán ìpilẹ̀ṣẹ̀ tuntun nínú àwọn Group block fún àwọn ìṣẹ̀dá àrà ọ̀tọ̀"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:259
 msgid "Decorative image of a wooden staircase seen from above with a person walking up the stairs."
-msgstr ""
+msgstr "Àwòrán ọ̀ṣọ́ ti àtẹ̀gùn onígi tí a rí láti òkè pẹ̀lú ènìyàn kan tó ń gun àtẹ̀gùn náà."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:252
 msgid "Screenshot of the refreshed UI of the Command Palette with a decorative background image. It displays a search bar with the words &quot;Search for commands&quot; and a variety of shortcuts listed below, including &quot;Add new page,&quot; &quot;Toggle code editor,&quot; &quot;Editor preferences,&quot; and more."
-msgstr ""
+msgstr "Screenshot ti UI Command Palette tí a túnṣe pẹ̀lú àwòrán ìpilẹ̀ṣẹ̀ ọ̀ṣọ́. Ó ṣàfihàn ààyè ìwáàdí kan pẹ̀lú àwọn ọ̀rọ̀ &quot;Wá àwọn àṣẹ&quot; àti ọ̀pọ̀lọpọ̀ àwọn ọ̀nà àìgbà-kan-kan tí a tò sí ìsàlẹ̀, pẹ̀lú &quot;Fi ojúewé tuntun kún un,&quot; &quot;Yí editor koodu padà,&quot; &quot;Àwọn ìfẹ́ Editor,&quot; àti púpọ̀ sí i."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:243
 msgid "Benefit from improved command labeling"
-msgstr ""
+msgstr "Jàǹfààní láti inú àmì àṣẹ tí a mú dára sí i"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:239
 msgid "Perform block-specific actions"
-msgstr ""
+msgstr "Ṣe àwọn ìgbésẹ̀ block kan pàtó"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:235
 msgid "Enjoy a refreshed look"
-msgstr ""
+msgstr "Gbádùn ìrísí tuntun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:230
 msgid "Quickly find what you need, perform tasks efficiently, and speed up your building workflow with a more powerful Command Palette."
-msgstr ""
+msgstr "Wá ohun tí o nílò ní kíákíá, ṣe àwọn iṣẹ́ lọ́nà tó múná dóko, kí o sì mú ìṣàn iṣẹ́ kíkọ́ rẹ yára pẹ̀lú Command Palette tó lágbára jù."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:226
 msgid "Get more done with the Command Palette"
-msgstr ""
+msgstr "Ṣe púpọ̀ sí i pẹ̀lú Command Palette"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:206
 msgid "New enhancements ensure your content creation experience is smooth, including new keyboard shortcuts, smarter lists, and enhanced control over your link settings. A cohesive toolbar experience for the Navigation, List, and Quote blocks ensures organized access to the tooling options you work with."
-msgstr ""
+msgstr "Àwọn ìlọsíwájú tuntun rí i dájú pé ìrírí ìṣẹ̀dá àkóónú rẹ rọrùn, pẹ̀lú àwọn ọ̀nà àìgbà-kan-kan keyboard tuntun, àwọn àtòjọ tó gbọ́n jù, àti ìṣàkóso tó dára sí i lórí àwọn ètò ìsopọ̀ rẹ. Ìrírí toolbar tó báramu fún àwọn block Navigation, List, àti Quote rí i dájú pé ààyè sí àwọn àṣàyàn ohun èlò tí o fi ń ṣiṣẹ́ wà ní ìṣètò."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:202
 msgid "Let your writing flow"
-msgstr ""
+msgstr "Jẹ́ kí ìkọ̀wé rẹ sàn"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:191
 msgid "Explore patterns"
-msgstr ""
+msgstr "Ṣàwárí àwọn pattern"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:186
 msgid "Take advantage of the theme’s diverse library of patterns and templates to compose pages of any kind—and streamline your site-building process."
-msgstr ""
+msgstr "Lo àǹfààní àkójọpọ̀ pattern àti template ọlọ́rọ̀ ti theme náà láti kọ àwọn ojúewé irú èyíkéyìí—kí o sì mú ìlànà kíkọ́ ojúlé rẹ rọrùn."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:182
 msgid "Discover more than 35 finely crafted patterns"
-msgstr ""
+msgstr "Ṣàwárí àwọn pattern tó ju 35 lọ tí a ṣe pẹ̀lú ìṣọ́ra"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:181
 msgid "Cropped screenshots of the Twenty Twenty-Four theme."
-msgstr ""
+msgstr "Àwọn screenshot tí a gé ti Twenty Twenty-Four theme."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:173
 msgid "Ensure your site looks great on every device."
-msgstr ""
+msgstr "Rí i dájú pé ojúlé rẹ dára lórí gbogbo ẹ̀rọ."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:169
 msgid "Responsive design"
-msgstr ""
+msgstr "Ìṣẹ̀dá tó bá ẹ̀rọ mu"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:163
 msgid "Twenty Twenty-Four has been meticulously optimized for performance."
-msgstr ""
+msgstr "Twenty Twenty-Four ti ṣe àmójútó pẹ̀lú ìṣọ́ra fún performance."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:159
 msgid "Fast and efficient"
-msgstr ""
+msgstr "Yára àti ṣíṣe déédé"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:153
 msgid "Adjust colors, typography, and templates to make the theme uniquely yours."
-msgstr ""
+msgstr "Ṣe àtúnṣe àwọn àwọ̀, typography, àti àwọn template láti sọ theme náà di tìrẹ pàtó."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:149
 msgid "Fully customizable"
-msgstr ""
+msgstr "Ṣeéṣe láti ṣe àtúnṣe pátápátá"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:131
 msgid "The Twenty Twenty-Four theme combines the latest Site Editor capabilities and design tools. Tap into the unmatched flexibility of building with blocks to bring your next project to life."
-msgstr ""
+msgstr "Twenty Twenty-Four theme ṣàkópọ̀ àwọn àǹfààní Site Editor tuntun àti àwọn ohun èlò ìṣẹ̀dá. Lo àǹfààní àìlẹ́gbẹ́ ti kíkọ́ pẹ̀lú àwọn block láti mú iṣẹ́ àkànṣe rẹ tó kàn wá sí ìgbésí ayé."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:125
 msgid "Experience site editing at its best"
-msgstr ""
+msgstr "Ní ìrírí ṣíṣàtúnṣe ojúlé ní ibi tó dára jùlọ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:110
 msgid "http://2024.wordpress.net/index.php/photographer-demo/"
-msgstr ""
+msgstr "http://2024.wordpress.net/index.php/photographer-demo/"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:101
 msgid "Save time and effort with a variety of curated portfolio, testimonial, and team patterns to highlight your creative projects and inspire your potential clients."
-msgstr ""
+msgstr "Fi àkókò àti agbára pamọ́ pẹ̀lú ọ̀pọ̀lọpọ̀ portfolio, testimonial, àti àwọn pattern ẹgbẹ́ tí a ṣètò láti ṣàfihàn àwọn iṣẹ́ àkànṣe ìṣẹ̀dá rẹ àti láti fún àwọn oníbàárà rẹ tó ṣeéṣe ní ìwúrí."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:97
 msgid "Showcase your work"
-msgstr ""
+msgstr "Ṣàfihàn iṣẹ́ rẹ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:80
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:110
 msgid "View demo"
-msgstr ""
+msgstr "Wo demo"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:73
 msgid "Explore Twenty Twenty-Four’s collection of patterns for the homepage, single posts, and archive templates. Use them as a starting point to create a unique blog tailored to your style."
-msgstr ""
+msgstr "Ṣàwárí àkójọpọ̀ pattern Twenty Twenty-Four fún ojú ilé, àwọn àtẹ̀jáde kọ̀ọ̀kan, àti àwọn template àkójọ. Lò wọ́n gẹ́gẹ́ bíi ìbẹ̀rẹ̀ láti ṣẹ̀dá blog àrà ọ̀tọ̀ tó bá style rẹ mu."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:69
 msgid "Start your writing venture"
-msgstr ""
+msgstr "Bẹ̀rẹ̀ ìgbìyànjú ìkọ̀wé rẹ"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:56
 msgid "Download theme"
-msgstr ""
+msgstr "Ṣe ìgbàsílẹ̀ theme"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:51
 msgid "Twenty Twenty-Four is an elegant, versatile default theme designed with distinct use cases in mind, from writers and artists to entrepreneurs. Its extensive library of patterns and flexibility make it the ideal choice for a wide range of creative and business needs."
-msgstr ""
+msgstr "Twenty Twenty-Four jẹ́ theme àkọ́kọ́ tó lẹ́wà, tó sì ṣeé lò lọ́pọ̀lọpọ̀, tí a ṣe pẹ̀lú àwọn lílo ọ̀tọ̀ọ̀tọ̀ ní ọkàn, láti ọ̀dọ̀ àwọn akọ̀wé àti àwọn oníṣẹ́ ọnà dé àwọn oníṣòwò. Àkójọpọ̀ pattern rẹ̀ tó gbòòrò àti àǹfààní rẹ̀ sọ ọ́ di àṣàyàn tó dára jùlọ fún ọ̀pọ̀lọpọ̀ àìní ìṣẹ̀dá àti ìṣòwò."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:47
 msgid "Say hello to <br>Twenty Twenty-Four"
-msgstr ""
+msgstr "Kí <br>Twenty Twenty-Four"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:36
 msgid "Cropped screenshots of the Twenty Twenty-Four theme, with the featured one showing an RSVP full-page pattern."
-msgstr ""
+msgstr "Àwọn screenshot tí a gé ti Twenty Twenty-Four theme, pẹ̀lú èyí tó hàn jùlọ tó ń ṣàfihàn pattern RSVP ojúewé kíkún."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:25
 msgid "Download WordPress 6.4"
-msgstr ""
+msgstr "Ṣe ìgbàsílẹ̀ WordPress 6.4"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:20
 msgid "Let your ideas take shape seamlessly with WordPress 6.4. Discover a new, multi-faceted default theme and a suite of upgrades to empower every step of your creative journey."
-msgstr ""
+msgstr "Jẹ́ kí àwọn èrò rẹ di gidi lọ́nà tó rọrùn pẹ̀lú WordPress 6.4. Ṣàwárí theme àkọ́kọ́ tuntun tó ní ọ̀pọ̀ apá àti àkójọpọ̀ àwọn ìlọsíwájú láti fún gbogbo ìgbésẹ̀ ìrìnàjò ìṣẹ̀dá rẹ ní agbára."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:14
 msgid "A release with <mark class=\"has-inline-color has-blueberry-1-color\"><em>style</em></mark>"
-msgstr ""
+msgstr "Ìtújáde kan pẹ̀lú <mark class=\"has-inline-color has-blueberry-1-color\"><em>style</em></mark>"
 
 #: mu-plugins/blocks/latest-news/src/edit.js:49
 msgid "Show Categories"
-msgstr ""
+msgstr "Ṣàfihàn Àwọn Ẹ̀ka"
 
 #: mu-plugins/blocks/latest-news/latest-news.php:185
 msgid "Cards"
-msgstr ""
+msgstr "Àwọn Káàdì"
 
 #: mu-plugins/blocks/global-header-footer/blocks.php:576
 msgctxt "Menu item title"
 msgid "Swag Store ↗︎"
-msgstr ""
+msgstr "Ilé Ìtajà Swag ↗︎"
 
 #: mu-plugins/blocks/global-header-footer/blocks.php:480
 msgctxt "Menu item title"
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: mu-plugins/blocks/global-header-footer/blocks.php:460
 msgctxt "Menu item title"
 msgid "Extend"
-msgstr ""
+msgstr "Faagun"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:135
 msgid "Discover a collection of website examples from around the world, curated to spotlight gorgeous design, technical innovation, and the limitless power of WordPress."
-msgstr ""
+msgstr "Ṣàwárí àkójọpọ̀ àwọn àpẹẹrẹ ojúlé láti gbogbo àgbáyé, tí a ṣètò láti ṣàfihàn ìṣẹ̀dá tó lẹ́wà, ìdàgbàsókè ìmọ̀-ẹ̀rọ, àti agbára àìlópin WordPress."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:162
 #: source/wp-content/themes/wporg-main-2022/patterns/home.php:173
 msgid "Explore the Showcase"
-msgstr ""
+msgstr "Ṣàwárí Showcase"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:153
 msgid "Blocks are the visual foundation of WordPress, and can be used to create and manage every part of your site. They&#039;re also easier than you think. Learn how to edit a block and you learn how to use all of WordPress—without having to write code. For inspiration, check out what others have done with WordPress in the Showcase."
-msgstr ""
+msgstr "Blocks ni ìpìlẹ̀ ìran WordPress, a sì lè lò wọ́n láti ṣẹ̀dá àti láti ṣàkóso gbogbo apá ojúlé rẹ. Wọ́n tún rọrùn ju bí o ṣe rò lọ. Kẹ́kọ̀ọ́ bí a ṣe ń ṣàtúnṣe block kan, ìwọ yóò sì kọ́ bí a ṣe ń lo gbogbo WordPress—láìkọ koodu. Fún ìwúrí, wo ohun tí àwọn mìíràn ti ṣe pẹ̀lú WordPress nínú Showcase."
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:299
 msgid "<a href=\"https://wordpress.org/files/2023/10/DisneyABCPress-Case-Study.pdf\">Ten Years of DisneyABCPress Success (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/DisneyABCPress-Case-Study.pdf\">Ọdún Mẹ́wàá ti Àṣeyọrí DisneyABCPress (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:295
 msgid "<a href=\"https://wordpress.org/files/2023/10/Siemens-Case-Study.pdf\">AEM to WordPress with Siemens (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Siemens-Case-Study.pdf\">Láti AEM sí WordPress pẹ̀lú Siemens (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:291
 msgid "<a href=\"https://wordpress.org/files/2023/10/Enterprise-Pharmacy-Case-Study.pdf\">Moving a Pharmacy Leader to WordPress (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Enterprise-Pharmacy-Case-Study.pdf\">Gbígbé Asáájú Ilé Ìtajà Oògùn lọ sí WordPress (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:283
 msgid "<a href=\"https://wordpress.org/files/2023/10/News-Corp-Australia-Case-Study.pdf\">Revolutionizing Performance and Editorial (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/News-Corp-Australia-Case-Study.pdf\">Ṣíṣe Ìyípadà Performance àti Ètò Ìtẹ̀jáde (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:279
 msgid "<a href=\"https://wordpress.org/files/2023/10/Academic-Partnerships-Case-Study.pdf\">Academic Partnerships (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Academic-Partnerships-Case-Study.pdf\">Academic Partnerships (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:275
 msgid "<a href=\"https://wordpress.org/files/2023/10/Capgemini-Case-Study.pdf\">Drupal to WordPress with Capgemini (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Capgemini-Case-Study.pdf\">Láti Drupal sí WordPress pẹ̀lú Capgemini (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:267
 msgid "<a href=\"https://wordpress.org/files/2023/10/ArtsHub-Case-Study.pdf\">.NET to WordPress with ArtsHub (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/ArtsHub-Case-Study.pdf\">Láti .NET sí WordPress pẹ̀lú ArtsHub (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:263
 msgid "<a href=\"https://wordpress.org/files/2023/10/SAP-News-Case-Study.pdf\">Massive Multisite with SAP News (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/SAP-News-Case-Study.pdf\">Multisite Ńlá pẹ̀lú SAP News (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:259
 msgid "<a href=\"https://wordpress.org/files/2023/10/Penske-Media-Corporation-Case-Study.pdf\">Unified WordPress with PMC (PDF)</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Penske-Media-Corporation-Case-Study.pdf\">WordPress tí a ṣọ̀kan pẹ̀lú PMC (PDF)</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:245
 msgid "<a rel=\"noreferrer noopener\" href=\"https://vimeo.com/425968597/80d24a1bf4\" target=\"_blank\">Lead a Successful Digital Transformation</a>"
-msgstr ""
+msgstr "<a rel=\"noreferrer noopener\" href=\"https://vimeo.com/425968597/80d24a1bf4\" target=\"_blank\">Darí Ìyípadà Digital Tó Yọrí sí Àṣeyọrí</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:252
 msgid "Additional case studies"
-msgstr ""
+msgstr "Àwọn case studies àfikún"
 
 #: mu-plugins/blocks/global-header-footer/footer.php:25
 msgid "Footer"
-msgstr ""
+msgstr "Footer"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:15
 msgid "WordPress is continually under development. Currently, Phase 2 of the Gutenberg project formally wrapped with WordPress 6.3, and exploration of Phase 3 (Collaboration) is underway. The Gutenberg project is a reimagination of the way we manage content on the web. Its goal is to broaden access to web presence, a foundation of successful modern businesses."
-msgstr ""
+msgstr "WordPress wà ní ìdàgbàsókè nígbà gbogbo. Lọ́wọ́lọ́wọ́, Apá 2 iṣẹ́ àkànṣe Gutenberg ti parí pẹ̀lú WordPress 6.3, àti pé ìwáàdí Apá 3 (Ìfọwọ́sowọ́pọ̀) ti bẹ̀rẹ̀. Iṣẹ́ àkànṣe Gutenberg jẹ́ àtúnyẹ̀wò ọ̀nà tí a fi ń ṣàkóso àkóónú lórí web. Góńgó rẹ̀ ni láti fa ààyè sí wíwà lórí web gbòòrò, èyí tí ó jẹ́ ìpìlẹ̀ àwọn ìṣòwò ìgbàlódé tó yọrí sí àṣeyọrí."
 
 #: mu-plugins/blocks/global-header-footer/footer.php:152
 msgctxt "Menu item title"
 msgid "Visit our X (formerly Twitter) account"
-msgstr ""
+msgstr "Ṣabẹwo sí àkàùntù X (Twitter tẹ́lẹ̀) wa"
 
 #. translators: %s is count of currently selected filters.
 #: mu-plugins/blocks/query-filter/render.php:71
 #: mu-plugins/blocks/query-filter/render.php:154
 msgid "Apply (%s)"
-msgstr ""
+msgstr "Lò ó (%s)"
 
 #: mu-plugins/blocks/query-filter/src/block.json
 msgctxt "block description"
 msgid "Display a filter dropdown to update the current query."
-msgstr ""
+msgstr "Ṣàfihàn dropdown àlẹ̀mọ kan láti ṣe àtúnṣe ìwáàdí lọ́wọ́lọ́wọ́."
 
 #: mu-plugins/blocks/query-filter/src/block.json
 msgctxt "block title"
 msgid "Filter"
-msgstr ""
+msgstr "Àlẹ̀mọ"
 
 #: mu-plugins/blocks/query-filter/render.php:73
 #: mu-plugins/blocks/query-filter/render.php:171
 msgid "Apply"
-msgstr ""
+msgstr "Lò ó"
 
 #: mu-plugins/blocks/query-filter/render.php:162
 msgid "Clear"
-msgstr ""
+msgstr "Nu kúrò"
 
 #: mu-plugins/blocks/modal/render.php:73
 #: mu-plugins/blocks/query-filter/render.php:115
 msgid "Close"
-msgstr ""
+msgstr "Tì í"
 
 #: mu-plugins/blocks/query-total/src/block.json
 msgctxt "block description"
 msgid "Display the total items found in the current query."
-msgstr ""
+msgstr "Ṣàfihàn àpapọ̀ àwọn nǹkan tí a rí nínú ìwáàdí lọ́wọ́lọ́wọ́."
 
 #: mu-plugins/blocks/query-total/src/block.json
 msgctxt "block title"
 msgid "Query Total"
-msgstr ""
+msgstr "Àpapọ̀ Ìwáàdí"
 
 #. translators: %s: the result count.
 #: mu-plugins/blocks/query-total/index.php:53
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nǹkan %s"
+msgstr[1] "Àwọn nǹkan %s"
 
 #. Translators: %s is the search query.
 #: mu-plugins/blocks/google-map/src/utilities/content.js:76
 msgid "Showing events that match %s."
-msgstr ""
+msgstr "Ìṣàfihàn àwọn ìṣẹ̀lẹ̀ tó bá %s mu."
 
 #: mu-plugins/blocks/google-map/src/utilities/content.js:67
 msgid "Search cleared, showing all events."
-msgstr ""
+msgstr "Ìwáàdí ti nù kúrò, ìṣàfihàn gbogbo àwọn ìṣẹ̀lẹ̀."
 
 #. translators: Change this to a recognizable city in your locale.
 #: mu-plugins/blocks/google-map/src/components/search.js:48
 msgctxt "Event query placeholder"
 msgid "Springfield"
-msgstr ""
+msgstr "Springfield"
 
 #: mu-plugins/blocks/google-map/src/components/search.js:40
 #: mu-plugins/blocks/google-map/src/components/search.js:49
 msgid "Search events:"
-msgstr ""
+msgstr "Wá àwọn ìṣẹ̀lẹ̀:"
 
 #. Translators: %s is the search query.
 #: mu-plugins/blocks/google-map/src/components/main.js:142
 #: mu-plugins/blocks/google-map/src/utilities/content.js:71
 msgid "No events were found matching %s."
-msgstr ""
+msgstr "A kò rí ìṣẹ̀lẹ̀ kankan tó bá %s mu."
 
 #: mu-plugins/blocks/google-map/src/components/list.js:21
 msgid "No events available"
-msgstr ""
+msgstr "Kò sí ìṣẹ̀lẹ̀ kankan"
 
 #: mu-plugins/blocks/google-map/src/block.json
 msgctxt "block description"
 msgid "Displays a Google Map with markers and information windows."
-msgstr ""
+msgstr "Ṣàfihàn Google Map kan pẹ̀lú àwọn àmì àti àwọn fèrèsé ìsọfúnni."
 
 #: mu-plugins/blocks/google-map/src/block.json
 msgctxt "block title"
 msgid "WordPress.org Google Map"
-msgstr ""
+msgstr "WordPress.org Google Map"
 
 #: mu-plugins/blocks/time/src/block.json
 msgctxt "block description"
 msgid "Attempts to parse a time string like 'Tuesday, April 5th, at 15:00 UTC' relative to the post date, and creates a format that shows it in the viewer's local time zone."
-msgstr ""
+msgstr "Ó gbìyànjú láti túmọ̀ okùn àkókò kan bíi 'Tuesday, April 5th, at 15:00 UTC' ní ìbámu pẹ̀lú ọjọ́ àtẹ̀jáde, kí ó sì ṣẹ̀dá ọ̀nà kan tó ń ṣàfihàn rẹ̀ ní agbègbè àkókò ti olùwòran."
 
 #: mu-plugins/blocks/time/src/block.json
 msgctxt "block title"
 msgid "Time"
-msgstr ""
+msgstr "Àkókò"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:295
 msgid "<a href=\"https://href.li/?https://www.whoishostingthis.com/\">https://www.whoishostingthis.com/</a>"
-msgstr ""
+msgstr "<a href=\"https://href.li/?https://www.whoishostingthis.com/\">https://www.whoishostingthis.com/</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:291
 msgid "<a href=\"https://href.li/?https://lookup.icann.org\">https://lookup.icann.org</a>"
-msgstr ""
+msgstr "<a href=\"https://href.li/?https://lookup.icann.org\">https://lookup.icann.org</a>"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:286
 msgid "We suggest contacting the site owner or author directly. To find more information about the site’s host or domain&nbsp;registrar, you can use these tools:"
-msgstr ""
+msgstr "A gba ọ nímọ̀ràn láti kan sí onílé ojúlé tàbí akọ̀wé tààrà. Láti wá ìsọfúnni síwájú sí i nípa olùgbàlejò ojúlé tàbí domain&nbsp;registrar, o lè lo àwọn ohun èlò wọ̀nyí:"
 
 #: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:282
 msgid "Please note we cannot provide help or information about other websites, including those which may run on WordPress open source software but are hosted by third parties."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:246
-msgid "Create a block"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:193
-msgid "Try blocks live"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:333
-msgid "<a href=\"https://developer.wordpress.org/block-editor/how-to-guides/platform/custom-block-editor/\">Deploy blocks</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:321
-msgid "<a href=\"https://developer.wordpress.org/block-editor/getting-started/create-block/\">Create custom blocks</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:316
-msgid "While blocks are powerful on their own, they’re also part of something bigger and can be combined or deployed in various ways. As a unified and open syntax, they&#039;re easily understood by editors, browsers, and even AI. So whoever is editing will find it easy to make vibrant, personalized designs and experiences happen, fast."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:237
-msgid "If you can&#039;t find a block that suits your needs, create your own. Creating a block is as simple as building a React component. Use the &nbsp;<code>@wordpress/create-block</code>&nbsp;package&nbsp;to jumpstart your creation."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:229
-msgid "Create your own"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:221
-msgid "Hello world (from the editor)"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:184
-msgid "The WordPress editor is the default way to insert, transform, style, and move your blocks around on a visual canvas thanks to a simple drag-and-drop interface."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:176
-msgid "Complete creative control"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:145
-msgid "WordPress’s secret power"
-msgstr ""
-
-#: extra/translation-strings.php:41
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:87
-msgid "Media"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:50
-msgid "Create blocks"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:50
-msgid "https://developer.wordpress.org/block-editor/getting-started/create-block/"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:41
-msgid "The technology that powers much of the web has never been easier to learn. Blocks allow you to visually interact with any piece of content, with or without code—fueling rich layouts, interactive onboarding, and endless extensibility. As powerful for design as they are for development, but still intuitive enough for newcomers."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:33
-msgid "Build without limits"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:18
-msgid "Block components. No code. Just click and insert content."
-msgstr ""
-
-#: extra/translation-strings.php:20
-#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:14
-msgid "Blocks"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:531
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:485
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:393
-msgid "View all contributors"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:515
-msgid "Thanks to the over <br><em><mark class=\"has-inline-color has-blueberry-1-color\">650 contributors</mark></em> who made this release"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:507
-msgid "<em>*Synced patterns were previously referred to as \"reusable blocks.\"</em>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:496
-msgid "Cropped screenshot of a a block theme, Twenty Twenty-Three, dark text on white background."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:492
-msgid "Preview block themes before activating"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:486
-msgid "A screenshot of a footnotes block showing the text: 1. WordPress started in 2003 when Mike Little and Matt Mullenweg created a fork of b2/cafelog. The need for an elegant, well-architected personal publishing system was clear even then. Today, WordPress is built on PHP and MySQL, and licensed under the GPLv2. It is also the platform of choice for over 43% of all sites across the web."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:482
-msgid "Annotate content with the Footnotes Block"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:474
-msgid "Screenshot of a &quot;Start typing...&quot; prompt."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:470
-msgid "Build your site distraction-free"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:464
-msgid "Cropped screenshot of the block editor, showing a revision history for visual styles."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:460
-msgid "Track and revert style revisions"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:452
-msgid "Screenshot showing abstracted menu management with a drag and drop action underway."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:448
-msgid "Manage menus more easily in the Site Editor"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:442
-msgid "Abstract image showing square boxes denoting aspect ratios, 16;9, 4:3, and 1:1."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:438
-msgid "Set aspect ratios on images"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:428
-msgid "Built using the details and summary html elements"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:427
-msgid "Accessible"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:422
-msgid "Insert the Details block, add a summary, then add what content you want to reveal."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:421
-msgid "Easy to use"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:416
-msgid "Perfect for hiding extended information until a user needs it."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:415
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:421
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:427
-msgid "Type / to add a hidden block"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:415
-msgid "Try me"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:410
-msgid "Show or hide content with the Details Block"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:404
-msgid "Screenshot of the block editor, with the text, &quot;Hello, WordPress&quot;, and the new Top Toolbar option enabled."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:400
-msgid "Rediscover the top toolbar"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:388
-msgid "With over 500 new features and enhancements and more than 400 bug fixes, this release is packed with improvements to the WordPress experience."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:384
-msgid "400+ bug fixes<br><mark class=\"has-inline-color has-blueberry-2-color\">500+ improvements</mark>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:379
-msgid "Much more"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:368
-msgid "Block template resolution, image lazy-loading, and the emoji loader all get faster."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:364
-msgid "Improved load times"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:358
-msgid "6.3 adds support for the Scripts API and fetchpriority support for images."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:354
-msgid "170+ performance updates"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:343
-msgid "<mark class=\"has-inline-color has-light-grey-2-color\">6.3 is 24% faster than 6.2.2 in LCP times</mark>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:334
-msgid "Efficient utilization of server resources makes for a faster site and better visitor experience."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:330
-msgid "Lightning speed"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:314
-msgid "Use synced patterns* so that one change applies to all parts of your site."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:310
-msgid "Sync"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:296
-msgid "Remove unused patterns or duplicate existing ones before editing."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:292
-msgid "Manage"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:276
-msgid "Create new patterns in isolation before adding them to a page."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:272
-msgid "Create"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:258
-msgid "Get a sense of how all your site&#039;s patterns feel together."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:254
-msgid "Browse"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:226
-msgid "The new patterns page is where you can manage all your patterns, including template parts and synced patterns.*"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:222
-msgid "All your patterns in one place"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:217
-msgid "Patterns"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:206
-msgid "Make switching between editing pages, posts, templates, or patterns more efficient than ever."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:202
-msgid "Switch tasks fast"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:188
-msgid "The new Command Palette is a fast new way to search your editor preferences and access common commands."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:184
-msgid "Find anything"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:156
-msgid "The new Command Palette introduces a quick way to search your site and access common commands."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:152
-msgid "Meet the Command Palette"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:147
-msgid "new feature"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:136
-msgid "You can now publish one or many pages directly from within the Site Editor."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:132
-msgid "Publish faster"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:118
-msgid "Now edit your content and template in the Editor, easily switching between them."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:114
-msgid "Switch seamlessly"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:98
-msgid "View high-level page information, settings, and more."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:94
-msgid "Get a page snapshot"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:80
-msgid "View, find, and edit pages without leaving the Site Editor."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:76
-msgid "Browse pages"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:48
-msgid "Create, browse, and edit pages directly from within the Site Editor with your template in view."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:44
-msgid "Your page and template, together"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:25
-msgid "Watch the demo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:19
-msgid "6.3 puts your templates, content, and patterns all into one place. Now you can go from site creation to completion without ever leaving the Site Editor."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:14
-msgid "Edit <em>Everything</em>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:54
-msgid "<a href=\"https://www.meetup.com/pro/wordpress/\">Join a local WordPress meetup ↗︎</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:256
-msgid "<a href=\"https://developer.wordpress.org\">Dig into the code</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:241
-msgid "<a href=\"https://vimeo.com/374961815/040fe06be7\" target=\"_blank\" rel=\"noreferrer noopener\">Gutenberg for Enterprise</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:237
-msgid "<a rel=\"noreferrer noopener\" href=\"https://vimeo.com/443114625/c2f798174f\" target=\"_blank\">Drive Digital Commerce</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:225
-msgid "<a href=\"https://wordpress.org/files/2020/11/Personalization-whitepaper.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/Personalization-whitepaper.pdf\">Personalization (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:221
-msgid "<a href=\"https://wordpress.org/files/2020/11/wordpress-as-a-content-hub-whitepaper.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/wordpress-as-a-content-hub-whitepaper.pdf\">WP as a Content Hub (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:217
-msgid "<a href=\"https://wordpress.org/files/2020/11/IDC-Report-Choosing-a-CMS-to-Meet-Todays-Digital-Experience-Challenges.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/IDC-Report-Choosing-a-CMS-to-Meet-Todays-Digital-Experience-Challenges.pdf\">IDC Report (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:205
-msgid "<a href=\"https://wordpress.org/files/2020/11/case-studies-newscorp-australia.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/case-studies-newscorp-australia.pdf\">NewsCorp Australia (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:201
-msgid "<a href=\"https://wordpress.org/files/2020/11/case-studies-kff.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/case-studies-kff.pdf\">KFF (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:197
-msgid "<a href=\"https://wordpress.org/files/2020/11/case-studies-grupo-abril.pdf\" data-type=\"URL\" data-id=\"https://wordpress.org/files/2020/11/case-studies-grupo-abril.pdf\">Abril (PDF)</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:181
-msgid "<a href=\"https://wordpress.org/support/forum/installation/\">User forums ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:177
-msgid "<a href=\"https://wordpress.org/support/\">WordPress support ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:173
-msgid "<a href=\"https://developer.wordpress.org/\">Developer resources ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:169
-msgid "<a href=\"https://learn.wordpress.org/course/getting-started-with-wordpress-get-setup/\">WordPress courses ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:98
-msgid "https://wordpress.org/hosting/"
-msgstr ""
-
-#: mu-plugins/blocks/navigation/src/index.js:74
-msgid "This menu will display the content below. Note that on locale sites (for example, es.wordpress.org) this menu will probably not exist."
-msgstr ""
-
-#: mu-plugins/blocks/navigation/src/index.js:67
-msgid "This menu will display a hard-coded navigation, relative to the current site."
-msgstr ""
-
-#: mu-plugins/blocks/navigation/src/index.js:61
-msgid "Custom menu"
-msgstr ""
-
-#: mu-plugins/blocks/navigation/src/index.js:59
-msgid "Dynamic Menu"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:171
-msgid "Logos"
-msgstr ""
-
-#: extra/translation-strings.php:29
-#: source/wp-content/themes/wporg-main-2022/functions.php:123
-msgid "License"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:288
-msgid "<a href=\"/download/\">Get started</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:135
-#: source/wp-content/themes/wporg-main-2022/patterns/about-stats.php:11
-msgid "Statistics"
-msgstr ""
-
-#: extra/translation-strings.php:25
-#: source/wp-content/themes/wporg-main-2022/functions.php:163
-#: source/wp-content/themes/wporg-main-2022/patterns/about-philosophy.php:11
-msgid "Philosophy"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/about-license.php:11
-msgid "GNU Public License"
-msgstr ""
-
-#: extra/translation-strings.php:28
-#: source/wp-content/themes/wporg-main-2022/functions.php:127
-#: source/wp-content/themes/wporg-main-2022/patterns/about-accessibility.php:11
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:455
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-7.php:173
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-8.php:165
-msgid "Accessibility"
-msgstr ""
+msgstr "Jọ̀wọ́ ṣàkíyèsí pé a kò lè pèsè ìrànlọ́wọ́ tàbí ìsọfúnni nípa àwọn ojúlé mìíràn, pẹ̀lú àwọn tí ó lè jẹ́ pé wọ́n ń ṣiṣẹ́ lórí software orísun ṣíṣí WordPress ṣùgbọ́n tí àwọn ẹlòmíràn ni wọ́n gbà wọ́n léjò."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:155
+msgid "NASA logo"
+msgstr "Àmì NASA"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:167
+msgid "Harvard logo"
+msgstr "Àmì Harvard"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:163
+msgid "TechCrunch logo"
+msgstr "Àmì TechCrunch"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:147
+msgid "Rolling Stone logo"
+msgstr "Àmì Rolling Stone"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:33
+msgid "Sun logo"
+msgstr "Àmì Sun"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:82
+msgid "<a href=\"https://make.wordpress.org/core/tag/phase-3/\">Collaboration</a> — A more intuitive way to co-author content"
+msgstr "<a href=\"https://make.wordpress.org/core/tag/phase-3/\">Ìfọwọ́sowọ́pọ̀</a> — Ọ̀nà tó túbọ̀ ṣe é gbọ́ yé láti jọ kọ àkóónú"
+
+#: mu-plugins/blocks/global-header-footer/blocks.php:544
+#: mu-plugins/blocks/global-header-footer/footer.php:89
+msgctxt "Menu item title"
+msgid "Events"
+msgstr "Àwọn ìṣẹ̀lẹ̀"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:112
+msgid "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/tools\">View all tools</a>"
+msgstr "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/tools\">Wo gbogbo àwọn ohun èlò</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:88
+msgid "Mix and match export, conversion, and import tools to design a personalized migration path that works for you."
+msgstr "Dapọ̀ kí o sì yan àwọn ohun èlò ìkójádé, ìyípadà, àti ìkówọlé láti ṣe àpẹẹrẹ ọ̀nà ìṣíkiri àdáni tó bá ọ mu."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:76
+msgid "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/guides\">View all guides</a>"
+msgstr "<a href=\"https://github.com/WordPress/move-to-wp/tree/trunk/guides\">Wo gbogbo àwọn ìtọ́sọ́nà</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:22
+msgid "Easy to use step by step guidelines to help you move your site to WordPress."
+msgstr "Àwọn ìlànà ìgbésẹ̀-ní-ìgbésẹ̀ tó rọrùn láti lò láti ràn ọ́ lọ́wọ́ láti gbé ojúlé rẹ lọ sí WordPress."
+
+#: extra/translation-strings.php:13
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:18
+msgid "Guides"
+msgstr "Àwọn ìtọ́sọ́nà"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation.php:16
+msgid "Your data, your move."
+msgstr "Dátà rẹ, ìṣípòpadà rẹ."
+
+#: extra/translation-strings.php:17
+#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation.php:12
+msgid "Data Liberation"
+msgstr "Data Liberation"
+
+#: source/wp-content/themes/wporg-main-2022/src/remembers-list/block.json
+msgctxt "block description"
+msgid "Displays a list of memorialized contributors."
+msgstr "Ṣàfihàn àtòjọ àwọn olùkópa tí a ṣe ìrántí wọn."
+
+#: source/wp-content/themes/wporg-main-2022/src/remembers-list/block.json
+msgctxt "block title"
+msgid "Remembers Contributor List"
+msgstr "Àtòjọ Olùkópa Tí A Rántí"
+
+#: source/wp-content/themes/wporg-main-2022/src/remembers-list/index.php:41
+msgid "Memorial Profiles mu-plugin is missing."
+msgstr "Memorial Profiles mu-plugin kò sí."
 
 #: source/wp-content/themes/wporg-main-2022/theme.json
 msgctxt "Font family name"
-msgid "Courier Prime"
-msgstr ""
+msgid "Newsreader"
+msgstr "Newsreader"
 
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/block.json
+#: source/wp-content/themes/wporg-main-2022/theme.json
+msgctxt "Font family name"
+msgid "Anton"
+msgstr "Anton"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:469
+msgid "Thanks to the over <br><em><mark class=\"has-inline-color has-light-grey-2-color\">600 contributors</mark></em> who made this release"
+msgstr "Ọpẹ́ fún àwọn <br><em><mark class=\"has-inline-color has-light-grey-2-color\">olùkópa tó ju 600</mark></em> lọ tí wọ́n ṣe ìtújáde yìí"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:459
+msgid "Every release is committed to making WordPress accessible to everyone. 6.4 brings List View improvements and aria-label support for the Navigation block, among other highlights. The admin user interface includes enhancements to button placements, “Add New” menu items context, and Site Health spoken messages."
+msgstr "Gbogbo ìtújáde ti pinnu láti jẹ́ kí WordPress ṣeé wọlé sí fún gbogbo ènìyàn. 6.4 mú àwọn ìlọsíwájú List View àti ìtìlẹ́yìn aria-label wá fún Navigation block, láàárín àwọn ohun pàtàkì mìíràn. Ojú ìṣàkóso admin ní àwọn ìlọsíwájú sí ìgbékalẹ̀ bọ́tìnnì, àyíká àwọn nǹkan inú akojọ aṣayan “Add New”, àti àwọn ìfọ̀rọ̀ránṣẹ́ Site Health."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:449
+msgid "WordPress 6.4 includes more than 100 performance-related updates for a faster and more efficient experience. Notable enhancements focus on template loading performance for themes, usage of the script loading strategies “defer” and “async” in core, blocks, and themes, and new functions to optimize autoloaded options."
+msgstr "WordPress 6.4 ní àwọn àtúnṣe tó ní í ṣe pẹ̀lú performance tó ju 100 lọ fún ìrírí tó yára àti tó ṣiṣẹ́ dáadáa. Àwọn ìlọsíwájú pàtàkì gbájú mọ́ performance ìgbéjáde template fún àwọn theme, lílo àwọn ọgbọ́n ìgbéjáde script “defer” àti “async” nínú àárín, àwọn block, àti àwọn theme, àti àwọn iṣẹ́ tuntun láti mú àwọn àṣàyàn autoloaded sunwọ̀n sí i."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:425
+msgid "Need to use your custom patterns on another site? It&#039;s simple. Import and export them as JSON files from the Site Editor’s patterns view."
+msgstr "Ṣé o nílò láti lo àwọn custom patterns rẹ lórí ojúlé mìíràn? Ó rọrùn. Kó wọn wọlé kí o sì kó wọn jáde gẹ́gẹ́ bíi àwọn fáìlì JSON láti inú àwòrán patterns ti Site Editor."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:421
+msgid "Share patterns across sites"
+msgstr "Pín àwọn pattern kaakiri àwọn ojúlé"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:415
+msgid "Organize your patterns with custom categories. Explore advanced filtering in the Patterns section of the inserter to find them all more intuitively."
+msgstr "Ṣètò àwọn pattern rẹ pẹ̀lú àwọn custom categories. Ṣàwárí àlẹ̀mọ tó gbòòrò nínú apá Patterns ti inserter láti wá gbogbo wọn lọ́nà tó túbọ̀ ṣe é gbọ́ yé."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:411
+msgid "Categorize and filter patterns"
+msgstr "Ṣe ìpín sí ọ̀wọ̀ kí o sì ṣe àlẹ̀mọ àwọn pattern"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:405
+msgid "Maintain consistent layouts with aspect ratios for image placeholders, seamlessly ensuring desired dimensions as you drag and drop images."
+msgstr "Pa àwọn layout tó báramu mọ́ pẹ̀lú aspect ratios fún àwọn ipò àwòrán, ní rírí i dájú pé àwọn ìwọ̀n tí o fẹ́ wà nígbà tí o bá ń fa àti ju àwọn àwòrán sílẹ̀."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:401
+msgid "Set placeholder aspect ratios"
+msgstr "Ṣètò àwọn aspect ratio ipò"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:393
+msgid "Visualize and locate your page’s images at a glance with new gallery and image previews in List View."
+msgstr "Wo kí o sì wá àwọn àwòrán ojúewé rẹ ní ìwòye kan pẹ̀lú àwọn gallery tuntun àti àwọn àfihàn àwòrán nínú List View."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:389
+msgid "Preview images in List View"
+msgstr "Wo àfihàn àwọn àwòrán nínú List View"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:383
+msgid "Incorporate buttons into your navigation menu to guide visitors to a call-to-action. Now it&#039;s possible without a line of code."
+msgstr "Fi àwọn bọ́tìnnì kún inú akojọ aṣayan navigation rẹ láti tọ́ àwọn àlejò sọ́nà sí call-to-action. Nísinsìnyí ó ṣeé ṣe láìkọ ìlà koodu kan."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:379
+msgid "Add navigation buttons"
+msgstr "Fi àwọn bọ́tìnnì navigation kún un"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:373
+msgid "Set custom names for Group blocks to organize and distinguish areas of your content easily."
+msgstr "Ṣètò àwọn orúkọ àdáṣe fún àwọn Group block láti ṣètò àti láti fi ìyàtọ̀ sáàárín àwọn agbègbè àkóónú rẹ lọ́nà tó rọrùn."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:369
+msgid "Rename Group blocks"
+msgstr "Tún àwọn Group block sọ lórúkọ"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:359
+msgid "Featured highlights of WordPress 6.4: Twenty Twenty-Four theme, enable lightbox functionality, background images in Group blocks, categorize custom patterns, enhanced Command Palette, Block Hooks, previews in List View, and more."
+msgstr "Àwọn ohun pàtàkì WordPress 6.4: Twenty Twenty-Four theme, gbígba àǹfààní lightbox ṣiṣẹ́, àwọn àwòrán ìpilẹ̀ṣẹ̀ nínú àwọn Group block, ṣíṣe ìpín sí ọ̀wọ̀ àwọn custom patterns, Command Palette tí a mú dára sí i, Block Hooks, àwọn àfihàn nínú List View, àti púpọ̀ sí i."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:355
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:255
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:213
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-7.php:194
+msgid "And much more"
+msgstr "Àti púpọ̀ sí i"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:346
+msgid "Cropped screenshot showing a navigation menu with a shopping cart button inserted by Block Hooks."
+msgstr "Screenshot tí a gé tó ń ṣàfihàn akojọ aṣayan navigation kan pẹ̀lú bọ́tìnnì rira ọjà tí Block Hooks fi sí."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:334
+msgid "With <a href=\"https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/\">Block Hooks</a>, developers can automatically insert dynamic blocks at specific content locations, enriching the extensibility of block themes through plugins. While considered a developer tool, this feature is geared to respect your preferences and gives you complete control to add, dismiss, and customize auto-inserted blocks according to your needs."
+msgstr "Pẹ̀lú <a href=\"https://make.wordpress.org/core/2023/10/15/introducing-block-hooks-for-dynamic-blocks/\">Block Hooks</a>, àwọn developers lè fi àwọn dynamic block sí àwọn ipò àkóónú kan pàtó ládàáṣe, ní sísọ extensibility àwọn block theme di ọlọ́rọ̀ nípasẹ̀ àwọn plugin. Bí ó tilẹ̀ jẹ́ pé a kà á sí ohun èlò developer, ohun yìí ni a ṣe láti bọ̀wọ̀ fún àwọn ìfẹ́ rẹ, ó sì fún ọ ní ìṣàkóso pátápátá láti fi kún un, yọ kúrò, àti láti ṣe àtúnṣe àwọn block tí a fi sí ládàáṣe gẹ́gẹ́ bí àìní rẹ."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:330
+msgid "Introducing <br>Block Hooks"
+msgstr "Ìfihàn <br>Block Hooks"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:313
+msgid "bike in the sun"
+msgstr "kẹ̀kẹ́ nínú oòrùn"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:309
+msgid "interior design showing a table and chairs"
+msgstr "ìṣẹ̀dá inú ilé tó ń ṣàfihàn tábìlì àti àga"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:303
+msgid "modern interior ramp"
+msgstr "ọ̀nà ramp inú ilé ìgbàlódé"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:299
+msgid "architectural texture on a modern building"
+msgstr "ìtẹ́lẹ̀ àwòrán lórí ilé ìgbàlódé"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:292
+msgid "Try it out by clicking or tapping on the images below"
+msgstr "Dán an wò nípa kíkíìkì tàbí títẹ àwọn àwòrán ní ìsàlẹ̀"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:278
+msgid "Enable lightbox functionality to let your site visitors enjoy full-screen, interactive images on click. Apply it globally or to specific images to customize the viewing experience."
+msgstr "Mú àǹfààní lightbox ṣiṣẹ́ láti jẹ́ kí àwọn àlejò ojúlé rẹ gbádùn àwọn àwòrán ìbánisọ̀rọ̀ ojú-ìwòye kíkún nígbà tí wọ́n bá tẹ ẹ́. Lò ó ní gbogbogbòò tàbí sí àwọn àwòrán kan pàtó láti ṣe àtúnṣe ìrírí wíwo."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:274
+msgid "Make your images stand out"
+msgstr "Jẹ́ kí àwọn àwòrán rẹ yọrí"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:261
+msgid "Play with new background images in Group blocks for unique designs"
+msgstr "Ṣeré pẹ̀lú àwọn àwòrán ìpilẹ̀ṣẹ̀ tuntun nínú àwọn Group block fún àwọn ìṣẹ̀dá àrà ọ̀tọ̀"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:259
+msgid "Decorative image of a wooden staircase seen from above with a person walking up the stairs."
+msgstr "Àwòrán ọ̀ṣọ́ ti àtẹ̀gùn onígi tí a rí láti òkè pẹ̀lú ènìyàn kan tó ń gun àtẹ̀gùn náà."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:252
+msgid "Screenshot of the refreshed UI of the Command Palette with a decorative background image. It displays a search bar with the words &quot;Search for commands&quot; and a variety of shortcuts listed below, including &quot;Add new page,&quot; &quot;Toggle code editor,&quot; &quot;Editor preferences,&quot; and more."
+msgstr "Screenshot ti UI Command Palette tí a túnṣe pẹ̀lú àwòrán ìpilẹ̀ṣẹ̀ ọ̀ṣọ́. Ó ṣàfihàn ààyè ìwáàdí kan pẹ̀lú àwọn ọ̀rọ̀ &quot;Wá àwọn àṣẹ&quot; àti ọ̀pọ̀lọpọ̀ àwọn ọ̀nà àìgbà-kan-kan tí a tò sí ìsàlẹ̀, pẹ̀lú &quot;Fi ojúewé tuntun kún un,&quot; &quot;Yí editor koodu padà,&quot; &quot;Àwọn ìfẹ́ Editor,&quot; àti púpọ̀ sí i."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:243
+msgid "Benefit from improved command labeling"
+msgstr "Jàǹfààní láti inú àmì àṣẹ tí a mú dára sí i"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:239
+msgid "Perform block-specific actions"
+msgstr "Ṣe àwọn ìgbésẹ̀ block kan pàtó"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:235
+msgid "Enjoy a refreshed look"
+msgstr "Gbádùn ìrísí tuntun"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:230
+msgid "Quickly find what you need, perform tasks efficiently, and speed up your building workflow with a more powerful Command Palette."
+msgstr "Wá ohun tí o nílò ní kíákíá, ṣe àwọn iṣẹ́ lọ́nà tó múná dóko, kí o sì mú ìṣàn iṣẹ́ kíkọ́ rẹ yára pẹ̀lú Command Palette tó lágbára jù."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:226
+msgid "Get more done with the Command Palette"
+msgstr "Ṣe púpọ̀ sí i pẹ̀lú Command Palette"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:206
+msgid "New enhancements ensure your content creation experience is smooth, including new keyboard shortcuts, smarter lists, and enhanced control over your link settings. A cohesive toolbar experience for the Navigation, List, and Quote blocks ensures organized access to the tooling options you work with."
+msgstr "Àwọn ìlọsíwájú tuntun rí i dájú pé ìrírí ìṣẹ̀dá àkóónú rẹ rọrùn, pẹ̀lú àwọn ọ̀nà àìgbà-kan-kan keyboard tuntun, àwọn àtòjọ tó gbọ́n jù, àti ìṣàkóso tó dára sí i lórí àwọn ètò ìsopọ̀ rẹ. Ìrírí toolbar tó báramu fún àwọn block Navigation, List, àti Quote rí i dájú pé ààyè sí àwọn àṣàyàn ohun èlò tí o fi ń ṣiṣẹ́ wà ní ìṣètò."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:202
+msgid "Let your writing flow"
+msgstr "Jẹ́ kí ìkọ̀wé rẹ sàn"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:191
+msgid "Explore patterns"
+msgstr "Ṣàwárí àwọn pattern"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:186
+msgid "Take advantage of the theme’s diverse library of patterns and templates to compose pages of any kind—and streamline your site-building process."
+msgstr "Lo àǹfààní àkójọpọ̀ pattern àti template ọlọ́rọ̀ ti theme náà láti kọ àwọn ojúewé irú èyíkéyìí—kí o sì mú ìlànà kíkọ́ ojúlé rẹ rọrùn."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:182
+msgid "Discover more than 35 finely crafted patterns"
+msgstr "Ṣàwárí àwọn pattern tó ju 35 lọ tí a ṣe pẹ̀lú ìṣọ́ra"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:181
+msgid "Cropped screenshots of the Twenty Twenty-Four theme."
+msgstr "Àwọn screenshot tí a gé ti Twenty Twenty-Four theme."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:173
+msgid "Ensure your site looks great on every device."
+msgstr "Rí i dájú pé ojúlé rẹ dára lórí gbogbo ẹ̀rọ."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:169
+msgid "Responsive design"
+msgstr "Ìṣẹ̀dá tó bá ẹ̀rọ mu"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:163
+msgid "Twenty Twenty-Four has been meticulously optimized for performance."
+msgstr "Twenty Twenty-Four ti ṣe àmójútó pẹ̀lú ìṣọ́ra fún performance."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:159
+msgid "Fast and efficient"
+msgstr "Yára àti ṣíṣe déédé"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:153
+msgid "Adjust colors, typography, and templates to make the theme uniquely yours."
+msgstr "Ṣe àtúnṣe àwọn àwọ̀, typography, àti àwọn template láti sọ theme náà di tìrẹ pàtó."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:149
+msgid "Fully customizable"
+msgstr "Ṣeéṣe láti ṣe àtúnṣe pátápátá"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:131
+msgid "The Twenty Twenty-Four theme combines the latest Site Editor capabilities and design tools. Tap into the unmatched flexibility of building with blocks to bring your next project to life."
+msgstr "Twenty Twenty-Four theme ṣàkópọ̀ àwọn àǹfààní Site Editor tuntun àti àwọn ohun èlò ìṣẹ̀dá. Lo àǹfààní àìlẹ́gbẹ́ ti kíkọ́ pẹ̀lú àwọn block láti mú iṣẹ́ àkànṣe rẹ tó kàn wá sí ìgbésí ayé."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:125
+msgid "Experience site editing at its best"
+msgstr "Ní ìrírí ṣíṣàtúnṣe ojúlé ní ibi tó dára jùlọ"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:110
+msgid "http://2024.wordpress.net/index.php/photographer-demo/"
+msgstr "http://2024.wordpress.net/index.php/photographer-demo/"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:101
+msgid "Save time and effort with a variety of curated portfolio, testimonial, and team patterns to highlight your creative projects and inspire your potential clients."
+msgstr "Fi àkókò àti agbára pamọ́ pẹ̀lú ọ̀pọ̀lọpọ̀ portfolio, testimonial, àti àwọn pattern ẹgbẹ́ tí a ṣètò láti ṣàfihàn àwọn iṣẹ́ àkànṣe ìṣẹ̀dá rẹ àti láti fún àwọn oníbàárà rẹ tó ṣeéṣe ní ìwúrí."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:97
+msgid "Showcase your work"
+msgstr "Ṣàfihàn iṣẹ́ rẹ"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:80
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:110
+msgid "View demo"
+msgstr "Wo demo"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:73
+msgid "Explore Twenty Twenty-Four’s collection of patterns for the homepage, single posts, and archive templates. Use them as a starting point to create a unique blog tailored to your style."
+msgstr "Ṣàwárí àkójọpọ̀ pattern Twenty Twenty-Four fún ojú ilé, àwọn àtẹ̀jáde kọ̀ọ̀kan, àti àwọn template àkójọ. Lò wọ́n gẹ́gẹ́ bíi ìbẹ̀rẹ̀ láti ṣẹ̀dá blog àrà ọ̀tọ̀ tó bá style rẹ mu."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:69
+msgid "Start your writing venture"
+msgstr "Bẹ̀rẹ̀ ìgbìyànjú ìkọ̀wé rẹ"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:56
+msgid "Download theme"
+msgstr "Ṣe ìgbàsílẹ̀ theme"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:51
+msgid "Twenty Twenty-Four is an elegant, versatile default theme designed with distinct use cases in mind, from writers and artists to entrepreneurs. Its extensive library of patterns and flexibility make it the ideal choice for a wide range of creative and business needs."
+msgstr "Twenty Twenty-Four jẹ́ theme àkọ́kọ́ tó lẹ́wà, tó sì ṣeé lò lọ́pọ̀lọpọ̀, tí a ṣe pẹ̀lú àwọn lílo ọ̀tọ̀ọ̀tọ̀ ní ọkàn, láti ọ̀dọ̀ àwọn akọ̀wé àti àwọn oníṣẹ́ ọnà dé àwọn oníṣòwò. Àkójọpọ̀ pattern rẹ̀ tó gbòòrò àti àǹfààní rẹ̀ sọ ọ́ di àṣàyàn tó dára jùlọ fún ọ̀pọ̀lọpọ̀ àìní ìṣẹ̀dá àti ìṣòwò."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:47
+msgid "Say hello to <br>Twenty Twenty-Four"
+msgstr "Kí <br>Twenty Twenty-Four"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:36
+msgid "Cropped screenshots of the Twenty Twenty-Four theme, with the featured one showing an RSVP full-page pattern."
+msgstr "Àwọn screenshot tí a gé ti Twenty Twenty-Four theme, pẹ̀lú èyí tó hàn jùlọ tó ń ṣàfihàn pattern RSVP ojúewé kíkún."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:25
+msgid "Download WordPress 6.4"
+msgstr "Ṣe ìgbàsílẹ̀ WordPress 6.4"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:20
+msgid "Let your ideas take shape seamlessly with WordPress 6.4. Discover a new, multi-faceted default theme and a suite of upgrades to empower every step of your creative journey."
+msgstr "Jẹ́ kí àwọn èrò rẹ di gidi lọ́nà tó rọrùn pẹ̀lú WordPress 6.4. Ṣàwárí theme àkọ́kọ́ tuntun tó ní ọ̀pọ̀ apá àti àkójọpọ̀ àwọn ìlọsíwájú láti fún gbogbo ìgbésẹ̀ ìrìnàjò ìṣẹ̀dá rẹ ní agbára."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:14
+msgid "A release with <mark class=\"has-inline-color has-blueberry-1-color\"><em>style</em></mark>"
+msgstr "Ìtújáde kan pẹ̀lú <mark class=\"has-inline-color has-blueberry-1-color\"><em>style</em></mark>"
+
+#: mu-plugins/blocks/latest-news/src/edit.js:49
+msgid "Show Categories"
+msgstr "Ṣàfihàn Àwọn Ẹ̀ka"
+
+#: mu-plugins/blocks/latest-news/latest-news.php:185
+msgid "Cards"
+msgstr "Àwọn Káàdì"
+
+#: mu-plugins/blocks/global-header-footer/blocks.php:576
+msgctxt "Menu item title"
+msgid "Swag Store ↗︎"
+msgstr "Ilé Ìtajà Swag ↗︎"
+
+#: mu-plugins/blocks/global-header-footer/blocks.php:480
+msgctxt "Menu item title"
+msgid "Blocks"
+msgstr "Blocks"
+
+#: mu-plugins/blocks/global-header-footer/blocks.php:460
+msgctxt "Menu item title"
+msgid "Extend"
+msgstr "Faagun"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:135
+msgid "Discover a collection of website examples from around the world, curated to spotlight gorgeous design, technical innovation, and the limitless power of WordPress."
+msgstr "Ṣàwárí àkójọpọ̀ àwọn àpẹẹrẹ ojúlé láti gbogbo àgbáyé, tí a ṣètò láti ṣàfihàn ìṣẹ̀dá tó lẹ́wà, ìdàgbàsókè ìmọ̀-ẹ̀rọ, àti agbára àìlópin WordPress."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:162
+#: source/wp-content/themes/wporg-main-2022/patterns/home.php:173
+msgid "Explore the Showcase"
+msgstr "Ṣàwárí Showcase"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/blocks.php:153
+msgid "Blocks are the visual foundation of WordPress, and can be used to create and manage every part of your site. They&#039;re also easier than you think. Learn how to edit a block and you learn how to use all of WordPress—without having to write code. For inspiration, check out what others have done with WordPress in the Showcase."
+msgstr "Blocks ni ìpìlẹ̀ ìran WordPress, a sì lè lò wọ́n láti ṣẹ̀dá àti láti ṣàkóso gbogbo apá ojúlé rẹ. Wọ́n tún rọrùn ju bí o ṣe rò lọ. Kẹ́kọ̀ọ́ bí a ṣe ń ṣàtúnṣe block kan, ìwọ yóò sì kọ́ bí a ṣe ń lo gbogbo WordPress—láìkọ koodu. Fún ìwúrí, wo ohun tí àwọn mìíràn ti ṣe pẹ̀lú WordPress nínú Showcase."
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:299
+msgid "<a href=\"https://wordpress.org/files/2023/10/DisneyABCPress-Case-Study.pdf\">Ten Years of DisneyABCPress Success (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/DisneyABCPress-Case-Study.pdf\">Ọdún Mẹ́wàá ti Àṣeyọrí DisneyABCPress (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:295
+msgid "<a href=\"https://wordpress.org/files/2023/10/Siemens-Case-Study.pdf\">AEM to WordPress with Siemens (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Siemens-Case-Study.pdf\">Láti AEM sí WordPress pẹ̀lú Siemens (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:291
+msgid "<a href=\"https://wordpress.org/files/2023/10/Enterprise-Pharmacy-Case-Study.pdf\">Moving a Pharmacy Leader to WordPress (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Enterprise-Pharmacy-Case-Study.pdf\">Gbígbé Asáájú Ilé Ìtajà Oògùn lọ sí WordPress (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:283
+msgid "<a href=\"https://wordpress.org/files/2023/10/News-Corp-Australia-Case-Study.pdf\">Revolutionizing Performance and Editorial (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/News-Corp-Australia-Case-Study.pdf\">Ṣíṣe Ìyípadà Performance àti Ètò Ìtẹ̀jáde (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:279
+msgid "<a href=\"https://wordpress.org/files/2023/10/Academic-Partnerships-Case-Study.pdf\">Academic Partnerships (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Academic-Partnerships-Case-Study.pdf\">Academic Partnerships (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:275
+msgid "<a href=\"https://wordpress.org/files/2023/10/Capgemini-Case-Study.pdf\">Drupal to WordPress with Capgemini (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Capgemini-Case-Study.pdf\">Láti Drupal sí WordPress pẹ̀lú Capgemini (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:267
+msgid "<a href=\"https://wordpress.org/files/2023/10/ArtsHub-Case-Study.pdf\">.NET to WordPress with ArtsHub (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/ArtsHub-Case-Study.pdf\">Láti .NET sí WordPress pẹ̀lú ArtsHub (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:263
+msgid "<a href=\"https://wordpress.org/files/2023/10/SAP-News-Case-Study.pdf\">Massive Multisite with SAP News (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/SAP-News-Case-Study.pdf\">Multisite Ńlá pẹ̀lú SAP News (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:259
+msgid "<a href=\"https://wordpress.org/files/2023/10/Penske-Media-Corporation-Case-Study.pdf\">Unified WordPress with PMC (PDF)</a>"
+msgstr "<a href=\"https://wordpress.org/files/2023/10/Penske-Media-Corporation-Case-Study.pdf\">WordPress tí a ṣọ̀kan pẹ̀lú PMC (PDF)</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:245
+msgid "<a rel=\"noreferrer noopener\" href=\"https://vimeo.com/425968597/80d24a1bf4\" target=\"_blank\">Lead a Successful Digital Transformation</a>"
+msgstr "<a rel=\"noreferrer noopener\" href=\"https://vimeo.com/425968597/80d24a1bf4\" target=\"_blank\">Darí Ìyípadà Digital Tó Yọrí sí Àṣeyọrí</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:252
+msgid "Additional case studies"
+msgstr "Àwọn case studies àfikún"
+
+#: mu-plugins/blocks/global-header-footer/footer.php:25
+msgid "Footer"
+msgstr "Footer"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-roadmap.php:15
+msgid "WordPress is continually under development. Currently, Phase 2 of the Gutenberg project formally wrapped with WordPress 6.3, and exploration of Phase 3 (Collaboration) is underway. The Gutenberg project is a reimagination of the way we manage content on the web. Its goal is to broaden access to web presence, a foundation of successful modern businesses."
+msgstr "WordPress wà ní ìdàgbàsókè nígbà gbogbo. Lọ́wọ́lọ́wọ́, Apá 2 iṣẹ́ àkànṣe Gutenberg ti parí pẹ̀lú WordPress 6.3, àti pé ìwáàdí Apá 3 (Ìfọwọ́sowọ́pọ̀) ti bẹ̀rẹ̀. Iṣẹ́ àkànṣe Gutenberg jẹ́ àtúnyẹ̀wò ọ̀nà tí a fi ń ṣàkóso àkóónú lórí web. Góńgó rẹ̀ ni láti fa ààyè sí wíwà lórí web gbòòrò, èyí tí ó jẹ́ ìpìlẹ̀ àwọn ìṣòwò ìgbàlódé tó yọrí sí àṣeyọrí."
+
+#: mu-plugins/blocks/global-header-footer/footer.php:152
+msgctxt "Menu item title"
+msgid "Visit our X (formerly Twitter) account"
+msgstr "Ṣabẹwo sí àkàùntù X (Twitter tẹ́lẹ̀) wa"
+
+#. translators: %s is count of currently selected filters.
+#: mu-plugins/blocks/query-filter/render.php:71
+#: mu-plugins/blocks/query-filter/render.php:154
+msgid "Apply (%s)"
+msgstr "Lò ó (%s)"
+
+#: mu-plugins/blocks/query-filter/src/block.json
 msgctxt "block description"
-msgid "Display the list of releases."
-msgstr ""
+msgid "Display a filter dropdown to update the current query."
+msgstr "Ṣàfihàn dropdown àlẹ̀mọ kan láti ṣe àtúnṣe ìwáàdí lọ́wọ́lọ́wọ́."
 
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/block.json
+#: mu-plugins/blocks/query-filter/src/block.json
 msgctxt "block title"
-msgid "Release Tables"
-msgstr ""
+msgid "Filter"
+msgstr "Àlẹ̀mọ"
 
-#: source/wp-content/themes/wporg-main-2022/src/random-heading/block.json
+#: mu-plugins/blocks/query-filter/render.php:73
+#: mu-plugins/blocks/query-filter/render.php:171
+msgid "Apply"
+msgstr "Lò ó"
+
+#: mu-plugins/blocks/query-filter/render.php:162
+msgid "Clear"
+msgstr "Nu kúrò"
+
+#: mu-plugins/blocks/modal/render.php:73
+#: mu-plugins/blocks/query-filter/render.php:115
+msgid "Close"
+msgstr "Tì í"
+
+#: mu-plugins/blocks/query-total/src/block.json
 msgctxt "block description"
-msgid "Display a random heading from a set."
-msgstr ""
+msgid "Display the total items found in the current query."
+msgstr "Ṣàfihàn àpapọ̀ àwọn nǹkan tí a rí nínú ìwáàdí lọ́wọ́lọ́wọ́."
 
-#: source/wp-content/themes/wporg-main-2022/src/random-heading/block.json
+#: mu-plugins/blocks/query-total/src/block.json
 msgctxt "block title"
-msgid "Random Heading"
-msgstr ""
+msgid "Query Total"
+msgstr "Àpapọ̀ Ìwáàdí"
 
-#: source/wp-content/themes/wporg-main-2022/src/google-search-embed/block.json
+#. translators: %s: the result count.
+#: mu-plugins/blocks/query-total/index.php:53
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "Nǹkan %s"
+msgstr[1] "Àwọn nǹkan %s"
+
+#. Translators: %s is the search query.
+#: mu-plugins/blocks/google-map/src/utilities/content.js:76
+msgid "Showing events that match %s."
+msgstr "Ìṣàfihàn àwọn ìṣẹ̀lẹ̀ tó bá %s mu."
+
+#: mu-plugins/blocks/google-map/src/utilities/content.js:67
+msgid "Search cleared, showing all events."
+msgstr "Ìwáàdí ti nù kúrò, ìṣàfihàn gbogbo àwọn ìṣẹ̀lẹ̀."
+
+#. translators: Change this to a recognizable city in your locale.
+#: mu-plugins/blocks/google-map/src/components/search.js:48
+msgctxt "Event query placeholder"
+msgid "Springfield"
+msgstr "Springfield"
+
+#: mu-plugins/blocks/google-map/src/components/search.js:40
+#: mu-plugins/blocks/google-map/src/components/search.js:49
+msgid "Search events:"
+msgstr "Wá àwọn ìṣẹ̀lẹ̀:"
+
+#. Translators: %s is the search query.
+#: mu-plugins/blocks/google-map/src/components/main.js:142
+#: mu-plugins/blocks/google-map/src/utilities/content.js:71
+msgid "No events were found matching %s."
+msgstr "A kò rí ìṣẹ̀lẹ̀ kankan tó bá %s mu."
+
+#: mu-plugins/blocks/google-map/src/components/list.js:21
+msgid "No events available"
+msgstr "Kò sí ìṣẹ̀lẹ̀ kankan"
+
+#: mu-plugins/blocks/google-map/src/block.json
 msgctxt "block description"
-msgid "Display the Google Search embed for WordPress.org."
-msgstr ""
+msgid "Displays a Google Map with markers and information windows."
+msgstr "Ṣàfihàn Google Map kan pẹ̀lú àwọn àmì àti àwọn fèrèsé ìsọfúnni."
 
-#: source/wp-content/themes/wporg-main-2022/src/google-search-embed/block.json
+#: mu-plugins/blocks/google-map/src/block.json
 msgctxt "block title"
-msgid "Google Search Embed"
-msgstr ""
+msgid "WordPress.org Google Map"
+msgstr "WordPress.org Google Map"
 
-#: source/wp-content/themes/wporg-main-2022/src/download-counter/block.json
+#: mu-plugins/blocks/time/src/block.json
 msgctxt "block description"
-msgid "Display the download counter for a given WordPress version."
-msgstr ""
+msgid "Attempts to parse a time string like 'Tuesday, April 5th, at 15:00 UTC' relative to the post date, and creates a format that shows it in the viewer's local time zone."
+msgstr "Ó gbìyànjú láti túmọ̀ okùn àkókò kan bíi 'Tuesday, April 5th, at 15:00 UTC' ní ìbámu pẹ̀lú ọjọ́ àtẹ̀jáde, kí ó sì ṣẹ̀dá ọ̀nà kan tó ń ṣàfihàn rẹ̀ ní agbègbè àkókò ti olùwòran."
 
-#: source/wp-content/themes/wporg-main-2022/src/download-counter/block.json
+#: mu-plugins/blocks/time/src/block.json
 msgctxt "block title"
-msgid "Download Counter"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/index.php:186
-msgid "Download tar.gz"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/index.php:185
-msgid "Download zip"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/index.php:184
-msgid "Release date"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/index.php:136
-msgid "WordPress MU releases made prior to MU being merged into WordPress 3.0."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/release-tables/index.php:79
-msgid "Past releases"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/random-heading/index.php:42
-msgid "WordPress: Flex your <em>freedom</em>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/random-heading/index.php:41
-msgid "WordPress: Grow your <em>business</em>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/src/random-heading/index.php:40
-msgid "WordPress: Publish your <em>passion</em>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:233
-msgid "News"
-msgstr ""
-
-#: mu-plugins/blocks/google-map/src/components/search.js:28
-#: extra/translation-strings.php:37
-#: source/wp-content/themes/wporg-main-2022/patterns/search.php:11
-#: source/wp-content/themes/wporg-make-2024/patterns/search-field.php:13
-msgid "Search"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/mobile.php:30
-msgid "Requires a hosted website with WordPress 4.0 or higher."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/mobile.php:16
-msgid "Inspiration strikes any time, anywhere. WordPress mobile apps put the power of publishing in your hands. And of course, they’re open source, just like WordPress."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/mobile.php:12
-msgid "WordPress Mobile Apps"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:294
-msgid "Find everything you need to get started, download the platform, find hosting, and more—whether it’s your first site or your ninety-first site."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:541
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-4.php:495
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-5.php:403
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-6.php:437
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-7.php:380
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-8.php:240
-msgid "<a href=\"https://wordpress.org/download/\">Get started</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:275
-msgid "<a href=\"https://wordpress.org/news/\">More news</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation-guides.php:126
-#: source/wp-content/themes/wporg-main-2022/patterns/data-liberation.php:219
-msgid "Get involved!"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:239
-msgid "Whether you’re an entrepreneur, professional developer, or first-time blogger, there’s a library of resources and learning tools ready for you. Plus, you have the whole WordPress community in your corner."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:53
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:151
-msgid "Time Magazine logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:129
-msgid "One platform, a universe of possibilities"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:232
-msgid "Tutorials"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:212
-msgid "White paper references"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:192
-msgid "Case studies"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:186
-msgid "<a href=\"https://wordpress.org/download/\">Get WordPress</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:177
-msgid "WordPress is open source software. This means the source code is made freely available and may be distributed and modified subject to the GPL license."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:173
-msgid "Open source"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:168
-msgid "Open Source icon"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:161
-msgid "WordPress has strict security standards that make it a popular CMS for enterprise companies around the world. While its popularity might make it a target, it has proven itself as a secure platform."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:152
-msgid "Security icon"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:145
-msgid "Enterprise-level extensions for WordPress span a broad range of functionality, from enhanced search and advanced on-page SEO, to AI-driven content augmentation and developer power tools."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:141
-msgid "Extensibility"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:136
-msgid "Extensibility icon"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:124
-msgid "Educational institutions use WordPress to power everything, from a departmental blog to an entire university system."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:120
-msgid "Higher education"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:114
-msgid "WordPress will help you get your brand&#039;s story in front of your potential customers quickly and easily."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:110
-msgid "Content marketing"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:102
-msgid "Organizations around the world choose WordPress as their e-commerce solution of choice."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:98
-msgid "E-commerce"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:92
-msgid "WordPress powers the sites people visit multiple times every day for news, information, and entertainment."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:88
-msgid "Media and publishing"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:82
-msgid "Whether as a primary or secondary content management system (CMS), you&#039;ll find WordPress being used by enterprises at scale wherever there&#039;s a requirement for flexible, cost-effective, and secure creation and distribution of content. Explore some of the platform&#039;s most popular use cases for enterprises:"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:78
-msgid "Enterprise use cases"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:69
-msgid "CNN logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:65
-#: source/wp-content/themes/wporg-main-2022/patterns/home.php:159
-msgid "Microsoft logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:61
-msgid "Facebook logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:57
-msgid "TED logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:49
-msgid "Variety logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:45
-msgid "WWD logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:41
-msgid "Reader&#039;s Digest logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:37
-msgid "People logo"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:18
-msgid "The WordPress platform has grown to become the dominant market leader for content management. Discover how today&#039;s biggest brands use WordPress, and how WordPress can work for your enterprise."
-msgstr ""
-
-#: extra/translation-strings.php:46
-#: source/wp-content/themes/wporg-main-2022/patterns/enterprise.php:12
-msgid "Enterprise"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:203
-#: source/wp-content/themes/wporg-main-2022/patterns/mobile.php:25
-msgid "Get it on Google Play"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:199
-#: source/wp-content/themes/wporg-main-2022/patterns/mobile.php:21
-msgid "Download on the Apple App Store"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:194
-msgid "Create and update content on the go with the WordPress app."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:190
-msgid "Inspiration strikes anywhere"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:162
-msgid "If you need help getting started, these resources can help you find your way."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:158
-msgid "You&#039;ve got WordPress. What&#039;s next?"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:148
-msgid "<a href=\"https://wordpress.org/about/features/\">See all WordPress features ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:144
-msgid "WordPress combines simplicity for users and publishers with under-the-hood complexity for developers. Discover the features that come standard with WordPress, and extend what the platform can do with the thousands of plugins available."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:140
-msgid "Powerful right out of the box"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:133
-msgid "Open"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:129
-msgid "Free"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:125
-msgid "Extendable"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:121
-msgid "Intuitive"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:117
-msgid "Simple"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:108
-msgid "Still not sure? Explore the WordPress Playground, a live demo environment right from your browser. <a href=\"https://wordpress.org/playground/\">Try WordPress ↗</a>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:98
-msgid "See all recommended hosts"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:93
-msgid "For anyone looking for the simplest way to start."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:89
-msgid "Set up with a hosting provider"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:212
-msgid "Source"
-msgstr ""
-
-#: extra/translation-strings.php:48
-#: source/wp-content/themes/wporg-main-2022/functions.php:208
-msgid "Counter"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:204
-msgid "Nightly"
-msgstr ""
-
-#. translators: [recommended_php], [recommended_mysql], [recommended_mariadb]
-#. are shortcodes and should not be translated.
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:78
-msgid "Recommend PHP [recommended_php] or greater and MySQL version [recommended_mysql] or MariaDB version [recommended_mariadb] or greater."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:70
-msgid "Installation guide"
-msgstr ""
-
-#. translators: [latest_version] is a shortcode and should not be translated.
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:32
-msgid "Download WordPress [latest_version]"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:28
-msgid "For anyone comfortable getting their own hosting and domain."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:24
-msgid "Download and install it yourself"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download.php:15
-msgid "Everything you need to set up your site just the way you want it."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:51
-msgid "The source code for any program binaries or minified external scripts that are included with WordPress can be freely obtained from our <a href=\"https://code.trac.wordpress.org/browser/wordpress-sources\">sources repository</a>."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:46
-msgid "Git mirror: <code>git://develop.git.wordpress.org/</code>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:42
-msgid "Subversion: <code>https://develop.svn.wordpress.org/</code>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:37
-msgid "WordPress minifies core JavaScript files using UglifyJS and CSS using clean-css, all via the <a href=\"https://gruntjs.com/\">Grunt</a> JavaScript-based task runner. The development source that includes un-minified versions of these files, along with the build scripts, can be <a href=\"https://core.trac.wordpress.org/browser\">browsed online</a> or checked out locally with Subversion or Git:"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:32
-msgid "Git mirror: <code>git://core.git.wordpress.org/</code>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:28
-msgid "Subversion: <code>https://core.svn.wordpress.org/</code>"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:23
-msgid "The built WordPress source, <a href=\"https://wordpress.org/about/license/\">licensed</a> under the GNU General Public License version 2 (or later), can be <a href=\"https://build.trac.wordpress.org/browser\">browsed online</a> or checked out locally with Subversion or Git:"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:19
-msgid "If you’d like to browse the WordPress source and inline documentation, there’s a <a href=\"https://developer.wordpress.org/reference/\">convenient developer reference</a> and a <a href=\"https://core.trac.wordpress.org/browser/\">code browser</a>. You can also find guides for <a href=\"https://make.wordpress.org/core/handbook/contribute/svn/\">contributing with Subversion</a> and <a href=\"https://make.wordpress.org/core/handbook/contribute/git/\">contributing with Git</a>."
-msgstr ""
-
-#: extra/translation-strings.php:49
-#: source/wp-content/themes/wporg-main-2022/patterns/download-source.php:13
-msgid "Source Code"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases.php:26
-msgid "Curious about which jazzers were highlighted for each release? <a href=\"https://wordpress.org/about/history/\">Check them out on the History page</a>."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/functions.php:200
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases.php:13
-msgid "Releases"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-releases-6-3.php:39
-msgid "Content"
-msgstr ""
-
-#: extra/translation-strings.php:19
-msgid "WordPress 6.4"
-msgstr ""
-
-#. translators: [stable_branch] is a shortcode and should not be translated.
-#: source/wp-content/themes/wporg-main-2022/patterns/download-counter.php:14
-msgid "Number of WordPress [stable_branch] downloads"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:48
-msgid "Download the latest nightly release"
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:43
-msgid "If you would like to be part of this process, the best place to start is the <a href=\"https://make.wordpress.org/core/handbook/testing/beta/\">Beta Testing Handbook</a>."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:31
-msgid "You can find the latest beta releases on the <a href=\"https://wordpress.org/download/releases/#betas\">Beta Releases</a> page."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:27
-msgid "By their nature these releases are unstable and should not be used any place where your data is important. Please <a href=\"https://wordpress.org/support/article/backing-up-your-database/\">backup your database</a> before upgrading to a beta release. To hear about the latest beta releases your best bet is to watch <a href=\"https://make.wordpress.org/core/\">the development blog</a> and <a href=\"https://wordpress.org/support/forum/alphabeta/\">the beta forum</a>."
-msgstr ""
-
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:23
-msgid "If you are comfortable with PHP and would like to participate in the testing portion of our development cycle and <a href=\"https://core.trac.wordpress.org/newticket\">report bugs you find</a>, beta releases might be for you."
-msgstr ""
-
-#: extra/translation-strings.php:50
-#: source/wp-content/themes/wporg-main-2022/patterns/download-beta-nightly.php:13
-msgid "Beta/Nightly"
-msgstr ""
+msgid "Time"
+msgstr "Àkókò"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:295
+msgid "<a href=\"https://href.li/?https://www.whoishostingthis.com/\">https://www.whoishostingthis.com/</a>"
+msgstr "<a href=\"https://href.li/?https://www.whoishostingthis.com/\">https://www.whoishostingthis.com/</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:291
+msgid "<a href=\"https://href.li/?https://lookup.icann.org\">https://lookup.icann.org</a>"
+msgstr "<a href=\"https://href.li/?https://lookup.icann.org\">https://lookup.icann.org</a>"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:286
+msgid "We suggest contacting the site owner or author directly. To find more information about the site’s host or domain&nbsp;registrar, you can use these tools:"
+msgstr "A gba ọ nímọ̀ràn láti kan sí onílé ojúlé tàbí akọ̀wé tààrà. Láti wá ìsọfúnni síwájú sí i nípa olùgbàlejò ojúlé tàbí domain&nbsp;registrar, o lè lo àwọn ohun èlò wọ̀nyí:"
+
+#: source/wp-content/themes/wporg-main-2022/patterns/about-privacy.php:282
+msgid "Please note we cannot provide help or information about other websites, including those which may run on WordPress open source software but are hosted by third parties."
+msgstr "Jọ̀wọ́ ṣàkíyèsí pé a kò lè pèsè ìrànlọ́wọ́ tàbí ìsọfúnni nípa àwọn ojúlé mìíràn, pẹ̀lú àwọn tí ó lè jẹ́ pé wọ́n ń ṣiṣẹ́ lórí software orísun ṣíṣí WordPress ṣùgbọ́n tí àwọn ẹlòmíràn ni wọ́n gbà wọ́n léjò."
 
 #: source/wp-content/themes/wporg-main-2022/functions.php:175
 msgid "People of WordPress"
