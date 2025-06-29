@@ -14,628 +14,628 @@ msgstr ""
 #: wp-includes/blocks/query/block.json
 msgctxt "block keyword"
 msgid "custom post types"
-msgstr ""
+msgstr "àwọn irú àkóónú àṣà"
 
 #: wp-includes/blocks/query/block.json
 msgctxt "block keyword"
 msgid "blogs"
-msgstr ""
+msgstr "búlọ́ọ̀gù"
 
 #: wp-includes/blocks/query/block.json
 msgctxt "block keyword"
 msgid "blog"
-msgstr ""
+msgstr "búlọ́ọ̀gù"
 
 #: wp-includes/blocks/query-total/block.json
 msgctxt "block description"
 msgid "Display the total number of results in a query."
-msgstr ""
+msgstr "Ṣàfihàn iye àpapọ̀ àwọn àbájáde nínú ìbéèrè kan."
 
 #: wp-includes/blocks/query-total/block.json
 msgctxt "block title"
 msgid "Query Total"
-msgstr ""
+msgstr "Àpapọ̀ ìbéèrè"
 
 #. translators: %s: file name
 #: wp-includes/js/dist/media-utils.js:1017
 msgid "Error while sideloading file %s to the server."
-msgstr ""
+msgstr "Àṣìṣe ṣẹlẹ̀ nígbà tí wọ́n ń gbé fáìlì %s wá sí ojú ìwé ayélujára."
 
 #: wp-includes/js/dist/media-utils.js:857
 msgid "Only one file can be used here."
-msgstr ""
+msgstr "Fáìlì kan ṣoṣo ni wọ́n lè lò níbí."
 
 #: wp-includes/js/dist/editor.js:33999
 msgid "Keeps the text cursor within blocks while navigating with arrow keys, preventing it from moving to other blocks and enhancing accessibility for keyboard users."
-msgstr ""
+msgstr "Ó ń jẹ́ kí kọ́sọ̀ ọ̀rọ̀ wà nínú àwọn búrọ́ọ̀kù nígbà tí wọ́n bá ń lo àwọn kọ́kọ́rọ́ ìtọ́ka láti lọ sí ibòmíràn, tí kò jẹ́ kó lọ sí àwọn búrọ́ọ̀kù mìíràn, ó sì ń jẹ́ kí ó rọrùn fún àwọn tó ń lo kíbọ́ọ̀dù láti lò ó."
 
 #. translators: button label text should, if possible, be under 16 characters.
 #: wp-includes/js/dist/editor.js:33565
 msgctxt "panel button label"
 msgid "Settings"
-msgstr ""
+msgstr "Ètò"
 
 #. translators: Default label for the Document sidebar tab, not selected.
 #: wp-includes/js/dist/editor.js:33287
 msgctxt "noun, panel"
 msgid "Document"
-msgstr ""
+msgstr "Àkọsílẹ̀"
 
 #. translators: %s: Name of the plural post type e.g: "Posts".
 #: wp-includes/js/dist/editor.js:32434
 msgid "Changes will be applied to all selected %s."
-msgstr ""
+msgstr "Àwọn àtúnṣe yóò kan gbogbo %s tí a yàn."
 
 #. translators: %i number of selected items %s: Name of the plural post type
 #. e.g: "Posts".
 #: wp-includes/js/dist/editor.js:32400
 msgid "%i %s"
-msgstr ""
+msgstr "%i %s"
 
 #: wp-includes/js/dist/editor.js:32032
 msgid "Set as posts page"
-msgstr ""
+msgstr "Ṣètò gẹ́gẹ́ bí ojúewé àwọn àkóónú"
 
 #. translators: Button label to confirm setting the specified page as the posts
 #. page.
 #: wp-includes/js/dist/editor.js:31982
 msgid "Set posts page"
-msgstr ""
+msgstr "Ṣètò ojúewé àwọn àkóónú"
 
 #. translators: %1$s: title of the page to be set as the posts page, %2$s:
 #. posts page replacement warning message.
 #: wp-includes/js/dist/editor.js:31979
 msgid "Set \"%1$s\" as the posts page? %2$s"
-msgstr ""
+msgstr "Ṣé kí á ṣètò \"%1$s\" gẹ́gẹ́ bí ojúewé àwọn àkóónú? %2$s"
 
 #: wp-includes/js/dist/editor.js:31976
 msgid "This page will show the latest posts."
-msgstr ""
+msgstr "Ojúewé yìí yóò ṣàfihàn àwọn àkóónú tuntun."
 
 #. translators: %s: title of the current posts page.
 #: wp-includes/js/dist/editor.js:31976
 msgid "This will replace the current posts page: \"%s\""
-msgstr ""
+msgstr "Èyí yóò rọ́pò ojúewé àwọn àkóónú lọ́wọ́lọ́wọ́: \"%s\""
 
 #: wp-includes/js/dist/editor.js:31966
 msgid "An error occurred while setting the posts page."
-msgstr ""
+msgstr "Àṣìṣe kan ṣẹlẹ̀ nígbà tí wọ́n ń ṣètò ojúewé àwọn àkóónú."
 
 #: wp-includes/js/dist/editor.js:31962
 msgid "Posts page updated."
-msgstr ""
+msgstr "Wọ́n ti ṣe àtúnṣe ojúewé àwọn àkóónú."
 
 #: wp-includes/js/dist/editor.js:31885
 msgid "Set as homepage"
-msgstr ""
+msgstr "Ṣètò gẹ́gẹ́ bí ojúewé àkọ́kọ́"
 
 #. translators: Button label to confirm setting the specified page as the
 #. homepage.
 #: wp-includes/js/dist/editor.js:31835
 msgid "Set homepage"
-msgstr ""
+msgstr "Ṣètò ojúewé àkọ́kọ́"
 
 #. translators: %1$s: title of the page to be set as the homepage, %2$s:
 #. homepage replacement warning message.
 #: wp-includes/js/dist/editor.js:31832
 msgid "Set \"%1$s\" as the site homepage? %2$s"
-msgstr ""
+msgstr "Ṣé kí á ṣètò \"%1$s\" gẹ́gẹ́ bí ojúewé àkọ́kọ́ síàtì? %2$s"
 
 #. translators: %s: title of the current home page.
 #: wp-includes/js/dist/editor.js:31828
 msgid "This will replace the current homepage: \"%s\""
-msgstr ""
+msgstr "Èyí yóò rọ́pò ojúewé àkọ́kọ́ lọ́wọ́lọ́wọ́: \"%s\""
 
 #: wp-includes/js/dist/editor.js:31824
 msgid "This will replace the current homepage which is set to display latest posts."
-msgstr ""
+msgstr "Èyí yóò rọ́pò ojúewé àkọ́kọ́ lọ́wọ́lọ́wọ́ tí wọ́n ṣètò láti ṣàfihàn àwọn àkóónú tuntun."
 
 #: wp-includes/js/dist/editor.js:31810
 msgid "Homepage updated."
-msgstr ""
+msgstr "Wọ́n ti ṣe àtúnṣe ojúewé àkọ́kọ́."
 
 #: wp-includes/js/dist/editor.js:30147
 msgid "Enter or exit zoom out."
-msgstr ""
+msgstr "Tẹ́tàbí jáde kúrò ní súùmù jáde."
 
 #. translators: Comment deleted successfully
 #: wp-includes/js/dist/editor.js:28973
 msgid "Comment deleted successfully."
-msgstr ""
+msgstr "Wọ́n ti yọ àbá kúrò ní àṣeyọrí."
 
 #. translators: Error message when comment submission fails
 #: wp-includes/js/dist/editor.js:28959
 msgid "Something went wrong. Please try publishing the post, or you may have already submitted your comment earlier."
-msgstr ""
+msgstr "Ohun kan kò lọ déédéé. Jọ̀wọ́ gbìyànjú láti ṣe àtẹ̀jáde àkóónú náà, tàbí o lè ti fi àbá rẹ sílẹ̀ ṣáájú."
 
 #. translators: Comment edited successfully
 #: wp-includes/js/dist/editor.js:28948
 msgid "Comment edited successfully."
-msgstr ""
+msgstr "Wọ́n ti ṣàtúnṣe àbá ní àṣeyọrí."
 
 #. translators: Comment resolved successfully
 #: wp-includes/js/dist/editor.js:28932
 msgid "Comment marked as resolved."
-msgstr ""
+msgstr "Wọ́n ti samisi àbá gẹ́gẹ́ bí èyí tí wọ́n ti yanjú."
 
 #. translators: Comment added successfully
 #: wp-includes/js/dist/editor.js:28917
 msgid "Comment added successfully."
-msgstr ""
+msgstr "Wọ́n ti fi àbá kún un ní àṣeyọrí."
 
 #. translators: Reply added successfully
 #: wp-includes/js/dist/editor.js:28915
 msgid "Reply added successfully."
-msgstr ""
+msgstr "Wọ́n ti fi ìdáhùn kún un ní àṣeyọrí."
 
 #: wp-includes/js/dist/editor.js:28807
 msgctxt "View comment"
 msgid "Comment"
-msgstr ""
+msgstr "Àbá"
 
 #: wp-includes/js/dist/editor.js:28742 wp-includes/js/dist/editor.js:28777
 msgctxt "Add comment button"
 msgid "Comment"
-msgstr ""
+msgstr "Àbá"
 
 #. translators: message displayed when confirming an action
 #: wp-includes/js/dist/editor.js:28668
 msgid "Are you sure you want to mark this comment as resolved?"
-msgstr ""
+msgstr "Ṣé o fẹ́ fi àmì sí àbá yìí pé wọ́n ti yanjú rẹ̀?"
 
 #: wp-includes/js/dist/editor.js:28655
 msgctxt "verb"
 msgid "Update"
-msgstr ""
+msgstr "Ìgbàlódì"
 
 #: wp-includes/js/dist/editor.js:28634
 msgid "Resolved"
-msgstr ""
+msgstr "Wọ́n ti yanjú"
 
 #: wp-includes/js/dist/editor.js:28626
 msgctxt "Select comment action"
 msgid "Select an action"
-msgstr ""
+msgstr "Yan ìgbésẹ̀ kan"
 
 #: wp-includes/js/dist/editor.js:28616
 msgctxt "Mark comment as resolved"
 msgid "Resolve"
-msgstr ""
+msgstr "Yanjú"
 
 #: wp-includes/js/dist/editor.js:28593
 msgctxt "Delete comment"
 msgid "Delete"
-msgstr ""
+msgstr "Paarẹ́"
 
 #: wp-includes/js/dist/editor.js:28588
 msgctxt "Edit comment"
 msgid "Edit"
-msgstr ""
+msgstr "Ṣàtúnṣe"
 
 #: wp-includes/js/dist/editor.js:28558
 msgctxt "Add reply comment"
 msgid "Reply"
-msgstr ""
+msgstr "Dáhùn"
 
 #. translators: 1: number of replies.
 #: wp-includes/js/dist/editor.js:28526
 msgctxt "Show replies button"
 msgid "%s more replies.."
-msgstr ""
+msgstr "%s ìdáhùn síi.."
 
 #. translators: message displayed when there are no comments available
 #: wp-includes/js/dist/editor.js:28484
 msgid "No comments available"
-msgstr ""
+msgstr "Kò sí àbá kankan"
 
 #: wp-includes/js/dist/editor.js:28405
 msgctxt "Cancel comment button"
 msgid "Cancel"
-msgstr ""
+msgstr "Fagilé"
 
 #: wp-includes/js/dist/editor.js:28289
 msgid "User avatar"
-msgstr ""
+msgstr "Àwòrán oníṣe"
 
 #: wp-includes/js/dist/editor.js:27089
 msgid "<span>Customize the last part of the Permalink.</span> <a>Learn more.</a>"
-msgstr ""
+msgstr "<span>Ṣe àṣà ìparí Permalink.</span> <a>Kọ́ ẹkọ̀ síi.</a>"
 
 #: wp-includes/js/dist/editor.js:25067
 msgid "Your work will be reviewed and then approved."
-msgstr ""
+msgstr "Wọn yóò ṣe àgbéyẹ̀wò iṣẹ́ rẹ, lẹ́yìn náà ni wọn yóò fọwọ́ sí i."
 
 #: wp-includes/js/dist/editor.js:21369
 msgid "Could not retrieve the featured image data."
-msgstr ""
+msgstr "Kò lè gba data àwòrán tó yàn."
 
 #: wp-includes/js/dist/editor.js:17775
 msgid "Copy error"
-msgstr ""
+msgstr "Àṣìṣe àdàkọ"
 
 #: wp-includes/js/dist/editor.js:17771
 msgid "Copy contents"
-msgstr ""
+msgstr "Ṣe àdàkọ àkóónú"
 
 #: wp-includes/js/dist/editor.js:17357
 msgid "This change will affect other parts of your site that use this template."
-msgstr ""
+msgstr "Àtúnṣe yìí yóò kan àwọn apá mìíràn tí síàtì rẹ tí ó ń lo àdàkọ yìí."
 
 #: wp-includes/js/dist/editor.js:16933
 msgid "Enter or exit distraction free mode."
-msgstr ""
+msgstr "Wọlé tàbí jáde kúrò ní ipò àìní ìdíwọ́."
 
 #: wp-includes/js/dist/editor.js:16924
 msgid "Show or hide the List View."
-msgstr ""
+msgstr "Ṣàfihàn tàbí fi Àwò Àtòjọ pamọ́."
 
 #: wp-includes/js/dist/editor.js:15125
 msgid "Content preview"
-msgstr ""
+msgstr "Àkóónú àkọ́kọ́yẹ̀wò"
 
 #: wp-includes/js/dist/editor.js:15057
 msgid "Empty content"
-msgstr ""
+msgstr "Àkóónú òfo"
 
 #: wp-includes/js/dist/editor.js:13339
 msgid "Open Site Editor"
-msgstr ""
+msgstr "Ṣí Ètò Síàtì"
 
 #: wp-includes/js/dist/editor.js:13212
 msgid "Enter Spotlight mode"
-msgstr ""
+msgstr "Wọ ipò Spotlight"
 
 #: wp-includes/js/dist/editor.js:13212
 msgid "Exit Spotlight mode"
-msgstr ""
+msgstr "Jáde kúrò ní ipò Spotlight"
 
 #: wp-includes/js/dist/editor.js:9930 wp-includes/js/dist/editor.js:19817
 msgid "Change template"
-msgstr ""
+msgstr "Pààrọ̀ àdàkọ"
 
 #. translators: %1$s The home URL of the WordPress installation without the
 #. scheme.
 #: wp-includes/js/dist/editor.js:9697
 msgid "Child pages inherit characteristics from their parent, such as URL structure. For instance, if \"Pricing\" is a child of \"Services\", its URL would be %1$s<wbr />/services<wbr />/pricing."
-msgstr ""
+msgstr "Àwọn ojúewé ọmọ ń jogún àwọn ànímọ́ láti ọ̀dọ̀ òbí wọn, gẹ́gẹ́ bíi ètò URL. Fún àpẹẹrẹ, tí \"Pricing\" bá jẹ́ ọmọ \"Services\", URL rẹ̀ yóò jẹ́ %1$s<wbr />/services<wbr />/pricing."
 
 #: wp-includes/js/dist/editor.js:9352
 msgid "Customize the last part of the Permalink."
-msgstr ""
+msgstr "Ṣe àṣà ìparí Permalink."
 
 #: wp-includes/js/dist/editor.js:9340 wp-includes/js/dist/editor.js:27074
 msgid "Copied Permalink to clipboard."
-msgstr ""
+msgstr "Wọ́n ti ṣe àdàkọ Permalink sí kílípíbọ́ọ̀dù."
 
 #: wp-includes/js/dist/editor.js:8779
 msgid "Choose an image…"
-msgstr ""
+msgstr "Yan àwòrán kan…"
 
 #. translators: %s: The post's title
 #: wp-includes/js/dist/editor.js:8586
 msgid "Are you sure you want to permanently delete \"%s\"?"
-msgstr ""
+msgstr "Ṣé o fẹ́ pa \"%s\" rẹ́ pátápátá?"
 
 #. translators: %d: number of items to delete.
 #: wp-includes/js/dist/editor.js:8584
 msgid "Are you sure you want to permanently delete %d item?"
 msgid_plural "Are you sure you want to permanently delete %d items?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ṣé o fẹ́ pa nǹkan %d rẹ́ pátápátá?"
+msgstr[1] "Ṣé o fẹ́ pa àwọn nǹkan %d rẹ́ pátápátá?"
 
 #: wp-includes/js/dist/editor.js:8355
 msgid "An error occurred while reverting the items."
-msgstr ""
+msgstr "Àṣìṣe kan ṣẹlẹ̀ nígbà tí wọ́n ń da àwọn nǹkan padà."
 
 #: wp-includes/js/dist/editor.js:5173 wp-includes/js/dist/editor.js:29652
 msgid "Top toolbar deactivated."
-msgstr ""
+msgstr "Wọ́n ti dẹ́kun ṣiṣẹ́ pẹpẹ irinṣẹ́ òkè."
 
 #: wp-includes/js/dist/editor.js:5173 wp-includes/js/dist/editor.js:29651
 msgid "Top toolbar activated."
-msgstr ""
+msgstr "Wọ́n ti mu pẹpẹ irinṣẹ́ òkè ṣiṣẹ́."
 
 #: wp-includes/js/dist/edit-site.js:42394
 msgid "The requested page could not be found. Please check the URL."
-msgstr ""
+msgstr "A kò rí ojúewé tí o bèèrè fún. Jọ̀wọ́ yẹ URL wò."
 
 #: wp-includes/js/dist/edit-site.js:42358
 msgid "Preview your website's visual identity: colors, typography, and blocks."
-msgstr ""
+msgstr "Ṣe àkọ́kọ́yẹ̀wò ìdámọ̀ ojú ìwé ayélujára rẹ: àwọn àwọ̀, typography, àti àwọn búrọ́ọ̀kù."
 
 #: wp-includes/js/dist/edit-site.js:42102
 msgid "Status & Visibility"
-msgstr ""
+msgstr "Ipò & Ìfojúhàn"
 
 #: wp-includes/js/dist/edit-site.js:36478
 msgid "This field can't be moved down"
-msgstr ""
+msgstr "A kò lè gbé ààyè yìí sísàlẹ̀"
 
 #: wp-includes/js/dist/edit-site.js:36470
 msgid "This field can't be moved up"
-msgstr ""
+msgstr "A kò lè gbé ààyè yìí sókè"
 
 #: wp-includes/js/dist/edit-site.js:35837
 msgctxt "Density option for DataView layout"
 msgid "Compact"
-msgstr ""
+msgstr "Ìkìjẹ́"
 
 #: wp-includes/js/dist/edit-site.js:35834
 msgctxt "Density option for DataView layout"
 msgid "Balanced"
-msgstr ""
+msgstr "Ìwọ̀ntúnwọ̀nsì"
 
 #: wp-includes/js/dist/edit-site.js:35831
 msgctxt "Density option for DataView layout"
 msgid "Comfortable"
-msgstr ""
+msgstr "Ìrọ̀rùn"
 
 #: wp-includes/js/dist/edit-site.js:35817
 msgid "Density"
-msgstr ""
+msgstr "Ìkìjẹ́"
 
 #: wp-includes/js/dist/edit-site.js:35262
 msgid "Navigate to item"
-msgstr ""
+msgstr "Lọ sí nǹkan"
 
 #: wp-includes/js/dist/edit-site.js:33786
 msgctxt "verb"
 msgid "Filter"
-msgstr ""
+msgstr "Ajọ̀"
 
 #: wp-includes/js/dist/edit-site.js:24230
 msgid "Global Styles pagination"
-msgstr ""
+msgstr "Ìtẹ̀síwájú Àwọn Style Àgbáyé"
 
 #: wp-includes/js/dist/edit-site.js:24004
 msgid "Apply the selected revision to your site."
-msgstr ""
+msgstr "Lo àtúnyẹ̀wò tí a yàn sí síàtì rẹ."
 
 #: wp-includes/js/dist/edit-site.js:23275
 msgctxt "Indicates these doutone filters are created by the user."
 msgid "Custom"
-msgstr ""
+msgstr "Àṣà"
 
 #: wp-includes/js/dist/edit-site.js:23268
 msgctxt "Indicates these duotone filters come from WordPress."
 msgid "Default"
-msgstr ""
+msgstr "Àtìbẹ̀rẹ̀"
 
 #: wp-includes/js/dist/edit-site.js:23261
 msgctxt "Indicates these duotone filters come from the theme."
 msgid "Theme"
-msgstr ""
+msgstr "Theme"
 
 #: wp-includes/js/dist/edit-site.js:22868
 msgid "Additionally, paragraphs help structure the flow of information and provide logical breaks between different concepts or pieces of information. In terms of formatting, paragraphs in websites are commonly denoted by a vertical gap or indentation between each block of text. This visual separation helps visually distinguish one paragraph from another, creating a clear and organized layout that guides the reader through the content smoothly."
-msgstr ""
+msgstr "Láfikún, àwọn ìpínrọ̀ ń ṣèrànwọ́ láti ṣètò ìṣànwọ́sí ìròyìn àti láti pèsè àwọn ìsinmi tí ó bọ́gbọ́n mu láàrin àwọn èrò oríṣiríṣi tàbí àwọn ègé ìròyìn. Ní ti àṣà, àwọn ìpínrọ̀ nínú àwọn ojú ìwé ayélujára ni a sábà máa ń fi àlàfo ìdúró tàbí ìtẹ̀síwájú hàn láàrin ìdí ọ̀rọ̀ kọ̀ọ̀kan. Ìyàtọ̀ ojú yìí ń ṣèrànwọ́ láti ya ìpínrọ̀ kan sọ́tọ̀ kúrò lọ́dọ̀ òmíràn, tí ó ń ṣẹ̀dá àgbékalẹ̀ tí ó ṣe kedere àti tí ó wà létòlétò tí ó ń tọ́ olùkawe kọja lára àkóónú lọ́nà dídán."
 
 #: wp-includes/js/dist/edit-site.js:22865
 msgid "A paragraph in a website refers to a distinct block of text that is used to present and organize information. It is a fundamental unit of content in web design and is typically composed of a group of related sentences or thoughts focused on a particular topic or idea. Paragraphs play a crucial role in improving the readability and user experience of a website. They break down the text into smaller, manageable chunks, allowing readers to scan the content more easily."
-msgstr ""
+msgstr "Ìpínrọ̀ kan nínú ojú ìwé ayélujára ń tọ́ka sí ìdí ọ̀rọ̀ kan pàtó tí a ń lò láti fi ìròyìn hàn àti láti ṣètò rẹ̀. Ó jẹ́ ìpìlẹ̀ àkóónú nínú iṣẹ́ ọnà wẹ́ẹ̀bù, a sì sábà máa ń ṣàkójọpọ̀ rẹ̀ pẹ̀lú ẹgbẹ́ àwọn gbólóhùn tàbí èrò tí ó jọmọ́ ara wọn tí ó dá lórí kókó kan pàtó. Àwọn ìpínrọ̀ ń kó ipa pàtàkì nínú mímú kí kíkà àti ìrírí olùlò ojú ìwé ayélujára sunwọ̀n síi. Wọ́n ń fọ́ ọ̀rọ̀ sí wẹ́wẹ́ sí àwọn ègé kéékèèké tí ó ṣeé ṣàkóso, tí ó ń jẹ́ kí àwọn olùkawe lè yẹ àkóónú wò pẹ̀lú ìrọ̀rùn."
 
 #: wp-includes/js/dist/edit-site.js:22858
 msgid "AaBbCcDdEeFfGgHhiiJjKkLIMmNnOoPpQakRrssTtUuVVWwXxxYyZzOl23356789X{(…)},2!*&:/A@HELFO™"
-msgstr ""
+msgstr "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789X{(…)},2!*&:/A@HELFO™"
 
 #: wp-includes/js/dist/edit-site.js:22412
 msgid "Default Gradients"
-msgstr ""
+msgstr "Àwọn Gradients Àtìbẹ̀rẹ̀"
 
 #: wp-includes/js/dist/edit-site.js:22407
 msgid "Default Colors"
-msgstr ""
+msgstr "Àwọn Àwọ̀ Àtìbẹ̀rẹ̀"
 
 #: wp-includes/js/dist/edit-site.js:22402
 msgid "Duotones"
-msgstr ""
+msgstr "Duotones"
 
 #: wp-includes/js/dist/edit-site.js:22396
 msgid "Custom Gradients"
-msgstr ""
+msgstr "Àwọn Gradients Àṣà"
 
 #: wp-includes/js/dist/edit-site.js:22386
 msgid "Theme Gradients"
-msgstr ""
+msgstr "Àwọn Gradients Theme"
 
 #: wp-includes/js/dist/edit-site.js:22381
 msgid "Theme Colors"
-msgstr ""
+msgstr "Àwọn Àwọ̀ Theme"
 
 #. translators: %s: Name of the shadow preset.
 #: wp-includes/js/dist/edit-site.js:21794
 msgid "Are you sure you want to delete \"%s\" shadow preset?"
-msgstr ""
+msgstr "Ṣé o fẹ́ pa àtòpọ̀ òjìji \"%s\" rẹ́?"
 
 #: wp-includes/js/dist/edit-site.js:21363
 msgid "Remove all custom shadows"
-msgstr ""
+msgstr "Yọ gbogbo àwọn òjìji àṣà kúrò"
 
 #: wp-includes/js/dist/edit-site.js:21357
 msgid "Shadow options"
-msgstr ""
+msgstr "Àwọn àṣàyàn òjìji"
 
 #: wp-includes/js/dist/edit-site.js:21281
 msgid "Are you sure you want to remove all custom shadows?"
-msgstr ""
+msgstr "Ṣé o fẹ́ yọ gbogbo àwọn òjìji àṣà kúrò?"
 
 #: wp-includes/js/dist/edit-site.js:19552
 #: wp-admin/includes/class-wp-theme-install-list-table.php:63
 msgctxt "noun"
 msgid "Upload"
-msgstr ""
+msgstr "Ìgbéwọlé"
 
 #: wp-includes/js/dist/edit-site.js:10724
 msgid "The theme you are currently using does not support this screen."
-msgstr ""
+msgstr "Theme tí o ń lò lọ́wọ́lọ́wọ́ kò ṣe àtìlẹyìn fún ojúewé yìí."
 
 #: wp-includes/js/dist/edit-site.js:10699
 msgid "Explore block styles and patterns to refine your site."
-msgstr ""
+msgstr "Ṣàwárí àwọn style àti àwòṣe búrọ́ọ̀kù láti yọ́ síàtì rẹ."
 
 #: wp-includes/js/dist/edit-post.js:2314
 #: wp-includes/js/dist/edit-widgets.js:4752
 msgid "Explore all blocks"
-msgstr ""
+msgstr "Ṣàwárí gbogbo àwọn búrọ́ọ̀kù"
 
 #: wp-includes/js/dist/edit-post.js:2300
 #: wp-includes/js/dist/edit-widgets.js:4738
 msgid "Customize each block"
-msgstr ""
+msgstr "Ṣe àṣà búrọ́ọ̀kù kọ̀ọ̀kan"
 
 #: wp-includes/js/dist/edit-post.js:2275 wp-includes/js/dist/edit-post.js:2286
 msgid "Welcome to the editor"
-msgstr ""
+msgstr "Kaabọ si oluṣatunṣe"
 
 #: wp-includes/js/dist/edit-post.js:1630
 msgid "Enable or disable fullscreen mode."
-msgstr ""
+msgstr "Fún láàyè tàbí dẹ́kun ipò ojú ìwò rẹ́rẹ́."
 
 #: wp-includes/js/dist/block-library.js:65182
 msgid "Muted because of Autoplay."
-msgstr ""
+msgstr "Wọ́n ti dákẹ́ nítorí Autoplay."
 
 #: wp-includes/js/dist/block-library.js:61957
 #: wp-includes/js/dist/block-library.js:61969
 #: wp-includes/js/dist/block-library.js:61977
 #: wp-includes/js/dist/block-library.js:61983
 msgid "Subheading"
-msgstr ""
+msgstr "Àkọlé kékeré"
 
 #: wp-includes/js/dist/block-library.js:61792
 msgid "Include headings from all pages (if the post is paginated)."
-msgstr ""
+msgstr "Fi àwọn àkọlé láti gbogbo ojúewé kún un (tí wọ́n bá ti ṣe ìtẹ̀síwájú àkóónú)."
 
 #: wp-includes/js/dist/block-library.js:57849
 msgid "Provide a text label or use the default."
-msgstr ""
+msgstr "Pèsè àmì ọ̀rọ̀ tàbí lo èyí tí ó wà níbẹ̀."
 
 #: wp-includes/js/dist/block-library.js:54731
 msgid "Default (<hr>)"
-msgstr ""
+msgstr "Àtìbẹ̀rẹ̀ (<hr>)"
 
 #: wp-includes/js/dist/block-library.js:54295
 msgid "Show search label"
-msgstr ""
+msgstr "Ṣàfihàn àmì ìwákiri"
 
 #: wp-includes/js/dist/block-library.js:52072
 msgid "Displaying 1 – 10 of 12"
-msgstr ""
+msgstr "Ó ń ṣàfihàn 1 – 10 nínú 12"
 
 #: wp-includes/js/dist/block-library.js:52067
 msgid "12 results found"
-msgstr ""
+msgstr "Àwọn àbájáde 12 tí a rí"
 
 #: wp-includes/js/dist/block-library.js:52057
 msgid "Change display type"
-msgstr ""
+msgstr "Pààrọ̀ irú àfihàn"
 
 #: wp-includes/js/dist/block-library.js:52042
 msgid "Range display"
-msgstr ""
+msgstr "Ìfihàn ìpele"
 
 #: wp-includes/js/dist/block-library.js:52032
 msgid "Total results"
-msgstr ""
+msgstr "Àpapọ̀ àwọn àbájáde"
 
 #: wp-includes/js/dist/block-library.js:50967
 msgid "Pagination arrow"
-msgstr ""
+msgstr "Ọfà ìtẹ̀síwájú"
 
 #: wp-includes/js/dist/block-library.js:50891
 msgid "Make label text visible, e.g. \"Next Page\"."
-msgstr ""
+msgstr "Jẹ́ kí àmì ọ̀rọ̀ hàn, f.a. \"Ojúewé Tókàn\"."
 
 #: wp-includes/js/dist/block-library.js:50834
 msgid "No posts were found."
-msgstr ""
+msgstr "A kò rí àkóónú kankan."
 
 #. translators: Label for ordering posts by descending menu order.
 #: wp-includes/js/dist/block-library.js:48081
 msgid "Descending by order"
-msgstr ""
+msgstr "Sísọ̀kalẹ̀ nípaṣẹ̀ ìtòlẹ́sẹẹsẹ"
 
 #. translators: Label for ordering posts by ascending menu order.
 #: wp-includes/js/dist/block-library.js:48077
 msgid "Ascending by order"
-msgstr ""
+msgstr "Gíga nípaṣẹ̀ ìtòlẹ́sẹẹsẹ"
 
 #. translators: %s: Name of the post type e.g: "post".
 #: wp-includes/js/dist/block-library.js:41953
 #: wp-includes/js/dist/block-library.js:42305
 msgid "This post type (%s) does not support the author."
-msgstr ""
+msgstr "Irú àkóónú yìí (%s) kò ṣe àtìlẹyìn fún òǹkọ̀wé."
 
 #: wp-includes/js/dist/block-library.js:41440
 msgid "Show a large initial letter."
-msgstr ""
+msgstr "Ṣàfihàn lẹ́tà àkọ́bẹ̀rẹ̀ ńlá."
 
 #: wp-includes/js/dist/block-library.js:39694
 msgctxt "Example link text for Navigation Submenu"
 msgid "About"
-msgstr ""
+msgstr "Nípa"
 
 #. translators: %s: the name of a menu (e.g. Header menu).
 #: wp-includes/js/dist/block-library.js:35581
 msgid "%s menu"
-msgstr ""
+msgstr "%s àtòjọ-ẹ̀ka"
 
 #: wp-includes/js/dist/block-library.js:33885
 msgid "Hide excerpt"
-msgstr ""
+msgstr "Fi àkópọ̀ pamọ́"
 
 #: wp-includes/js/dist/block-library.js:27432
 msgid "Post featured image updated."
-msgstr ""
+msgstr "Wọ́n ti ṣe àtúnṣe àwòrán àkóónú tó yàn."
 
 #: wp-includes/js/dist/block-library.js:26664
 msgid "Title text"
-msgstr ""
+msgstr "Ọ̀rọ̀ àkọlé"
 
 #: wp-includes/js/dist/block-library.js:26645
 msgid "Displays more controls."
-msgstr ""
+msgstr "Ṣàfihàn àwọn ìṣàkóso púpọ̀ síi."
 
 #: wp-includes/js/dist/block-library.js:22238
 msgid "Drag and drop images, upload, or choose from your library."
-msgstr ""
+msgstr "Fà àwọn àwòrán sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #: wp-includes/js/dist/block-library.js:22230
 msgid "Scale images with a lightbox effect"
-msgstr ""
+msgstr "Ṣe ìwọ̀n àwọn àwòrán pẹ̀lú ìgbefẹ́ lightbox"
 
 #: wp-includes/js/dist/block-library.js:22229
 msgid "Lightbox effect"
-msgstr ""
+msgstr "Ìgbefẹ́ Lightbox"
 
 #: wp-includes/js/dist/block-library.js:18973
 msgid "Drag and drop a file, upload, or choose from your library."
-msgstr ""
+msgstr "Fà fáìlì kan sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #. translators: accessibility text; summary title.
 #: wp-includes/js/dist/block-library.js:16703
 msgid "Details. %s"
-msgstr ""
+msgstr "Àwọn àlàyé. %s"
 
 #: wp-includes/js/dist/block-library.js:16702
 msgid "Details. Empty."
-msgstr ""
+msgstr "Àwọn àlàyé. Òfo."
 
 #: wp-includes/js/dist/block-library.js:16500
 msgid "Enables multiple Details blocks with the same name attribute to be connected, with only one open at a time."
-msgstr ""
+msgstr "Ó ń jẹ́ kí ọ̀pọ̀lọpọ̀ búrọ́ọ̀kù Àlàyé pẹ̀lú ànímọ́ orúkọ kan náà ní àsopọ̀, pẹ̀lú ọ̀kan ṣoṣo tí ó ṣí ní ìgbà kan."
 
 #: wp-includes/js/dist/block-library.js:16495
 msgid "Name attribute"
-msgstr ""
+msgstr "Ànímọ́ orúkọ"
 
 #: wp-includes/js/dist/block-library.js:9198
 msgid "The <nav> element should be used to identify groups of links that are intended to be used for website or page content navigation."
-msgstr ""
+msgstr "Èlò <nav> ni ó yẹ kí a lò láti ṣe ìdámọ̀ àwọn ẹgbẹ́ ìjápọ̀ tí a pinnu láti lò fún lilọ kiri àkóónú ojú ìwé ayélujára tàbí ojúewé."
 
 #: wp-includes/js/dist/block-library.js:9194
 msgid "The <div> element should only be used if the block is a design element with no semantic meaning."
-msgstr ""
+msgstr "Èlò <div> ni ó yẹ kí a lò tí búrọ́ọ̀kù bá jẹ́ èlò iṣẹ́ ọnà tí kò ní ìtumọ̀."
 
 #: wp-includes/js/dist/block-editor.js:71438
 #: wp-includes/js/dist/block-editor.js:71518
@@ -643,146 +643,146 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:73215
 #: wp-includes/js/dist/block-library.js:22227
 msgid "Enlarge on click"
-msgstr ""
+msgstr "Fẹ̀ nígbà tí a bá tẹ́ ẹ"
 
 #: wp-includes/js/dist/block-editor.js:71081
 msgid "Tools provide different sets of interactions for blocks. Choose between simplified content tools (Write) and advanced visual editing tools (Design)."
-msgstr ""
+msgstr "Àwọn irinṣẹ́ ń pèsè oríṣiríṣi ìbáṣepọ̀ fún àwọn búrọ́ọ̀kù. Yan láàrin àwọn irinṣẹ́ àkóónú tí ó rọrùn (Kọ) àti àwọn irinṣẹ́ àtúnṣe ojú tí ó ga (Design)."
 
 #: wp-includes/js/dist/block-editor.js:71075
 msgid "Edit layout and styles."
-msgstr ""
+msgstr "Ṣàtúnṣe àgbékalẹ̀ àti àwọn style."
 
 #: wp-includes/js/dist/block-editor.js:71068
 msgid "Focus on content."
-msgstr ""
+msgstr "Dojúkọ àkóónú."
 
 #: wp-includes/js/dist/block-editor.js:70870
 msgid "Choose whether to use the same value for all screen sizes or a unique value for each screen size."
-msgstr ""
+msgstr "Yan bóyá kí o lo iye kan náà fún gbogbo ìwọ̀n ojúewé tàbí iye ọ̀tọ̀ fún ìwọ̀n ojúewé kọ̀ọ̀kan."
 
 #: wp-includes/js/dist/block-editor.js:68707
 #: wp-includes/js/dist/block-library.js:65664
 msgid "Drag and drop a video, upload, or choose from your library."
-msgstr ""
+msgstr "Fà fídíò kan sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #: wp-includes/js/dist/block-editor.js:68705
 #: wp-includes/js/dist/block-library.js:27819
 msgid "Drag and drop an image, upload, or choose from your library."
-msgstr ""
+msgstr "Fà àwòrán kan sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #: wp-includes/js/dist/block-editor.js:68703
 msgid "Drag and drop an audio file, upload, or choose from your library."
-msgstr ""
+msgstr "Fà fáìlì ohùn kan sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #: wp-includes/js/dist/block-editor.js:68701
 msgid "Drag and drop an image or video, upload, or choose from your library."
-msgstr ""
+msgstr "Fà àwòrán tàbí fídíò kan sílẹ̀, gbéwọlé, tàbí yan láti inú ilé-ìkàwé rẹ."
 
 #. translators: Percentage value.
 #: wp-includes/js/dist/block-editor.js:68214
 #: wp-includes/js/dist/block-library.js:5248
 #: wp-includes/js/dist/block-library.js:54379
 msgid "%d%%"
-msgstr ""
+msgstr "%d%%"
 
 #: wp-includes/js/dist/block-editor.js:66151
 msgid "Image cropped and rotated."
-msgstr ""
+msgstr "Wọ́n ti gé àwòrán, wọ́n sì ti yí i po."
 
 #: wp-includes/js/dist/block-editor.js:66150
 msgid "Image rotated."
-msgstr ""
+msgstr "Wọ́n ti yí àwòrán po."
 
 #: wp-includes/js/dist/block-editor.js:66149
 msgid "Image cropped."
-msgstr ""
+msgstr "Wọ́n ti gé àwòrán."
 
 #. translators: %d: the name of the block that has been moved
 #: wp-includes/js/dist/block-editor.js:61053
 msgid "%d block moved."
 msgid_plural "%d blocks moved."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wọ́n ti gbé búrọ́ọ̀kù %d."
+msgstr[1] "Wọ́n ti gbé àwọn búrọ́ọ̀kù %d."
 
 #: wp-includes/js/dist/block-editor.js:60446
 msgid "Shuffle styles"
-msgstr ""
+msgstr "Da àwọn style rú"
 
 #: wp-includes/js/dist/block-editor.js:60344
 #: wp-includes/js/dist/block-library.js:49681
 msgid "Change design"
-msgstr ""
+msgstr "Pààrọ̀ iṣẹ́-ọnà"
 
 #: wp-includes/js/dist/block-editor.js:59944
 msgctxt "action: convert blocks to grid"
 msgid "Grid"
-msgstr ""
+msgstr "Grid"
 
 #: wp-includes/js/dist/block-editor.js:59940
 msgctxt "action: convert blocks to stack"
 msgid "Stack"
-msgstr ""
+msgstr "Stack"
 
 #: wp-includes/js/dist/block-editor.js:59936
 msgctxt "action: convert blocks to row"
 msgid "Row"
-msgstr ""
+msgstr "Row"
 
 #: wp-includes/js/dist/block-editor.js:59932
 msgctxt "action: convert blocks to group"
 msgid "Group"
-msgstr ""
+msgstr "Ẹgbẹ́"
 
 #: wp-includes/js/dist/block-editor.js:58888
 msgid "Lock removal"
-msgstr ""
+msgstr "Tì ìyọkúrò"
 
 #: wp-includes/js/dist/block-editor.js:58874
 msgid "Lock movement"
-msgstr ""
+msgstr "Tì ìgbera"
 
 #: wp-includes/js/dist/block-editor.js:58860
 msgid "Lock editing"
-msgstr ""
+msgstr "Tì àtúnṣe"
 
 #: wp-includes/js/dist/block-editor.js:58835
 msgid "Select the features you want to lock"
-msgstr ""
+msgstr "Yan àwọn ànímọ́ tí o fẹ́ tì"
 
 #: wp-includes/js/dist/block-editor.js:55217
 msgid "Full height"
-msgstr ""
+msgstr "Gíga kíkún"
 
 #. translators: %s: block pattern title.
 #: wp-includes/js/dist/block-editor.js:48778
 msgid "Block \"%s\" can't be inserted."
-msgstr ""
+msgstr "A kò lè fi búrọ́ọ̀kù \"%s\" síi."
 
 #: wp-includes/js/dist/block-editor.js:45950
 msgid "Styles copied to clipboard."
-msgstr ""
+msgstr "Wọ́n ti ṣe àdàkọ àwọn style sí kílípíbọ́ọ̀dù."
 
 #: wp-includes/js/dist/block-editor.js:38928
 msgid "Paste the selected block(s)."
-msgstr ""
+msgstr "Lẹ àwọn búrọ́ọ̀kù tí a yàn mọ́."
 
 #: wp-includes/js/dist/block-editor.js:38919
 msgid "Cut the selected block(s)."
-msgstr ""
+msgstr "Gé àwọn búrọ́ọ̀kù tí a yàn."
 
 #: wp-includes/js/dist/block-editor.js:38910
 msgid "Copy the selected block(s)."
-msgstr ""
+msgstr "Ṣe àdàkọ àwọn búrọ́ọ̀kù tí a yàn."
 
 #: wp-includes/js/dist/block-editor.js:38090
 msgctxt "file name"
 msgid "unnamed"
-msgstr ""
+msgstr "aláìlórúkọ"
 
 #: wp-includes/js/dist/block-editor.js:36734
 msgid "Nested blocks will fill the width of this container."
-msgstr ""
+msgstr "Àwọn búrọ́ọ̀kù tí ó wà nínú yóò kún ìbú àpótí yìí."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/js/dist/block-editor.js:24700
@@ -795,82 +795,82 @@ msgstr ""
 #: wp-admin/includes/media.php:2285 wp-admin/includes/media.php:2289
 msgctxt "verb"
 msgid "Upload"
-msgstr ""
+msgstr "Gbéwọlé"
 
 #. translators: Accessibility text for the link preview when editing a link.
 #: wp-includes/js/dist/block-editor.js:23892
 msgid "Link information"
-msgstr ""
+msgstr "Ìròyìn ìjápọ̀"
 
 #: wp-includes/js/dist/block-editor.js:23877
 msgid "Manage link"
-msgstr ""
+msgstr "Ṣàkóso ìjápọ̀"
 
 #: wp-includes/js/dist/block-editor.js:16348
 msgid "You are currently in Design mode."
-msgstr ""
+msgstr "O wà ní ipò Design lọ́wọ́lọ́wọ́."
 
 #: wp-includes/js/dist/block-editor.js:16346
 msgid "You are currently in Write mode."
-msgstr ""
+msgstr "O wà ní ipò Kọ lọ́wọ́lọ́wọ́."
 
 #: wp-includes/js/dist/block-editor.js:10857
 msgid "Starter content"
-msgstr ""
+msgstr "Àkóónú ìbẹ̀rẹ̀"
 
 #. translators: %s human readable rate limit.
 #: wp-mail.php:45
 msgid "Email checks are rate limited to once every %s."
-msgstr ""
+msgstr "Àwọn àyẹ̀wò email ni wọ́n ti díwọ̀n sí ẹ̀ẹ̀kan ní gbogbo %s."
 
 #: wp-includes/theme.php:4356
 msgid "This function should not be called before the theme directory is registered."
-msgstr ""
+msgstr "A kò gbọdọ̀ pe iṣẹ́ yìí ṣáájú kí wọ́n tó forúkọsílẹ̀ àpò theme."
 
 #: wp-includes/taxonomy.php:149
 msgid "Add Link Category"
-msgstr ""
+msgstr "Fi Ẹ̀ka Ìjápọ̀ Kún Un"
 
 #: wp-includes/script-loader.php:1008
 msgid "This file cannot be processed by the web server."
-msgstr ""
+msgstr "Ojú ìwé ayélujára kò lè ṣe àgbékalẹ̀ fáìlì yìí."
 
 #: wp-includes/script-loader.php:835 wp-admin/js/tags.js:62
 msgid "An error occurred while processing your request. Please try again later."
-msgstr ""
+msgstr "Àṣìṣe kan ṣẹlẹ̀ nígbà tí wọ́n ń ṣe àgbékalẹ̀ ìbéèrè rẹ. Jọ̀wọ́ gbìyànjú lẹ́ẹ̀kansi nígbà mìíràn."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:656
 msgid "A list of allowed area values for template parts."
-msgstr ""
+msgstr "Àtòjọ àwọn iye agbègbè tí a yọ̀ǹda fún àwọn apá àdàkọ."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:637
 msgid "A list of default template types."
-msgstr ""
+msgstr "Àtòjọ àwọn irú àdàkọ àtìbẹ̀rẹ̀."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php:182
 msgid "Templates based on theme files can't have revisions."
-msgstr ""
+msgstr "Àwọn àdàkọ tí ó dá lórí àwọn fáìlì theme kò lè ní àtúnyẹ̀wò."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3076
 msgid "Whether to ignore sticky posts or not."
-msgstr ""
+msgstr "Bóyá kí á fojú fo àwọn àkóónú tí a lẹ̀ mọ́ tàbí kí á má ṣe bẹ́ẹ̀."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:170
 #: wp-includes/script-loader.php:1032
 msgid "The web server cannot generate responsive image sizes for this image. Convert it to JPEG or PNG before uploading."
-msgstr ""
+msgstr "Ojú ìwé ayélujára kò lè ṣe àgbékalẹ̀ àwọn ìwọ̀n àwòrán tó yẹ fún àwòrán yìí. Yí i padà sí JPEG tàbí PNG ṣáájú kí o tó gbéwọlé."
 
 #: wp-includes/rest-api.php:437
 msgid "The REST route parameter must be a string."
-msgstr ""
+msgstr "Paramita ìrìnàjò REST gbọ́dọ̀ jẹ́ okùn."
 
 #: wp-includes/post.php:418 wp-includes/post.php:419
 msgid "Add Template Part"
-msgstr ""
+msgstr "Fi Apá Àdàkọ Kún Un"
 
 #: wp-includes/post.php:353 wp-includes/post.php:354
 msgid "Add Template"
-msgstr ""
+msgstr "Fi Àdàkọ Kún Un"
 
 #: wp-includes/post.php:205 wp-includes/post.php:206
 msgid "Add Changeset"
@@ -1145,8 +1145,8 @@ msgstr ""
 #: wp-includes/blocks/query-total.php:66
 msgid "%d result found"
 msgid_plural "%d results found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbájáde %d tí a rí"
+msgstr[1] "Àwọn àbájáde %d tí a rí"
 
 #. translators: 1: Start index of posts, 2: End index of posts, 3: Total number
 #. of posts
@@ -1610,8 +1610,8 @@ msgstr ""
 #: wp-includes/js/dist/edit-site.js:34342
 msgid "%d Item"
 msgid_plural "%d Items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nǹkan %d"
+msgstr[1] "Àwọn nǹkan %d"
 
 #: wp-includes/js/dist/edit-site.js:27892 wp-includes/js/dist/editor.js:6882
 msgid "Select item"
@@ -2162,8 +2162,8 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:8468
 msgid "%s item moved to the trash."
 msgid_plural "%s items moved to the trash."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wọ́n ti gbé nǹkan %s lọ sínú àpò ìdọ̀tí."
+msgstr[1] "Wọ́n ti gbé àwọn nǹkan %s lọ sínú àpò ìdọ̀tí."
 
 #: wp-includes/js/dist/editor.js:7780
 msgid "patterns-export"
@@ -2196,8 +2196,8 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:13580
 msgid "The deleted block allows instance overrides. Removing it may result in content not displaying where this pattern is used. Are you sure you want to proceed?"
 msgid_plural "Some of the deleted blocks allow instance overrides. Removing them may result in content not displaying where this pattern is used. Are you sure you want to proceed?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù tí a paarẹ́ ń gba àwọn àtúnṣe ìṣẹ̀lẹ̀ láàyè. Yíyọ ọ́ kúrò lè fa kí àkóónú má ṣe hàn níbi tí a ti ń lo àwòṣe yìí. Ṣé o fẹ́ tẹ̀síwájú?"
+msgstr[1] "Díẹ̀ nínú àwọn búrọ́ọ̀kù tí a paarẹ́ ń gba àwọn àtúnṣe ìṣẹ̀lẹ̀ láàyè. Yíyọ wọ́n kúrò lè fa kí àkóónú má ṣe hàn níbi tí a ti ń lo àwòṣe yìí. Ṣé o fẹ́ tẹ̀síwájú?"
 
 #. translators: %s: Current post link.
 #: wp-includes/js/dist/editor.js:27357
@@ -2376,8 +2376,8 @@ msgstr ""
 #: wp-includes/js/dist/edit-site.js:34341
 msgid "%d Item selected"
 msgid_plural "%d Items selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nǹkan %d tí a yàn"
+msgstr[1] "Àwọn nǹkan %d tí a yàn"
 
 #. translators: 1: Filter name. 3: Filter value. e.g.: "Author is not: Admin".
 #: wp-includes/js/dist/edit-site.js:33391
@@ -3003,8 +3003,8 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:8440
 msgid "Are you sure you want to move %d item to the trash ?"
 msgid_plural "Are you sure you want to move %d items to the trash ?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ṣé o fẹ́ gbé nǹkan %d lọ sínú àpò ìdọ̀tí?"
+msgstr[1] "Ṣé o fẹ́ gbé àwọn nǹkan %d lọ sínú àpò ìdọ̀tí?"
 
 #: wp-includes/js/dist/edit-post.js:1708 wp-includes/js/dist/patterns.js:639
 #: wp-includes/js/dist/reusable-blocks.js:380
@@ -3023,8 +3023,8 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:17672
 msgid "There is <strong>%d site change</strong> waiting to be saved."
 msgid_plural "There are <strong>%d site changes</strong> waiting to be saved."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>Àtúnṣe síàtì %d</strong> wà tí ó ń dúró de ìfipamọ́."
+msgstr[1] "<strong>Àwọn àtúnṣe síàtì %d</strong> wà tí ó ń dúró de ìfipamọ́."
 
 #: wp-includes/js/dist/editor.js:17360
 msgid "The following has been modified."
@@ -3038,8 +3038,8 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:8316
 msgid "Delete %d item?"
 msgid_plural "Delete %d items?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pa nǹkan %d rẹ́?"
+msgstr[1] "Pa àwọn nǹkan %d rẹ́?"
 
 #. translators: %s: pattern category name
 #: wp-includes/js/dist/edit-site.js:37384
@@ -3241,8 +3241,8 @@ msgstr ""
 #: wp-includes/js/dist/edit-site.js:19661
 msgid "%d variant"
 msgid_plural "%d variants"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Oríṣi %d"
+msgstr[1] "Àwọn oríṣi %d"
 
 #: wp-includes/js/dist/editor.js:13383 wp-includes/js/dist/patterns.js:744
 msgid "Duplicate pattern"
@@ -4923,8 +4923,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:50098
 msgid "%d category button displayed."
 msgid_plural "%d category buttons displayed."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Bọ́tìnì ẹ̀ka %d tí a ṣàfihàn."
+msgstr[1] "Àwọn bọ́tìnì ẹ̀ka %d tí a ṣàfihàn."
 
 #: wp-includes/js/dist/edit-site.js:27337
 msgid "All patterns"
@@ -4946,8 +4946,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:49968
 msgid "%d pattern found"
 msgid_plural "%d patterns found"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àwòṣe %d tí a rí"
+msgstr[1] "Àwọn àwòṣe %d tí a rí"
 
 #: wp-includes/js/dist/block-editor.js:39001
 msgid "Select text across multiple blocks."
@@ -5631,8 +5631,8 @@ msgstr ""
 #: wp-includes/js/dist/components.js:34836
 msgid "Initial %d result loaded. Type to filter all available results. Use up and down arrow keys to navigate."
 msgid_plural "Initial %d results loaded. Type to filter all available results. Use up and down arrow keys to navigate."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbájáde àkọ́kọ́ %d ti wọlé. Tẹ láti ṣe ajọ̀ gbogbo àwọn àbájáde tó wà. Lo àwọn kọ́kọ́rọ́ ìtọ́ka òkè àti ìsàlẹ̀ láti lọ kiri."
+msgstr[1] "Àwọn àbájáde àkọ́kọ́ %d ti wọlé. Tẹ láti ṣe ajọ̀ gbogbo àwọn àbájáde tó wà. Lo àwọn kọ́kọ́rọ́ ìtọ́ka òkè àti ìsàlẹ̀ láti lọ kiri."
 
 #: wp-includes/js/dist/commands.js:3775
 msgid "Command palette"
@@ -5886,8 +5886,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:71669
 msgid "%d Block"
 msgid_plural "%d Blocks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù %d"
+msgstr[1] "Àwọn búrọ́ọ̀kù %d"
 
 #: wp-includes/js/dist/block-editor.js:23262
 msgid "Suggestions"
@@ -7053,8 +7053,8 @@ msgstr ""
 #: wp-includes/js/dist/components.js:54784
 msgid "%1$s. Selected. There is %2$d event"
 msgid_plural "%1$s. Selected. There are %2$d events"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s. Tí a yàn. Ìṣẹ̀lẹ̀ %2$d wà"
+msgstr[1] "%1$s. Tí a yàn. Àwọn ìṣẹ̀lẹ̀ %2$d wà"
 
 #: wp-includes/js/dist/components.js:54662
 msgid "View next month"
@@ -7149,8 +7149,8 @@ msgstr ""
 #: wp-admin/includes/class-wp-list-table.php:855
 msgid "%s comment"
 msgid_plural "%s comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbá %s"
+msgstr[1] "Àwọn àbá %s"
 
 #: wp-includes/js/dist/block-library.js:42805
 msgid "Post Comments Count block: post not found."
@@ -8935,8 +8935,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:73981
 msgid "%d block is hidden."
 msgid_plural "%d blocks are hidden."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù %d wà ní ìpamọ́."
+msgstr[1] "Àwọn búrọ́ọ̀kù %d wà ní ìpamọ́."
 
 #: wp-includes/js/dist/core-data.js:1637
 msgid "Global Styles"
@@ -10713,8 +10713,8 @@ msgstr ""
 #: wp-includes/js/dist/edit-widgets.js:4713
 msgid "Your theme provides %s “block” area for you to add and edit content. Try adding a search bar, social icons, or other types of blocks here and see how they’ll look on your site."
 msgid_plural "Your theme provides %s different “block” areas for you to add and edit content. Try adding a search bar, social icons, or other types of blocks here and see how they’ll look on your site."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Theme rẹ pèsè agbègbè \"búrọ́ọ̀kù\" %s fún ọ láti fi àkóónú kún un àti láti ṣàtúnṣe. Gbìyànjú láti fi pẹpẹ ìwákiri, àwọn àmì ìbáraẹnisọ̀rọ̀, tàbí àwọn irú búrọ́ọ̀kù mìíràn kún un níbí kí o sì wo bí wọn yóò ṣe hàn lórí síàtì rẹ."
+msgstr[1] "Theme rẹ pèsè àwọn agbègbè \"búrọ́ọ̀kù\" %s ọ̀tọ̀ọ̀tọ̀ fún ọ láti fi àkóónú kún un àti láti ṣàtúnṣe. Gbìyànjú láti fi pẹpẹ ìwákiri, àwọn àmì ìbáraẹnisọ̀rọ̀, tàbí àwọn irú búrọ́ọ̀kù mìíràn kún un níbí kí o sì wo bí wọn yóò ṣe hàn lórí síàtì rẹ."
 
 #. translators: accessibility text for the widgets screen footer landmark
 #. region.
@@ -10892,8 +10892,8 @@ msgstr ""
 #: wp-includes/js/dist/components.js:54792
 msgid "%1$s. There is %2$d event"
 msgid_plural "%1$s. There are %2$d events"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$s. Ìṣẹ̀lẹ̀ %2$d wà."
+msgstr[1] "%1$s. Àwọn ìṣẹ̀lẹ̀ %2$d wà."
 
 #: wp-includes/js/dist/components.js:40290
 #: wp-includes/js/dist/components.js:40291
@@ -11094,8 +11094,8 @@ msgstr ""
 #: wp-includes/js/dist/block-directory.js:1757
 msgid "%d additional block is available to install."
 msgid_plural "%d additional blocks are available to install."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù àfikún %d wà fún ìgbéwọlé."
+msgstr[1] "Àwọn búrọ́ọ̀kù àfikún %d wà fún ìgbéwọlé."
 
 #: wp-includes/js/dist/block-directory.js:1713
 msgid "Blocks available for install"
@@ -11118,8 +11118,8 @@ msgstr ""
 #: wp-includes/js/dist/block-directory.js:1589
 msgid "Install %1$s. %2$s stars with %3$s review."
 msgid_plural "Install %1$s. %2$s stars with %3$s reviews."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gbé %1$s wọlé. Ìràwọ̀ %2$s pẹ̀lú àgbéyẹ̀wò %3$s."
+msgstr[1] "Gbé %1$s wọlé. Ìràwọ̀ %2$s pẹ̀lú àwọn àgbéyẹ̀wò %3$s."
 
 #: wp-includes/js/dist/block-directory.js:1528
 msgid "Try reloading the page."
@@ -11779,8 +11779,8 @@ msgstr ""
 #: wp-includes/admin-bar.php:1163 wp-admin/js/updates.js:370
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ìgbàlódì %s wà"
+msgstr[1] "Àwọn ìgbàlódì %s wà"
 
 #: wp-includes/blocks/latest-posts.php:169
 #: wp-includes/blocks/latest-posts.php:184
@@ -13300,15 +13300,15 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:45970
 msgid "Moved %d block to clipboard."
 msgid_plural "Moved %d blocks to clipboard."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wọ́n ti gbé búrọ́ọ̀kù %d lọ sí kílípíbọ́ọ̀dù."
+msgstr[1] "Wọ́n ti gbé àwọn búrọ́ọ̀kù %d lọ sí kílípíbọ́ọ̀dù."
 
 #. Translators: %d: Number of blocks being copied.
 #: wp-includes/js/dist/block-editor.js:45966
 msgid "Copied %d block to clipboard."
 msgid_plural "Copied %d blocks to clipboard."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wọ́n ti ṣe àdàkọ búrọ́ọ̀kù %d sí kílípíbọ́ọ̀dù."
+msgstr[1] "Wọ́n ti ṣe àdàkọ àwọn búrọ́ọ̀kù %d sí kílípíbọ́ọ̀dù."
 
 #. Translators: Name of the block being cut, e.g. "Paragraph".
 #: wp-includes/js/dist/block-editor.js:45961
@@ -13345,8 +13345,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:49509
 msgid "%d block added."
 msgid_plural "%d blocks added."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Wọ́n ti fi búrọ́ọ̀kù %d kún un."
+msgstr[1] "Wọ́n ti fi àwọn búrọ́ọ̀kù %d kún un."
 
 #: wp-includes/js/dist/components.js:60177
 msgid "Reset search"
@@ -14975,8 +14975,8 @@ msgstr ""
 #: wp-includes/js/media-views.js:9509
 msgid "%s item selected"
 msgid_plural "%s items selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Nǹkan %s tí a yàn"
+msgstr[1] "Àwọn nǹkan %s tí a yàn"
 
 #: wp-includes/media.php:5084
 msgid "Filter media"
@@ -15189,15 +15189,15 @@ msgstr ""
 #: wp-includes/post.php:3525
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Ilé ìpamọ́ <span class=\"count\">(%s)</span>"
+msgstr[1] "Àwọn ilé ìpamọ́ <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of spreadsheets.
 #: wp-includes/post.php:3516
 msgid "Spreadsheet <span class=\"count\">(%s)</span>"
 msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spreadsheet <span class=\"count\">(%s)</span>"
+msgstr[1] "Àwọn spreadsheet <span class=\"count\">(%s)</span>"
 
 #. translators: 1: "srclang" HTML attribute, 2: "label" HTML attribute, 3:
 #. "kind" HTML attribute.
@@ -15441,8 +15441,8 @@ msgstr ""
 #: wp-admin/menu.php:97
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbá %s ní ìṣàkóso"
+msgstr[1] "Àwọn àbá %s ní ìṣàkóso"
 
 #: wp-content/plugins/hello.php:67 hello.php:67
 msgid "Quote from Hello Dolly song, by Jerry Herman:"
@@ -15482,8 +15482,8 @@ msgstr ""
 #: wp-includes/post.php:784
 msgid "Failed <span class=\"count\">(%s)</span>"
 msgid_plural "Failed <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kùnà <span class=\"count\">(%s)</span>"
+msgstr[1] "Kùnà <span class=\"count\">(%s)</span>"
 
 #: wp-includes/blocks/comment-content.php:46
 #: wp-includes/class-walker-comment.php:314
@@ -15515,8 +15515,8 @@ msgstr ""
 #: wp-includes/formatting.php:3875 wp-includes/functions.php:568
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ìṣẹ́jú àáyá %s"
+msgstr[1] "ìṣẹ́jú àáyá %s"
 
 #. translators: Time difference between two dates, in minutes. %s: Number of
 #. minutes.
@@ -15527,8 +15527,8 @@ msgstr[1] ""
 #: wp-includes/js/dist/editor.js:32504
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ìṣẹ́jú %s"
+msgstr[1] "ìṣẹ́jú %s"
 
 #. translators: 1: A number of pixels wide, 2: A number of pixels tall.
 #: wp-includes/media-template.php:472 wp-includes/media-template.php:718
@@ -15568,15 +15568,15 @@ msgstr ""
 #: wp-includes/js/dist/editor.js:32502
 msgid "%s word"
 msgid_plural "%s words"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ọ̀rọ̀ %s"
+msgstr[1] "ọ̀rọ̀ %s"
 
 #. translators: %s: number of selected blocks
 #: wp-includes/js/dist/block-editor.js:15225
 msgid "%s block selected."
 msgid_plural "%s blocks selected."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù %s tí a yàn."
+msgstr[1] "Àwọn búrọ́ọ̀kù %s tí a yàn."
 
 #: wp-includes/js/dist/edit-post.js:2130
 msgid "Custom fields"
@@ -15904,8 +15904,8 @@ msgstr ""
 #: wp-includes/js/dist/block-editor.js:40676
 msgid "%d block"
 msgid_plural "%d blocks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Búrọ́ọ̀kù %d"
+msgstr[1] "Àwọn búrọ́ọ̀kù %d"
 
 #: wp-includes/js/dist/editor.js:22802 wp-includes/js/dist/editor.js:22809
 msgid "Visibility"
@@ -16593,8 +16593,8 @@ msgstr ""
 #: wp-includes/js/dist/edit-site.js:12460 wp-includes/js/dist/editor.js:24508
 msgid "%d result found."
 msgid_plural "%d results found."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbájáde %d tí a rí."
+msgstr[1] "Àwọn àbájáde %d tí a rí."
 
 #. translators: %s: connected field label or source label
 #: wp-includes/js/dist/block-editor.js:70407
@@ -16939,8 +16939,8 @@ msgstr ""
 #: wp-includes/js/dist/components.js:58468
 msgid "%d result found, use up and down arrow keys to navigate."
 msgid_plural "%d results found, use up and down arrow keys to navigate."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbájáde %d tí a rí, lo àwọn kọ́kọ́rọ́ ìtọ́ka òkè àti ìsàlẹ̀ láti lọ kiri."
+msgstr[1] "Àwọn àbájáde %d tí a rí, lo àwọn kọ́kọ́rọ́ ìtọ́ka òkè àti ìsàlẹ̀ láti lọ kiri."
 
 #: wp-includes/js/dist/block-editor.js:74001
 #: wp-includes/js/dist/edit-site.js:12472
@@ -24182,24 +24182,24 @@ msgstr ""
 #: wp-includes/formatting.php:3917
 msgid "%s year"
 msgid_plural "%s years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ọdún %s"
+msgstr[1] "ọdún %s"
 
 #. translators: Time difference between two dates, in months. %s: Number of
 #. months.
 #: wp-includes/formatting.php:3910
 msgid "%s month"
 msgid_plural "%s months"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "oṣù %s"
+msgstr[1] "oṣù %s"
 
 #. translators: Time difference between two dates, in weeks. %s: Number of
 #. weeks.
 #: wp-includes/formatting.php:3903
 msgid "%s week"
 msgid_plural "%s weeks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ọ̀sẹ̀ %s"
+msgstr[1] "ọ̀sẹ̀ %s"
 
 #. translators: %d: ID of a post.
 #. translators: %d: ID of a term.
@@ -25393,8 +25393,8 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:1438 wp-admin/includes/dashboard.php:334
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Àbá %s"
+msgstr[1] "Àwọn àbá %s"
 
 #: wp-includes/admin-bar.php:187
 #: wp-includes/widgets/class-wp-widget-meta.php:92
@@ -27875,8 +27875,8 @@ msgstr ""
 #: wp-includes/formatting.php:3896
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ọjọ́ %s"
+msgstr[1] "ọjọ́ %s"
 
 #. translators: Time difference between two dates, in hours. %s: Number of
 #. hours.
@@ -27884,8 +27884,8 @@ msgstr[1] ""
 #: wp-includes/formatting.php:3889 wp-includes/functions.php:556
 msgid "%s hour"
 msgid_plural "%s hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "wákàtí %s"
+msgstr[1] "wákàtí %s"
 
 #: wp-includes/feed-rss2-comments.php:103
 msgid "Protected Comments: Please enter your password to view comments."
