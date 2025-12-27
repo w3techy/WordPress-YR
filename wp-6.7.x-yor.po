@@ -14,7 +14,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:223
 #: wp-admin/users.php:235
 msgid "Sorry, you are not allowed to edit users."
-msgstr "Má bínú, a kò fún ọ láyè láti ṣ'àtúnṣe àwọn olùdarí."
+msgstr "Má bínú, a kò fún ọ láyè láti ṣ'àtúnṣe àwọn olùlò."
 
 #: wp-includes/theme.json
 msgctxt "Font size name"
@@ -199,7 +199,7 @@ msgstr "Ṣàpèjúwe ní ọ̀rọ̀ díẹ̀ nípa ohun tí ojúlé náà dá 
 #: wp-includes/blocks/site-tagline/block.json
 msgctxt "block title"
 msgid "Site Tagline"
-msgstr "Àkọlé Ojúlé"
+msgstr "Àkọlé àpèjúwe Ojúlé"
 
 #: wp-includes/blocks/site-logo/block.json
 msgctxt "block description"
@@ -299,92 +299,92 @@ msgstr "Ọ̀rọ̀-ẹ̀kọ́"
 #: wp-includes/blocks/query/block.json
 msgctxt "block description"
 msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
-msgstr ""
+msgstr "Àkópọ̀ onítẹ̀síwájú tí ó gbà láàyè láti ṣàfihàn àwọn irú ìwé ránṣẹ́ tí ó dá lórí àwọn paramita ìbéèrè ọ̀tọ̀ọ̀tọ̀ àti àwọn ìṣètò àwòrán."
 
 #: wp-includes/blocks/query/block.json
 msgctxt "block title"
 msgid "Query Loop"
-msgstr ""
+msgstr "Ìbéèrè Loop"
 
 #: wp-includes/blocks/query-title/block.json
 msgctxt "block description"
 msgid "Display the query title."
-msgstr ""
+msgstr "Ṣàfihàn àkọlé ìbéèrè."
 
 #: wp-includes/blocks/query-title/block.json
 msgctxt "block title"
 msgid "Query Title"
-msgstr ""
+msgstr "Àkọlé ìbéèrè"
 
 #: wp-includes/blocks/query-pagination/block.json
 msgctxt "block description"
 msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
-msgstr ""
+msgstr "Ṣàfihàn lilọ kiri ojú-ewé sí àkójọpọ̀ àwọn ìwé ránṣẹ́ t’ókàn/t’óṣáájú, nígbà tí ó bá wulo."
 
 #: wp-includes/blocks/query-pagination/block.json
 msgctxt "block title"
 msgid "Pagination"
-msgstr ""
+msgstr "Ìwé-ojú-ewé"
 
 #: wp-includes/blocks/query-pagination-previous/block.json
 msgctxt "block description"
 msgid "Displays the previous posts page link."
-msgstr ""
+msgstr "Ṣàfihàn ọ̀Nà asopọ̀ ojú-ewé àwọn ìwé ránṣẹ́ tí ó ṣáájú."
 
 #: wp-includes/blocks/query-pagination-previous/block.json
 msgctxt "block title"
 msgid "Previous Page"
-msgstr ""
+msgstr "Ojú-ewé T’óṣáájú"
 
 #: wp-includes/blocks/query-pagination-numbers/block.json
 msgctxt "block description"
 msgid "Displays a list of page numbers for pagination."
-msgstr ""
+msgstr "Ṣàfihàn àtòjọ àwọn nọ́mbà ojú-ewé fún ìwé-ojú-ewé."
 
 #: wp-includes/blocks/query-pagination-numbers/block.json
 msgctxt "block title"
 msgid "Page Numbers"
-msgstr ""
+msgstr "Àwọn Nọ́mbà Ojú-ewé"
 
 #: wp-includes/blocks/query-pagination-next/block.json
 msgctxt "block description"
 msgid "Displays the next posts page link."
-msgstr ""
+msgstr "Ṣàfihàn ọ̀Nà asopọ̀ ojú-ewé àwọn ìwé ránṣẹ́ t’ókàn."
 
 #: wp-includes/blocks/query-pagination-next/block.json
 msgctxt "block title"
 msgid "Next Page"
-msgstr ""
+msgstr "Ojú-ewé T’ókàn"
 
 #: wp-includes/blocks/pullquote/block.json
 msgctxt "block description"
 msgid "Give special visual emphasis to a quote from your text."
-msgstr ""
+msgstr "Fi ìtẹnumọ́ àwòrán pàtàkì sí ọ̀rọ̀-ẹ̀kọ́ kan láti inú ọ̀rọ̀ rẹ."
 
 #: wp-includes/blocks/pullquote/block.json
 msgctxt "block title"
 msgid "Pullquote"
-msgstr ""
+msgstr "Fa Ọ̀rọ̀-ẹ̀kọ́"
 
 #: wp-includes/blocks/preformatted/block.json
 msgctxt "block description"
 msgid "Add text that respects your spacing and tabs, and also allows styling."
-msgstr ""
+msgstr "Fi ọ̀rọ̀ tí ó bọ̀wọ̀ fún ààyè àti tábù rẹ sí i, tí ó sì gbà láàyè fún ṣíṣe àṣà."
 
 #: wp-includes/blocks/preformatted/block.json
 msgctxt "block title"
 msgid "Preformatted"
-msgstr ""
+msgstr "Tí a ti ṣètò tẹ́lẹ̀"
 
 #: wp-includes/blocks/post-title/block.json
 msgctxt "block description"
 msgid "Displays the title of a post, page, or any other content-type."
-msgstr ""
+msgstr "Ṣàfihàn àkọlé ìwé kan, ojú-ewé, tàbí irú àkóónú mìíràn."
 
 #: wp-includes/blocks/post-title/block.json
 msgctxt "block title"
 msgid "Title"
-msgstr ""
+msgstr "Àkọlé"
 
 #: wp-includes/blocks/post-terms/block.json
 msgctxt "block description"
