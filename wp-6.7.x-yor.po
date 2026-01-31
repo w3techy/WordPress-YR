@@ -84,12 +84,12 @@ msgstr ""
 #: wp-includes/blocks/widget-group/block.json
 msgctxt "block title"
 msgid "Widget Group"
-msgstr ""
+msgstr "Àkójọpọ̀ Widget"
 
 #: wp-includes/blocks/video/block.json
 msgctxt "block title"
 msgid "Video"
-msgstr ""
+msgstr "Fídíò"
 
 #: wp-includes/blocks/verse/block.json
 msgctxt "block description"
@@ -104,12 +104,12 @@ msgstr ""
 #: wp-includes/blocks/text-columns/block.json
 msgctxt "block description"
 msgid "This block is deprecated. Please use the Columns block instead."
-msgstr ""
+msgstr "A ti fagilé block yii. Jọwọ lo block Columns dípò."
 
 #: wp-includes/blocks/text-columns/block.json
 msgctxt "block title"
 msgid "Text Columns (deprecated)"
-msgstr ""
+msgstr "Text Columns (ti fagilé)"
 
 #: wp-includes/blocks/term-description/block.json
 msgctxt "block description"
@@ -124,277 +124,277 @@ msgstr ""
 #: wp-includes/blocks/template-part/block.json
 msgctxt "block description"
 msgid "Edit the different global regions of your site, like the header, footer, sidebar, or create your own."
-msgstr ""
+msgstr "Ṣ'àtúnṣe àwọn agbègbè àgbáyé oríṣiríṣi tí ó wà lórí ojúlé rẹ, bíi header, footer, sidebar, tàbí ṣ'èdá tìrẹ."
 
 #: wp-includes/blocks/template-part/block.json
 msgctxt "block title"
 msgid "Template Part"
-msgstr ""
+msgstr "Apá Template"
 
 #: wp-includes/blocks/tag-cloud/block.json
 msgctxt "block description"
 msgid "A cloud of popular keywords, each sized by how often it appears."
-msgstr ""
+msgstr "Ìṣùpọ̀ àwọn ọ̀rọ̀-òpópónà gbajúmọ̀, ọ̀kọ̀ọ̀kan tí a ṣ'èdá ìwọ̀n rẹ̀ nípasẹ̀ bí ó ṣe hàn sí."
 
 #: wp-includes/blocks/tag-cloud/block.json
 msgctxt "block title"
 msgid "Tag Cloud"
-msgstr ""
+msgstr "Ìṣùpọ̀ Tag"
 
 #: wp-includes/blocks/table/block.json
 msgctxt "block description"
 msgid "Create structured content in rows and columns to display information."
-msgstr ""
+msgstr "Ṣ'èdá àkóónú tí a ṣ'ètò sí àwọn ọ̀wọ́ àti àwọn columns láti ṣàfihàn àlàyé."
 
 #: wp-includes/blocks/spacer/block.json
 msgctxt "block description"
 msgid "Add white space between blocks and customize its height."
-msgstr ""
+msgstr "Fi àlàfo funfun kún àárín àwọn blocks kí o sì ṣ'àdáni gíga rẹ̀."
 
 #: wp-includes/blocks/spacer/block.json
 msgctxt "block title"
 msgid "Spacer"
-msgstr ""
+msgstr "Aṣààyè"
 
 #: wp-includes/blocks/social-links/block.json
 msgctxt "block style label"
 msgid "Pill Shape"
-msgstr ""
+msgstr "Àwòrán Róóbótó"
 
 #: wp-includes/blocks/social-links/block.json
 msgctxt "block description"
 msgid "Display icons linking to your social profiles or sites."
-msgstr ""
+msgstr "Ṣàfihàn àwọn aami tí ó sopọ̀ mọ́ àwọn profaili tàbí ojúlé ìtàkùn rẹ."
 
 #: wp-includes/blocks/social-links/block.json
 msgctxt "block title"
 msgid "Social Icons"
-msgstr ""
+msgstr "Àwọn Aami ìtàkùn"
 
 #: wp-includes/blocks/social-link/block.json
 msgctxt "block description"
 msgid "Display an icon linking to a social profile or site."
-msgstr ""
+msgstr "Ṣàfihàn aami kan tí ó sopọ̀ mọ́ profaili tàbí ojúlé ìtàkùn."
 
 #: wp-includes/blocks/social-link/block.json
 msgctxt "block title"
 msgid "Social Icon"
-msgstr ""
+msgstr "Aami ìtàkùn"
 
 #: wp-includes/blocks/site-title/block.json
 msgctxt "block description"
 msgid "Displays the name of this site. Update the block, and the changes apply everywhere it’s used. This will also appear in the browser title bar and in search results."
-msgstr ""
+msgstr "Ṣàfihàn orúkọ ojúlé yìí. Mú block náà dojú ìwọ̀n, àwọn àtúnṣe yóò sì wáyé níbikíbi tí a bá ti lò ó. Èyí yóò tún hàn nínú pẹpẹ àkọlé browser àti nínú àwọn àbájáde ìṣàwárí."
 
 #: wp-includes/blocks/site-title/block.json
 msgctxt "block title"
 msgid "Site Title"
-msgstr ""
+msgstr "Àkọlé Ojúlé"
 
 #: wp-includes/blocks/site-tagline/block.json
 msgctxt "block description"
 msgid "Describe in a few words what the site is about. The tagline can be used in search results or when sharing on social networks even if it’s not displayed in the theme design."
-msgstr ""
+msgstr "Ṣàpèjúwe ní àwọn ọ̀rọ̀ díẹ̀ nípa ohun tí ojúlé náà jẹ́ nípa rẹ̀. A lè lo tagline nínú àwọn àbájáde ìṣàwárí tàbí nígbà tí a bá ń pín ní àwọn ìtàkùn àwùjọ kódà bí a kò bá ṣàfihàn rẹ̀ nínú àwòrán theme."
 
 #: wp-includes/blocks/site-tagline/block.json
 msgctxt "block title"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Tagline Ojúlé"
 
 #: wp-includes/blocks/site-logo/block.json
 msgctxt "block description"
 msgid "Display an image to represent this site. Update this block and the changes apply everywhere."
-msgstr ""
+msgstr "Ṣàfihàn àwòrán kan láti ṣojú fún ojúlé yìí. Mú block yìí dojú ìwọ̀n kí àwọn àtúnṣe sì wáyé níbikíbi."
 
 #: wp-includes/blocks/site-logo/block.json
 msgctxt "block title"
 msgid "Site Logo"
-msgstr ""
+msgstr "Logo Ojúlé"
 
 #: wp-includes/blocks/shortcode/block.json
 msgctxt "block description"
 msgid "Insert additional custom elements with a WordPress shortcode."
-msgstr ""
+msgstr "Fi àwọn èròjà àdáni àfikún pẹ̀lú WordPress shortcode kan."
 
 #: wp-includes/blocks/shortcode/block.json
 msgctxt "block title"
 msgid "Shortcode"
-msgstr ""
+msgstr "Shortcode"
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block style label"
 msgid "Dots"
-msgstr ""
+msgstr "Àwọn Aami"
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block style label"
 msgid "Wide Line"
-msgstr ""
+msgstr "Ìlà Fífẹ́"
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block keyword"
 msgid "divider"
-msgstr ""
+msgstr "ipinya"
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block keyword"
 msgid "horizontal-line"
-msgstr ""
+msgstr "ila petele"
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block description"
 msgid "Create a break between ideas or sections with a horizontal separator."
-msgstr ""
+msgstr "Ṣ'èdá ìsinmi láàrin àwọn èrò tàbí àwọn apá pẹ̀lú ìpínyà petele."
 
 #: wp-includes/blocks/separator/block.json
 msgctxt "block title"
 msgid "Separator"
-msgstr ""
+msgstr "Ìpínyà"
 
 #: wp-includes/blocks/search/block.json
 msgctxt "block description"
 msgid "Help visitors find your content."
-msgstr ""
+msgstr "Ràn àwọn àlejò lọ́wọ́ láti wá àkóónú rẹ."
 
 #: wp-includes/blocks/rss/block.json
 msgctxt "block keyword"
 msgid "feed"
-msgstr ""
+msgstr "feed"
 
 #: wp-includes/blocks/rss/block.json
 msgctxt "block keyword"
 msgid "atom"
-msgstr ""
+msgstr "atom"
 
 #: wp-includes/blocks/rss/block.json
 msgctxt "block description"
 msgid "Display entries from any RSS or Atom feed."
-msgstr ""
+msgstr "Ṣàfihàn àwọn ìfọwọ́lé láti inú RSS tàbí Atom feed èyíkéyìí."
 
 #: wp-includes/blocks/quote/block.json
 msgctxt "block style label"
 msgid "Plain"
-msgstr ""
+msgstr "Pẹtẹlẹ"
 
 #: wp-includes/blocks/quote/block.json
 msgctxt "block keyword"
 msgid "cite"
-msgstr ""
+msgstr "ìtọ́kasí"
 
 #: wp-includes/blocks/quote/block.json
 msgctxt "block keyword"
 msgid "blockquote"
-msgstr ""
+msgstr "ìfàyọlò"
 
 #: wp-includes/blocks/quote/block.json
 msgctxt "block description"
 msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
-msgstr ""
+msgstr "Fún ọ̀rọ̀ tí a fà yọ ní ìtẹnumọ́ àfojúrí. \"Ní fífa ọ̀rọ̀ àwọn ẹlòmíràn yọ, a ń fa ti ara wa yọ.\" — Julio Cortázar"
 
 #: wp-includes/blocks/quote/block.json
 msgctxt "block title"
 msgid "Quote"
-msgstr ""
+msgstr "Ìfàyọlò"
 
 #: wp-includes/blocks/query/block.json
 msgctxt "block description"
 msgid "An advanced block that allows displaying post types based on different query parameters and visual configurations."
-msgstr ""
+msgstr "Àgbékalè ìtẹ̀síwájú tí ó gbani láàyè láti ṣàfihàn àwọn irú ìwé àtẹ̀jáde lórí àwọn àṣàyàn ìbéèrè oríṣiríṣi àti àwọn ìṣètò àfojúrí."
 
 #: wp-includes/blocks/query/block.json
 msgctxt "block title"
 msgid "Query Loop"
-msgstr ""
+msgstr "Ìlọ́po Ìbéèrè"
 
 #: wp-includes/blocks/query-title/block.json
 msgctxt "block description"
 msgid "Display the query title."
-msgstr ""
+msgstr "Ṣàfihàn àkọlé ìbéèrè."
 
 #: wp-includes/blocks/query-title/block.json
 msgctxt "block title"
 msgid "Query Title"
-msgstr ""
+msgstr "Àkọlé Ìbéèrè"
 
 #: wp-includes/blocks/query-pagination/block.json
 msgctxt "block description"
 msgid "Displays a paginated navigation to next/previous set of posts, when applicable."
-msgstr ""
+msgstr "Ṣàfihàn ìtọ́sọ́nà ojú-ewé sí àkójọpọ̀ àwọn ìwé ìròyìn tí ó tẹ̀ lé/tẹ́lẹ̀, nígbà tí ó bá yẹ."
 
 #: wp-includes/blocks/query-pagination/block.json
 msgctxt "block title"
 msgid "Pagination"
-msgstr ""
+msgstr "Ìtọ́ka ojú-ewé"
 
 #: wp-includes/blocks/query-pagination-previous/block.json
 msgctxt "block description"
 msgid "Displays the previous posts page link."
-msgstr ""
+msgstr "Ṣàfihàn ọ̀nà ìsopọ̀ ojú-ewé àwọn ìwé ìròyìn tí ó ti kọjá."
 
 #: wp-includes/blocks/query-pagination-previous/block.json
 msgctxt "block title"
 msgid "Previous Page"
-msgstr ""
+msgstr "Ojú-ewé Tẹ́lẹ̀"
 
 #: wp-includes/blocks/query-pagination-numbers/block.json
 msgctxt "block description"
 msgid "Displays a list of page numbers for pagination."
-msgstr ""
+msgstr "Ṣàfihàn àkójọ àwọn nọ́mbà ojú-ewé fún ìtọ́ka ojú-ewé."
 
 #: wp-includes/blocks/query-pagination-numbers/block.json
 msgctxt "block title"
 msgid "Page Numbers"
-msgstr ""
+msgstr "Àwọn Nọ́mbà Ojú-ewé"
 
 #: wp-includes/blocks/query-pagination-next/block.json
 msgctxt "block description"
 msgid "Displays the next posts page link."
-msgstr ""
+msgstr "Ṣàfihàn ọ̀nà ìsopọ̀ ojú-ewé àwọn ìwé ìròyìn tí ó tẹ̀ lé."
 
 #: wp-includes/blocks/query-pagination-next/block.json
 msgctxt "block title"
 msgid "Next Page"
-msgstr ""
+msgstr "Ojú-ewé Tí Ó Tẹ̀ Lé"
 
 #: wp-includes/blocks/pullquote/block.json
 msgctxt "block description"
 msgid "Give special visual emphasis to a quote from your text."
-msgstr ""
+msgstr "Fún ìtẹnumọ́ àfojúrí pàtàkì sí ìfàyọ ọ̀rọ̀ kan láti inú ọ̀rọ̀ rẹ."
 
 #: wp-includes/blocks/pullquote/block.json
 msgctxt "block title"
 msgid "Pullquote"
-msgstr ""
+msgstr "Ìfàsílẹ̀ ọ̀rọ̀"
 
 #: wp-includes/blocks/preformatted/block.json
 msgctxt "block description"
 msgid "Add text that respects your spacing and tabs, and also allows styling."
-msgstr ""
+msgstr "Fi ọ̀rọ̀ kún un tí ó bọ̀wọ̀ fún àlàfo àti àwọn taabù rẹ, tí ó sì tún gbani láàyè láti ṣe styling."
 
 #: wp-includes/blocks/preformatted/block.json
 msgctxt "block title"
 msgid "Preformatted"
-msgstr ""
+msgstr "Ti a ti ṣètò tẹ́lẹ̀"
 
 #: wp-includes/blocks/post-title/block.json
 msgctxt "block description"
 msgid "Displays the title of a post, page, or any other content-type."
-msgstr ""
+msgstr "Ṣàfihàn àkọlé ìwé ìròyìn kan, ojú-ewé, tàbí irú àkóónú èyíkéyìí mìíràn."
 
 #: wp-includes/blocks/post-title/block.json
 msgctxt "block title"
 msgid "Title"
-msgstr ""
+msgstr "Àkọlé"
 
 #: wp-includes/blocks/post-terms/block.json
 msgctxt "block description"
 msgid "Post terms."
-msgstr ""
+msgstr "Àwọn ọ̀rọ̀ ìwé àtẹ̀jáde."
 
 #: wp-includes/blocks/post-terms/block.json
 msgctxt "block title"
 msgid "Post Terms"
-msgstr ""
+msgstr "Àwọn Ọ̀rọ̀ Ìwé Àtẹ̀jáde"
 
 #: wp-includes/blocks/post-template/block.json
 msgctxt "block description"
